@@ -1,0 +1,405 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+/* Navigation */
+.navbar {
+    background-color: #2c3e50;
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.nav-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.nav-menu a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+    font-weight: 500;
+}
+
+.nav-menu a:hover {
+    color: #3498db;
+}
+
+/* Main Container */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Sections */
+.section {
+    background: white;
+    padding: 3rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.section h2 {
+    color: #2c3e50;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5rem;
+}
+
+.section h3 {
+    color: #34495e;
+    font-size: 1.4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+/* Biography Section */
+.biography-content {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.profile-image {
+    flex-shrink: 0;
+}
+
+.profile-image img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #3498db;
+}
+
+.biography-text {
+    flex: 1;
+    min-width: 300px;
+}
+
+.biography-text p {
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+}
+
+/* CV Section */
+.cv-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.cv-section ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.cv-section li {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.cv-section li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #3498db;
+    font-weight: bold;
+}
+
+.cv-download {
+    margin-top: 1rem;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    background-color: #3498db;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.btn:hover {
+    background-color: #2980b9;
+}
+
+/* News Section */
+.news-content {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.news-item {
+    padding: 1rem;
+    border-left: 4px solid #3498db;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+}
+
+.news-date {
+    font-weight: bold;
+    color: #3498db;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+/* People Section */
+.people-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.people-subsection {
+    background-color: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 5px;
+}
+
+.people-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.people-list li {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    background-color: white;
+    border-radius: 4px;
+    border-left: 3px solid #3498db;
+}
+
+.affiliation {
+    color: #7f8c8d;
+    font-size: 0.95rem;
+}
+
+/* Publications Section */
+.publications-header {
+    margin-bottom: 2rem;
+}
+
+.scholar-config {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.scholar-config label {
+    font-weight: 600;
+}
+
+.scholar-config input {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+    flex: 1;
+    min-width: 200px;
+}
+
+.publications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.publication-item {
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    border-left: 4px solid #3498db;
+}
+
+.publication-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.publication-authors {
+    color: #555;
+    margin-bottom: 0.5rem;
+}
+
+.publication-venue {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.publication-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    flex-wrap: wrap;
+}
+
+.publication-link {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.publication-link:hover {
+    text-decoration: underline;
+}
+
+.instructions {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.instructions-help {
+    color: #95a5a6;
+    font-size: 0.9rem;
+}
+
+/* Projects Section */
+.projects-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.project-item {
+    padding: 1.5rem;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    border-left: 4px solid #3498db;
+}
+
+.project-item h3 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.project-description {
+    margin: 1rem 0;
+}
+
+.project-meta {
+    margin: 1rem 0;
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.project-link {
+    color: #3498db;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.project-link:hover {
+    text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.footer-content p {
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav-menu {
+        flex-direction: column;
+        gap: 0.5rem;
+        text-align: center;
+    }
+
+    .section {
+        padding: 1.5rem;
+    }
+
+    .biography-content {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .profile-image img {
+        width: 150px;
+        height: 150px;
+    }
+
+    .scholar-config {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .scholar-config input {
+        width: 100%;
+    }
+}
+
+/* Smooth Scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Loading Animation */
+#publications-loading {
+    text-align: center;
+    padding: 2rem;
+    color: #7f8c8d;
+}
