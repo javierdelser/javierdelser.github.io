@@ -31,22 +31,30 @@ document.addEventListener('DOMContentLoaded', function() {
     const publicationsLoading = document.getElementById('publications-loading');
     const scholarLink = document.getElementById('scholar-link');
 
+    // Sanitize Scholar ID to prevent XSS
+    function sanitizeScholarId(id) {
+        // Only allow alphanumeric characters, hyphens, and underscores
+        return id.replace(/[^a-zA-Z0-9_-]/g, '');
+    }
+
     // Load Scholar ID from localStorage if available
     const savedScholarId = localStorage.getItem('scholarId');
     if (savedScholarId) {
-        scholarIdInput.value = savedScholarId;
-        scholarLink.href = `https://scholar.google.com/citations?user=${savedScholarId}`;
+        const sanitizedId = sanitizeScholarId(savedScholarId);
+        scholarIdInput.value = sanitizedId;
+        scholarLink.href = `https://scholar.google.com/citations?user=${sanitizedId}`;
     }
 
     // Update Scholar link when input changes
     scholarIdInput.addEventListener('input', function() {
         if (this.value) {
-            scholarLink.href = `https://scholar.google.com/citations?user=${this.value}`;
+            const sanitizedId = sanitizeScholarId(this.value);
+            scholarLink.href = `https://scholar.google.com/citations?user=${sanitizedId}`;
         }
     });
 
     loadButton.addEventListener('click', function() {
-        const scholarId = scholarIdInput.value.trim();
+        const scholarId = sanitizeScholarId(scholarIdInput.value.trim());
         
         if (!scholarId) {
             alert('Please enter your Google Scholar ID');
@@ -65,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
         publicationsContent.innerHTML = '';
 
         try {
-            // Using Serpapi's Google Scholar API
+            // Using SerpApi's Google Scholar API
             // Note: You need to get your own API key from https://serpapi.com/
             // For demo purposes, we'll show how to structure the request
             
@@ -81,62 +89,76 @@ document.addEventListener('DOMContentLoaded', function() {
             
         } catch (error) {
             console.error('Error loading publications:', error);
-            publicationsContent.innerHTML = `
-                <div class="error-message">
-                    <p>Unable to automatically fetch publications. This could be due to:</p>
-                    <ul>
-                        <li>CORS restrictions from Google Scholar</li>
-                        <li>Missing API key for a proxy service</li>
-                    </ul>
-                    <p><strong>Solutions:</strong></p>
-                    <ol>
-                        <li>Sign up for a free API key at <a href="https://serpapi.com/" target="_blank">SerpApi</a> and add it to the script.js file</li>
-                        <li>Use the manual entry option below</li>
-                        <li>Visit your <a href="https://scholar.google.com/citations?user=${scholarId}" target="_blank">Google Scholar profile</a> directly</li>
-                    </ol>
-                    <button class="btn" onclick="showManualEntry()">Add Publications Manually</button>
-                </div>
+            // Create error message safely without innerHTML interpolation
+            const errorDiv = document.createElement('div');
+            errorDiv.className = 'error-message';
+            errorDiv.innerHTML = `
+                <p>Unable to automatically fetch publications. This could be due to:</p>
+                <ul>
+                    <li>CORS restrictions from Google Scholar</li>
+                    <li>Missing API key for a proxy service</li>
+                </ul>
+                <p><strong>Solutions:</strong></p>
+                <ol>
+                    <li>Sign up for a free API key at <a href="https://serpapi.com/" target="_blank">SerpApi</a> and add it to the script.js file</li>
+                    <li>Use the manual entry option below</li>
+                    <li>Visit your <a href="#" id="error-scholar-link" target="_blank">Google Scholar profile</a> directly</li>
+                </ol>
+                <button class="btn" onclick="showManualEntry()">Add Publications Manually</button>
             `;
+            publicationsContent.innerHTML = '';
+            publicationsContent.appendChild(errorDiv);
+            // Safely set the href after DOM manipulation
+            const errorScholarLink = document.getElementById('error-scholar-link');
+            errorScholarLink.href = `https://scholar.google.com/citations?user=${scholarId}`;
         } finally {
             publicationsLoading.style.display = 'none';
         }
     }
 
     function showPublicationsMessage(scholarId) {
-        publicationsContent.innerHTML = `
-            <div class="publications-info">
-                <h3>Google Scholar Integration Options</h3>
-                <p>To display your publications automatically, you have several options:</p>
-                
-                <div class="option-card">
-                    <h4>Option 1: Use SerpApi (Recommended)</h4>
-                    <ol>
-                        <li>Sign up for a free account at <a href="https://serpapi.com/" target="_blank">SerpApi</a></li>
-                        <li>Get your API key from the dashboard</li>
-                        <li>Add your API key to the <code>script.js</code> file (line 62)</li>
-                        <li>Reload the page and click "Load Publications"</li>
-                    </ol>
-                    <p>SerpApi offers 100 free searches per month.</p>
-                </div>
+        // Create the message safely
+        const infoDiv = document.createElement('div');
+        infoDiv.className = 'publications-info';
+        infoDiv.innerHTML = `
+            <h3>Google Scholar Integration Options</h3>
+            <p>To display your publications automatically, you have several options:</p>
+            
+            <div class="option-card">
+                <h4>Option 1: Use SerpApi (Recommended)</h4>
+                <ol>
+                    <li>Sign up for a free account at <a href="https://serpapi.com/" target="_blank">SerpApi</a></li>
+                    <li>Get your API key from the dashboard</li>
+                    <li>Add your API key to the <code>script.js</code> file (line 73)</li>
+                    <li>Reload the page and click "Load Publications"</li>
+                </ol>
+                <p>SerpApi offers 100 free searches per month.</p>
+            </div>
 
-                <div class="option-card">
-                    <h4>Option 2: Manual Entry</h4>
-                    <p>You can manually add your publications by editing the HTML file.</p>
-                    <button class="btn" onclick="showManualEntry()">Show Manual Entry Format</button>
-                </div>
+            <div class="option-card">
+                <h4>Option 2: Manual Entry</h4>
+                <p>You can manually add your publications by editing the HTML file.</p>
+                <button class="btn" onclick="showManualEntry()">Show Manual Entry Format</button>
+            </div>
 
-                <div class="option-card">
-                    <h4>Option 3: Use Google Scholar Embed</h4>
-                    <p>Visit your profile directly:</p>
-                    <a href="https://scholar.google.com/citations?user=${scholarId}" target="_blank" class="btn">View on Google Scholar</a>
-                </div>
+            <div class="option-card">
+                <h4>Option 3: Use Google Scholar Embed</h4>
+                <p>Visit your profile directly:</p>
+                <a href="#" id="scholar-embed-link" target="_blank" class="btn">View on Google Scholar</a>
+            </div>
 
-                <div class="example-publications">
-                    <h4>Example Publication Format</h4>
-                    <p style="font-style: italic; color: #7f8c8d;">Below is an example of how publications will be displayed:</p>
-                </div>
+            <div class="example-publications">
+                <h4>Example Publication Format</h4>
+                <p style="font-style: italic; color: #7f8c8d;">Below is an example of how publications will be displayed:</p>
             </div>
         `;
+        
+        publicationsContent.innerHTML = '';
+        publicationsContent.appendChild(infoDiv);
+        
+        // Safely set the href after DOM manipulation
+        const embedLink = document.getElementById('scholar-embed-link');
+        embedLink.href = `https://scholar.google.com/citations?user=${scholarId}`;
 
         // Add example publications
         const examplePubs = [
