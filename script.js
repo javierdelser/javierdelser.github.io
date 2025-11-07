@@ -104,13 +104,18 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li>Use the manual entry option below</li>
                     <li>Visit your <a href="#" id="error-scholar-link" target="_blank">Google Scholar profile</a> directly</li>
                 </ol>
-                <button class="btn" onclick="showManualEntry()">Add Publications Manually</button>
+                <button class="btn" id="error-manual-entry-btn">Add Publications Manually</button>
             `;
             publicationsContent.innerHTML = '';
             publicationsContent.appendChild(errorDiv);
             // Safely set the href after DOM manipulation
             const errorScholarLink = document.getElementById('error-scholar-link');
             errorScholarLink.href = `https://scholar.google.com/citations?user=${scholarId}`;
+            // Add event listener for manual entry button
+            const errorManualBtn = document.getElementById('error-manual-entry-btn');
+            if (errorManualBtn) {
+                errorManualBtn.addEventListener('click', showManualEntry);
+            }
         } finally {
             publicationsLoading.style.display = 'none';
         }
@@ -138,7 +143,7 @@ document.addEventListener('DOMContentLoaded', function() {
             <div class="option-card">
                 <h4>Option 2: Manual Entry</h4>
                 <p>You can manually add your publications by editing the HTML file.</p>
-                <button class="btn" onclick="showManualEntry()">Show Manual Entry Format</button>
+                <button class="btn" id="show-manual-entry-btn">Show Manual Entry Format</button>
             </div>
 
             <div class="option-card">
@@ -159,6 +164,12 @@ document.addEventListener('DOMContentLoaded', function() {
         // Safely set the href after DOM manipulation
         const embedLink = document.getElementById('scholar-embed-link');
         embedLink.href = `https://scholar.google.com/citations?user=${scholarId}`;
+        
+        // Add event listener for manual entry button
+        const manualEntryBtn = document.getElementById('show-manual-entry-btn');
+        if (manualEntryBtn) {
+            manualEntryBtn.addEventListener('click', showManualEntry);
+        }
 
         // Add example publications
         const examplePubs = [
@@ -208,11 +219,12 @@ document.addEventListener('DOMContentLoaded', function() {
 // Manual entry helper
 function showManualEntry() {
     const publicationsContent = document.getElementById('publications-content');
-    publicationsContent.innerHTML = `
-        <div class="manual-entry-info">
-            <h3>Manual Publication Entry</h3>
-            <p>To manually add your publications, edit the <code>index.html</code> file and replace the publications section content with your own publications using this format:</p>
-            <pre style="background-color: #f4f4f4; padding: 1rem; border-radius: 5px; overflow-x: auto;"><code>&lt;div class="publication-item"&gt;
+    const manualDiv = document.createElement('div');
+    manualDiv.className = 'manual-entry-info';
+    manualDiv.innerHTML = `
+        <h3>Manual Publication Entry</h3>
+        <p>To manually add your publications, edit the <code>index.html</code> file and replace the publications section content with your own publications using this format:</p>
+        <pre style="background-color: #f4f4f4; padding: 1rem; border-radius: 5px; overflow-x: auto;"><code>&lt;div class="publication-item"&gt;
     &lt;div class="publication-title"&gt;Your Paper Title&lt;/div&gt;
     &lt;div class="publication-authors"&gt;Author1, Author2, Author3&lt;/div&gt;
     &lt;div class="publication-venue"&gt;Journal/Conference Name, Year&lt;/div&gt;
@@ -222,10 +234,18 @@ function showManualEntry() {
         &lt;a href="paper-url" target="_blank" class="publication-link"&gt;View Paper&lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;</code></pre>
-            <button class="btn" onclick="location.reload()">Back to Publications</button>
-        </div>
+        <button class="btn" id="back-to-publications-btn">Back to Publications</button>
     `;
+    publicationsContent.innerHTML = '';
+    publicationsContent.appendChild(manualDiv);
+    
+    // Add event listener for back button
+    const backBtn = document.getElementById('back-to-publications-btn');
+    if (backBtn) {
+        backBtn.addEventListener('click', () => location.reload());
+    }
 }
+
 
 // Add CSS for the info cards dynamically
 const style = document.createElement('style');
