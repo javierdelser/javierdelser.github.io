@@ -12,6 +12,17 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
+// Profile image fallback
+document.addEventListener('DOMContentLoaded', function() {
+    const profileImage = document.getElementById('profile-image');
+    if (profileImage) {
+        profileImage.onerror = function() {
+            this.onerror = null;
+            this.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="200" height="200"%3E%3Crect width="200" height="200" fill="%23ddd"/%3E%3Ctext x="50%25" y="50%25" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="20" fill="%23999"%3EProfile%3C/text%3E%3C/svg%3E';
+        };
+    }
+});
+
 // Google Scholar Publications Loader
 document.addEventListener('DOMContentLoaded', function() {
     const scholarIdInput = document.getElementById('scholar-id');
@@ -62,11 +73,6 @@ document.addEventListener('DOMContentLoaded', function() {
             // const apiKey = 'YOUR_SERPAPI_KEY'; // Get from https://serpapi.com/
             // const response = await fetch(`https://serpapi.com/search.json?engine=google_scholar_author&author_id=${scholarId}&api_key=${apiKey}`);
             
-            // Option 2: Using a CORS proxy with Google Scholar (less reliable)
-            // Note: This may not work due to CORS and Google's restrictions
-            const corsProxy = 'https://api.allorigins.win/raw?url=';
-            const scholarUrl = encodeURIComponent(`https://scholar.google.com/citations?user=${scholarId}&hl=en`);
-            
             // Since direct fetching from Google Scholar is restricted, we'll provide
             // a fallback that shows instructions for manual entry or using an API
             
@@ -107,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <ol>
                         <li>Sign up for a free account at <a href="https://serpapi.com/" target="_blank">SerpApi</a></li>
                         <li>Get your API key from the dashboard</li>
-                        <li>Add your API key to the <code>script.js</code> file (line 45)</li>
+                        <li>Add your API key to the <code>script.js</code> file (line 62)</li>
                         <li>Reload the page and click "Load Publications"</li>
                     </ol>
                     <p>SerpApi offers 100 free searches per month.</p>
