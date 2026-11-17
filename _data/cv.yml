@@ -1,0 +1,240 @@
+# CV data for the /cv/ page (RenderCV-style YAML rendered by the al_folio_cv plugin).
+# Consolidated from: CVA (Oct 2026), CVA + cover letter for the SCIE/BBVA National Computer Science Awards (Mar 2026),
+# BRTA research trajectory report (2023) and the extended Spanish CV (2019).
+
+cv:
+  name: Javier Del Ser Lorente
+  label: Research Professor & AI Director (TECNALIA) · Distinguished Research Scientist (UPV/EHU)
+  email: javier.delser@tecnalia.com
+  location: Bilbao, Basque Country, Spain
+  website: https://javierdelser.github.io
+  summary: >
+    Researcher in Artificial Intelligence, Machine Learning and Deep Learning, with a focus on Trustworthy and Responsible AI
+    (explainability, fairness, robustness, AI safety, human-centric AI) and Evolutionary Computation / Swarm Intelligence.
+    Clarivate Highly Cited Researcher (2025, 2026), listed since 2021 in the Stanford/Elsevier top-2% ranking in AI,
+    member of the Scientific Panel advising the European Commission on the implementation of the EU AI Act (2026),
+    author of 220+ JCR journal articles (85% Q1, 35% D1) and 230+ conference papers, 20 supervised PhD theses, 9 patents,
+    and 65+ research projects and technology transfer contracts. Citations (Google Scholar, Oct 2026): 45,405; h-index 74; i10-index 271.
+
+  sections:
+    Experience:
+      - company: TECNALIA Research & Innovation
+        position: Research Professor & AI Director (Principal Investigator), DIGITAL Unit – Core AI
+        location: Derio, Spain
+        url: https://www.tecnalia.com
+        start_date: 2011-01
+        end_date: present
+        highlights:
+          - Leads the strategic research agenda in Applied Artificial Intelligence; coordinator of the Joint Research Lab in Applied AI (JRL-A2I) with UPV/EHU and BCAM.
+          - Former Technology Director of the OPTIMA (Optimization, Modeling and Analytics) business area, leading a team of 22 researchers (approx. 2.2M€ yearly contracting).
+          - Senior Researcher and Project Manager (2011–2012).
+
+      - company: University of the Basque Country (UPV/EHU)
+        position: Distinguished Research Scientist, Department of Mathematics, Faculty of Science and Technology
+        location: Leioa, Spain
+        url: https://www.ehu.eus
+        start_date: 2024-12
+        end_date: present
+        highlights:
+          - Member of the MATHMODE research group (excellence group, category A, Basque Government).
+
+      - company: University of Natural Resources and Life Sciences (BOKU)
+        position: Visiting Professor
+        location: Vienna, Austria
+        start_date: 2024-10
+        end_date: present
+
+      - company: University of Granada
+        position: Distinguished Visiting Professor
+        location: Granada, Spain
+        url: https://www.ugr.es
+        start_date: 2024-01
+        end_date: present
+        highlights:
+          - Director of the TECNALIA Chair in Artificial Intelligence at the University of Granada.
+
+      - company: University of the Basque Country (UPV/EHU)
+        position: Adjunct Professor (Profesor Asociado), Department of Communications Engineering, Bilbao School of Engineering
+        location: Bilbao, Spain
+        start_date: 2015-10
+        end_date: 2024-12
+        highlights:
+          - Courses in the BSc in Telecommunication Technology Engineering (distributed programming, network deployment and management, advanced programming, multimedia services).
+
+      - company: University of Málaga
+        position: External Lecturer, Master in Advanced Data Analytics / Big Data Analytics
+        location: Málaga, Spain
+        start_date: 2017-01
+        end_date: present
+        highlights:
+          - Best overall rated lecturer by the students in all six editions of the master programme.
+
+      - company: Basque Center for Applied Mathematics (BCAM)
+        position: External Scientific Member (by invitation), formerly Visiting Researcher in the Data Science group
+        location: Bilbao, Spain
+        url: https://www.bcamath.org
+
+      - company: Fundación Robotiker (now part of TECNALIA)
+        position: Senior Research Scientist, TELECOM Unit
+        location: Zamudio, Spain
+        start_date: 2008-10
+        end_date: 2010-12
+        highlights:
+          - Torres Quevedo post-doctoral contract (Spanish Ministry of Science and Innovation, 2009).
+
+      - company: Mondragon University
+        position: Professor and Researcher, Higher Polytechnic School
+        location: Mondragón, Spain
+        start_date: 2008-02
+        end_date: 2008-09
+
+      - company: CEIT – Centro de Estudios e Investigaciones Técnicas de Gipuzkoa
+        position: Post-doctoral Researcher, Department of Electronics and Communications
+        location: San Sebastián, Spain
+        start_date: 2006-10
+        end_date: 2008-01
+        highlights:
+          - Torres Quevedo post-doctoral contract (2008).
+
+      - company: CEIT and University of Navarra (TECNUN)
+        position: PhD Researcher (Iñaki Goenaga Foundation fellowship) and Teaching Assistant / Associate Lecturer
+        location: San Sebastián, Spain
+        start_date: 2003-11
+        end_date: 2007-12
+        highlights:
+          - Fellowship awarded to the top 32 graduates of 2003 in the Basque Country.
+          - Taught Data Transmission and Information Theory & Coding (2003–2007).
+
+    Education:
+      - institution: Universidad de Alcalá
+        area: Information and Communication Technologies
+        studyType: PhD (European Doctorate)
+        location: Alcalá, Spain
+        date: 2013
+        highlights:
+          - 'Thesis: "Study and Development of Advanced Meta-heuristic Approaches for Resource Allocation in Intelligent Communication Systems".'
+          - "Advisors: Prof. Sancho Salcedo-Sanz and Prof. José Antonio Portilla-Figueras."
+          - Sobresaliente Cum Laude and Extraordinary PhD Award (Premio Extraordinario de Doctorado).
+
+      - institution: University of Navarra (TECNUN)
+        area: Control Engineering and Industrial Electronics
+        studyType: PhD
+        location: San Sebastián, Spain
+        date: 2006
+        highlights:
+          - 'Thesis: "Iterative Joint Source-Channel Coding Techniques for Single and Multiterminal Sources in Communication Networks" (defended 23/10/2006).'
+          - "Advisor: Prof. Pedro M. Crespo Bofill."
+          - Sobresaliente Cum Laude (unanimous). Diploma of Advanced Studies (DEA) in 2005 with a grade of 9.5/10.
+
+      - institution: University of the Basque Country (UPV/EHU)
+        area: Telecommunication Engineering
+        studyType: MSc (Ingeniero Superior de Telecomunicación)
+        location: Bilbao, Spain
+        date: 2003
+        highlights:
+          - 'Final project: "Design and Implementation of a System for the Measurement of Flicker Noise in Power Transmission Networks" (9/10).'
+
+    Honors and Awards:
+      - title: Highly Cited Researcher 2026 (Computer Science)
+        date: 2026
+        awarder: Clarivate
+        summary: Selection confirmed; list published in November 2026.
+      - title: Highly Cited Researcher 2025 (Computer Science)
+        date: 2025
+        awarder: Clarivate
+        summary: Top 0.1% most influential researchers worldwide; one of the two researchers in Spain in the Computer Science category.
+      - title: Annual Best Paper Award, Information Fusion
+        date: 2025
+        awarder: Elsevier / Information Fusion
+        summary: For "Explainable Artificial Intelligence (XAI) 2.0 – A manifesto of open challenges and interdisciplinary research directions".
+      - title: Best Paper Award, IJCNN 2024
+        date: 2024
+        awarder: International Joint Conference on Neural Networks (IJCNN)
+        summary: Among more than 1,000 presented papers, for "Balancing Performance, Efficiency and Robustness in Open-World Machine Learning via Evolutionary Multi-objective Model Compression".
+      - title: BRTA Prize to the Best Research Trajectory
+        date: 2023
+        awarder: Basque Research and Technology Alliance (BRTA)
+        summary: Awarded among more than 3,400 researchers.
+      - title: Outstanding Research Paper (High Commendation) Award
+        date: 2023
+        awarder: IEEE Intelligent Transportation Systems Magazine
+        summary: For "Road Traffic Forecasting – Recent Advances and New Challenges".
+      - title: Certificate of Appreciation
+        date: 2023
+        awarder: IEEE Intelligent Transportation Systems Society
+        summary: For contributions to the IEEE Intelligent Transportation Systems Society.
+      - title: Top 2% most influential researchers in Artificial Intelligence
+        date: 2021
+        awarder: Stanford University / Elsevier
+        summary: Listed every year since 2021, in both the single-year and career-long editions.
+      - title: Best Paper Award Finalist, IEEE CEC 2020
+        date: 2020
+        awarder: IEEE Congress on Evolutionary Computation
+      - title: Extraordinary PhD Award (Premio Extraordinario de Doctorado)
+        date: 2015
+        awarder: Universidad de Alcalá
+        summary: Ranked first of the doctoral cohort.
+      - title: IEEE Senior Member
+        date: 2012
+        awarder: Institute of Electrical and Electronics Engineers (IEEE)
+      - title: '"Talento de Bizkaia" Prize'
+        date: 2011
+        awarder: Bizkaia:Xede / Bizkaia Talent Foundation
+      - title: Torres Quevedo post-doctoral grants
+        date: 2009
+        awarder: Spanish Ministry of Science and Innovation
+        summary: Awarded twice (2008 and 2009).
+      - title: Travel grant, Summer Research Institute
+        date: 2005
+        awarder: École Polytechnique Fédérale de Lausanne (EPFL)
+      - title: Iñaki Goenaga PhD Fellowship
+        date: 2003
+        awarder: Iñaki Goenaga Foundation of Technology Centres
+        summary: Awarded to the top 32 graduates of 2003 in the Basque Country.
+
+    Accreditations:
+      - label: 2024
+        details: Established (independent) Researcher, R3.
+      - label: 2020
+        details: Full Professor (Catedrático de Universidad) and Associate Professor (Profesor Titular), ANECA.
+      - label: 2015
+        details: Profesor Agregado and Profesor Adjunto, UNIBASQ (Basque Agency for Quality of the University System).
+
+    Research Stays:
+      - label: 2017–2018
+        details: University of Málaga, Department of Languages and Computer Science (10 weeks), multi-objective optimization with Prof. A. J. Nebro and Prof. J. M. García-Nieto.
+      - label: 2015
+        details: Yachay EP, Quito, Ecuador (4 months), leading an international tender on Big Data infrastructure and teaching AI to local researchers.
+      - label: 2010–2012
+        details: VTT Technical Research Centre of Finland, Oulu (approx. 5 months in total), soft computing for cognitive radio with Dr. Marja Matinmikko.
+      - label: 2007
+        details: University of Delaware, USA (5 months, post-doctoral), joint source-channel coding with Prof. Javier Garcia-Frias.
+
+    Editorial Boards:
+      - label: Area Editor
+        details: Information Fusion (Elsevier, Q1/D1).
+      - label: Associate Editor
+        details: Swarm and Evolutionary Computation (Elsevier); Cognitive Computation (Springer); IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Emerging Topics in Artificial Intelligence; Memetic Computing. Former AE of the International Journal of Bio-Inspired Computation, Wireless Communications and Mobile Computing, and Algorithms.
+      - label: Guest Editor
+        details: More than 20 special issues in D1/Q1 journals, including Information Fusion, Future Generation Computer Systems, Applied Soft Computing, Swarm and Evolutionary Computation, IEEE T-ITS, IEEE ITS Magazine and Journal of Computational Science.
+      - label: Reviewer
+        details: More than 40 journals.
+
+    Professional Service:
+      - bullet: Member of the Scientific Panel of independent experts on AI advising the European Commission on the implementation of the EU AI Act (2026).
+      - bullet: Member of the expert team that drafted the Spanish R&D&I Strategy in Artificial Intelligence (Government of Spain, 2019).
+      - bullet: "General Chair: IEEE ITSC 2023, IDC 2018, ICHSA 2017 and MOBILIGHT 2011 (all in Bilbao). Technical Program Co-Chair: IEEE ITSC 2018, CAEPIA 2018."
+      - bullet: Member of the organizing committees of more than 100 conferences and workshops; organizer of more than 20 special sessions and workshops at IEEE CEC, GECCO, IEEE SSCI, IEEE ITSC, ICCS and PAAMS.
+      - bullet: Expert evaluator for 15 international R&D funding agencies (e.g. Spanish State Research Agency, Independent Research Fund Denmark, National Science Centre Poland, Italian MIUR, Argentina's ANPCyT, CHIST-ERA, A*STAR Singapore, Qatar University).
+      - bullet: Member of more than 30 PhD committees in Spain and abroad (Sorbonne Université ISIR/ENSTA Paris, NTU Singapore, University of Trento, among others).
+      - bullet: Individual supporter and TECNALIA point of contact for ELLIS, CLAIRE and BDVA; former elected member of the Steering Board of the Net!Works European Technology Platform (2012).
+
+    Languages:
+      - name: Spanish
+        summary: Native
+      - name: Basque
+        summary: Fluent
+      - name: English
+        summary: Fluent (C1)
+      - name: German
+        summary: Basic

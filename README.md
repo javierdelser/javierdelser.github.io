@@ -1,176 +1,47 @@
-# Academic Website - Javier Delser
+# javierdelser.github.io
 
-A modern, responsive academic website featuring biography, CV, news, collaborators, publications, and projects sections. This website is designed to be hosted on GitHub Pages and includes integration with Google Scholar for automatic publication listing.
+Personal academic website of **Prof. Dr. Javier Del Ser**, published at <https://javierdelser.github.io>.
+It is built with Jekyll and the [al-folio](https://github.com/alshedivat/al-folio) template (v1.x).
 
-## 🌟 Features
+## Where things live
 
-- **Biography Section**: Professional profile with image and description
-- **Curriculum Vitae**: Education, employment, and awards
-- **News**: Latest updates and announcements
-- **Collaborators & Students**: Current and past students, research collaborators
-- **Publications**: Google Scholar integration with three options:
-  - SerpApi integration for automatic fetching
-  - Manual entry option
-  - Direct link to Google Scholar profile
-- **Projects**: Research projects with funding information
-- **Responsive Design**: Works on desktop, tablet, and mobile devices
-- **Secure**: XSS protection and input sanitization
-
-## 🚀 Quick Start
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/javierdelser/javierdelser.github.io.git
-   cd javierdelser.github.io
-   ```
-
-2. **Customize your content**
-   - Edit `index.html` to add your personal information
-   - Update biography, CV, news, collaborators, and projects sections
-
-3. **Add your profile picture**
-   - Add a `profile.jpg` file to the root directory (200x200px recommended)
-
-4. **Add your CV**
-   - Add a `cv.pdf` file to the root directory
-
-5. **Deploy to GitHub Pages**
-   - Push your changes to the `main` branch
-   - Enable GitHub Pages in repository settings
-   - Your site will be available at `https://yourusername.github.io`
-
-## 📚 Google Scholar Integration
-
-### Option 1: SerpApi (Recommended for Automatic Fetching)
-
-1. Sign up for a free account at [SerpApi](https://serpapi.com/)
-2. Get your API key from the dashboard (100 free searches/month)
-3. Edit `script.js` at line 73:
-   ```javascript
-   const apiKey = 'YOUR_SERPAPI_KEY';
-   ```
-4. Uncomment the fetch code in the `loadPublications` function
-5. Enter your Google Scholar ID on the website and click "Load Publications"
-
-### Option 2: Manual Entry
-
-Edit `index.html` and add your publications in the publications section:
-
-```html
-<div class="publication-item">
-    <div class="publication-title">Your Paper Title</div>
-    <div class="publication-authors">Author1, Author2, Author3</div>
-    <div class="publication-venue">Journal/Conference Name, Year</div>
-    <div class="publication-meta">
-        <span>Year: 2024</span>
-        <span>Citations: 10</span>
-        <a href="paper-url" target="_blank" class="publication-link">View Paper</a>
-    </div>
-</div>
-```
-
-### Option 3: Direct Link
-
-Simply enter your Google Scholar ID in the input field, and users can click the link to view your profile directly on Google Scholar.
-
-## 🎨 Customization
-
-### Colors
-
-Edit `styles.css` to change the color scheme:
-
-- Primary color: `#3498db` (blue)
-- Dark background: `#2c3e50`
-- Hover states and accents
-
-### Layout
-
-The website uses a single-page design with smooth scrolling navigation. All sections are in `index.html` and can be reordered or removed as needed.
-
-### Fonts
-
-The website uses system fonts for optimal performance:
-```css
-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-```
-
-## 📝 Content Sections
-
-### Biography
-Located in the `#biography` section. Update the text and add your profile image.
-
-### Curriculum Vitae
-Located in the `#cv` section. Includes:
-- Education
-- Employment
-- Awards & Honors
-- CV download button
-
-### News
-Located in the `#news` section. Add news items with dates.
-
-### Collaborators & Students
-Located in the `#collaborators` section. Organized into:
-- Current Students
-- Past Students
-- Collaborators
+| Content                                     | File(s)                                                            |
+| ------------------------------------------- | ------------------------------------------------------------------ |
+| Home page (bio, highlights, profile photo)  | `_pages/about.md`, `assets/img/prof_pic.jpg`                       |
+| News items shown on the home page           | `_news/YYYY-MM-DD-slug.md`                                         |
+| Publications (all of them)                  | `_bibliography/papers.bib`                                         |
+| Research lines (cards under /research/)     | `_projects/*.md`                                                   |
+| Funded projects, contracts, patents         | `_pages/projects.md`                                               |
+| PhD students and collaborators              | `_pages/team.md`                                                   |
+| Media / press coverage and photos           | `_pages/press.md`, `assets/img/press/`                             |
+| Awards, talks & service, teaching, software | `_pages/awards.md`, `service.md`, `teaching.md`, `repositories.md` |
+| CV page                                     | `_data/cv.yml`                                                     |
+| CV PDF                                      | `assets/pdf/Javier_Del_Ser_CV.pdf` (generated, see below)          |
+| Social / profile links                      | `_data/socials.yml`                                                |
+| Site settings                               | `_config.yml`                                                      |
 
 ### Publications
-Located in the `#publications` section. Configure Google Scholar integration or add publications manually.
 
-### Projects
-Located in the `#projects` section. Add project cards with descriptions, funding, and links.
+- Add new papers as BibTeX entries in `_bibliography/papers.bib`. Write the author as `Del Ser, Javier` so that the name is highlighted.
+- Optional al-folio fields: `abbr` (venue badge), `doi`, `pdf`, `code`, `html`, `selected = {true}` (shows the paper on the home page), and `award_name` / `award` (award button).
+- Entry type controls the section: `@article` (journals), `@inproceedings` (conferences), `@incollection` (book chapters), `@book` (edited books).
 
-## 🔒 Security
+### CV PDF
 
-This website implements security best practices:
-- Input sanitization for Google Scholar ID (alphanumeric, hyphens, underscores only)
-- XSS protection through safe DOM manipulation
-- No external dependencies to reduce attack surface
-- Passes CodeQL security scans
-
-## 🛠️ Local Development
-
-Test the website locally using Python's built-in HTTP server:
+After editing `_data/cv.yml` (or changing the `selected` papers), regenerate the PDF with:
 
 ```bash
-python3 -m http.server 8000
+python3 bin/make_cv_pdf.py   # needs PyYAML and Google Chrome / Chromium
 ```
 
-Then visit `http://localhost:8000` in your browser.
+## Local preview
 
-## 📦 Files Structure
-
-```
-.
-├── index.html      # Main HTML file with all content
-├── styles.css      # Styling and responsive design
-├── script.js       # JavaScript for interactivity and Scholar integration
-├── README.md       # This file
-├── .gitignore      # Git ignore rules
-├── profile.jpg     # Your profile picture (add this)
-└── cv.pdf         # Your CV PDF (add this)
+```bash
+bundle install
+bundle exec jekyll serve      # http://localhost:4000
 ```
 
-## 🌐 Browser Support
+## Deployment
 
-- Chrome/Edge (latest)
-- Firefox (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome)
-
-## 📄 License
-
-This template is free to use for academic purposes. Feel free to customize it for your needs.
-
-## 🤝 Contributing
-
-Found a bug or have a suggestion? Feel free to open an issue or submit a pull request.
-
-## 📧 Contact
-
-Update the contact information in the footer section of `index.html` with your email address.
-
----
-
-Built with ❤️ for academics by academics
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and publishes it to the `gh-pages` branch.
+Under **Settings → Pages**, the source must be **Deploy from a branch → `gh-pages`**. Under **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**.

@@ -1,0 +1,11 @@
+github_users:
+  - javierdelser
+
+repo_description_lines_max: 2
+
+github_repos:
+  - jMetal/jMetalPy
+  - javierdelser/GPAIS-audit
+  - javierdelser/AiGAS-OSR-dEVL
+  - javierdelser/MTL-PINN
+  - javierdelser/QoE_XAI_UQ
