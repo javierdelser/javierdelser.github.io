@@ -1,12 +1,12 @@
 ---
 layout: page
-title: awards
+title: Awards
 permalink: /awards/
 description: Awards, distinctions and recognitions.
 nav: false
 ---
 
-## Research recognition
+## <i class="fa-solid fa-trophy"></i> Research recognition
 
 | Year      | Distinction                                                                                                                                                                        |
 | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ nav: false
 | 2011      | **"Talento de Bizkaia" Prize**, Bizkaia:Xede Foundation.                                                                                                                           |
 | 2006–2013 | Listed in _Who's Who in Science and Engineering_ (2006) and _Who's Who in the World_ (2007–2013), Marquis.                                                                         |
 
-## Best paper awards
+## <i class="fa-solid fa-award"></i> Best paper awards
 
 | Year | Award                                                                                                                                                                                                  |
 | :--- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,13 +29,19 @@ nav: false
 | 2023 | **Outstanding Research Paper (High Commendation) Award, _IEEE Intelligent Transportation Systems Magazine_**: "Road Traffic Forecasting: Recent Advances and New Challenges".                          |
 | 2020 | **Best Paper Award Finalist, IEEE CEC 2020**: "Multifactorial Cellular Genetic Algorithm (MFCGA): Algorithmic Design, Performance Comparison and Genetic Transferability Analysis".                    |
 
-## Service awards
+## <i class="fa-solid fa-medal"></i> Competitions
+
+| Year | Award                                                                                                                                                                                                                                                                                                                                                                                   |
+| :--- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023 | **First Prize, Datathon of the Cervera AI4ES Network of Excellence** (CDTI), Challenge B on the incidence and evolution of viral diseases (Department of Health, Generalitat de Catalunya), with the TECNALIA team of Jesús L. Lobo, Ibai Laña and Jon Ander Rivera. [Details](https://scienceportal.tecnalia.com/p/en/prizes/first-prize-ai4es-cervera-network-of-excellence-datathon) |
+
+## <i class="fa-solid fa-hands-holding"></i> Service awards
 
 | Year | Award                                                                                                               |
 | :--- | :------------------------------------------------------------------------------------------------------------------ |
 | 2023 | **Certificate of Appreciation**, IEEE Intelligent Transportation Systems Society, for contributions to the Society. |
 
-## Academic distinctions, fellowships and accreditations
+## <i class="fa-solid fa-graduation-cap"></i> Academic distinctions, fellowships and accreditations
 
 | Year       | Distinction                                                                                                                   |
 | :--------- | :---------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks & service
+title: Talks & Service
 permalink: /service/
 description: Keynotes and invited talks, editorial boards, conference organization, evaluation panels and professional networks.
 nav: false
@@ -8,14 +8,15 @@ toc:
   sidebar: left
 ---
 
-## Policy and advisory roles
+## <i class="fa-solid fa-landmark-dome"></i> Policy and advisory roles
 
 - **Scientific Panel of independent experts on AI**, advising the European Commission on implementing the **EU AI Act** (one of 60 members, 2026).
 - Member of the expert team that drafted the **Spanish R&D&I Strategy in Artificial Intelligence** for the Government of Spain (2019).
+- Expert consulted in [The Millennium Project](https://www.millennium-project.org/transition-from-artificial-narrow-to-artificial-general-intelligence-governance/) international study on the **transition from Artificial Narrow to Artificial General Intelligence governance** (AGI experts and thought leaders, Phase 1).
 - Coordinator of the research plan for the telecommunications sector in the **National Strategic R&D Plan of the Government of Colombia** (2012–2013).
 - Individual supporter and TECNALIA point of contact for **ELLIS** (European Laboratory for Learning and Intelligent Systems), **CLAIRE** (Confederation of Laboratories for AI Research in Europe) and **BDVA** (Big Data Value Association). Former elected member of the Steering Board of the **Net!Works** European Technology Platform (2012) and of the IASTED Technical Committee on Telecommunications.
 
-## Keynotes and invited talks
+## <i class="fa-solid fa-microphone"></i> Keynotes and invited talks
 
 - **Keynote**, Genetic and Evolutionary Computation Conference (**GECCO 2025**): _Evolutionary Computation as a Path to Safe, Trustworthy, and Responsible General-Purpose Artificial Intelligence_.
 - _From Shallow to Deep Learning: a historical perspective from feature engineering to hierarchical representation learning_, Universidad Autónoma de Madrid, Spain (2018).
@@ -30,7 +31,7 @@ toc:
 - **Keynote**: _On the Application of Advanced Multiobjective and Grouping Heuristics to Localization, Positioning and Network Planning_, 2nd International Workshop on Multiphysics, Multiscale and Optimization Problems, Leioa, Spain (2011).
 - _Iterative Joint Source-Channel Coding Techniques for Single and Multiterminal Sources in Communication Networks_, Universidad Carlos III de Madrid, Spain (2007).
 
-## Editorial boards
+## <i class="fa-solid fa-pen-nib"></i> Editorial boards
 
 - **Area Editor**: _Information Fusion_ (Elsevier).
 - **Associate Editor**: _Swarm and Evolutionary Computation_ (Elsevier), _Cognitive Computation_ (Springer), _IEEE Transactions on Intelligent Transportation Systems_, _IEEE Transactions on Emerging Topics in Artificial Intelligence_, _Memetic Computing_ (Springer).
@@ -49,7 +50,7 @@ toc:
   - _Soft Computing Approaches in the Design of Energy-Efficient Wireless Systems_, Applied Soft Computing (2012).
 - Reviewer for more than 40 journals.
 
-## Edited books
+## <i class="fa-solid fa-book-bookmark"></i> Edited books
 
 - J. Del Ser, E. Villar-Rodríguez, E. Osaba (eds.), _Swarm Intelligence – New Perspectives and Applications_, IntechOpen, 2019.
 - J. Del Ser, E. Osaba (eds.), _Nature-inspired Methods for Stochastic, Robust and Dynamic Optimization_, IntechOpen, 2018.
@@ -57,7 +58,7 @@ toc:
 - J. Del Ser (ed.), _Recent Advances on Meta-Heuristics and Their Application to Real Scenarios_, IntechOpen, 2013.
 - J. Del Ser (ed.), _Recent Advances on Video Coding_, IntechOpen, 2011.
 
-## Conference organization
+## <i class="fa-solid fa-calendar-check"></i> Conference organization
 
 I have served on the organizing committees of more than 100 conferences and workshops. Selected roles:
 
@@ -69,7 +70,7 @@ I have served on the organizing committees of more than 100 conferences and work
 - Advisory, publicity, panel and track chair roles at IDC 2019, AICT, ICDT, CTRQ, MOBIMEDIA, MACOM, CHINACOM, ICN, ICSTA and ICWMC (2010–2011).
 - Program committee member of GECCO, IEEE CEC, IEEE ITSC, IDEAL, IDC, EUSIPCO, IEEE ICC, IEEE GLOBECOM, IEEE VTC, IEEE PIMRC, IEEE WCNC and many others.
 
-## Evaluation of research
+## <i class="fa-solid fa-scale-balanced"></i> Evaluation of research
 
 - Expert evaluator for **15 international R&D funding agencies**, including the Spanish State Research Agency (Retos programme), the Junta de Extremadura (Spain), the Independent Research Fund Denmark, the National Science Centre (Poland), the Italian Ministry of Education, University and Research (MIUR, ST panel), Argentina's National Agency for the Promotion of Science and Technology (PICT), FONCYT, the European Commission's CHIST-ERA ERA-NET, A*STAR (Singapore) and Qatar University.
 - Member of more than **30 PhD committees** at UPV/EHU, Mondragon University, TECNUN, Universidad de Cantabria, Universidad Autónoma de Madrid, Universidad de Málaga, Universidad de Alcalá, Universidad de Granada, Universidad Carlos III de Madrid, Universidad Politécnica de Madrid, Sorbonne Université (ISIR) / ENSTA Paris, NTU Singapore and the University of Trento, among others.

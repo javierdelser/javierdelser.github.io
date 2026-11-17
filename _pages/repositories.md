@@ -1,40 +1,31 @@
 ---
 layout: page
 permalink: /repositories/
-title: software
+title: Software
 description: Open-source software and code accompanying my publications.
 nav: false
 ---
 
-I encourage my students to release the code behind their research, and most recent papers from the group come with a public repository. Highlights include **[jMetalPy](https://github.com/jMetal/jMetalPy)**, a Python framework for multi-objective optimization with metaheuristics, and the code for recent work on auditing general-purpose AI, open-set recognition over data streams, multitask physics-informed neural networks, and interpretable, uncertainty-aware QoE estimation. Preprints are also available on arXiv and in [TECNALIA's institutional repository](https://dsp.tecnalia.com/).
+I encourage my students to release the code behind their research, and most recent papers from the group come with a public repository. Preprints are also available on arXiv and in [TECNALIA's institutional repository](https://dsp.tecnalia.com/).
 
-{% if site.data.repositories.github_users %}
+## <i class="fa-solid fa-star"></i> Featured frameworks
 
-## GitHub users
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
-
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
+<div class="row">
+  <div class="col-md-6 mb-3">
+    <div class="card h-100 p-3">
+      <h5 class="card-title"><i class="fa-solid fa-diagram-project"></i> <a href="https://vamos-optimization.org/" target="_blank">VAMOS</a></h5>
+      <p class="card-text">A scientific Python framework for fast, configurable and accessible multi-objective optimization: compare algorithms, solve custom problems and run reproducible optimization studies.</p>
+      <p class="card-text small mb-0"><a href="https://vamos-optimization.org/" target="_blank">Website</a> · <a href="https://github.com/vamos-optimization/VAMOS" target="_blank">GitHub</a> · <i>Neurocomputing</i>, 2026</p>
+    </div>
   </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
+  <div class="col-md-6 mb-3">
+    <div class="card h-100 p-3">
+      <h5 class="card-title"><i class="fa-solid fa-dna"></i> <a href="https://github.com/jMetal/jMetalPy" target="_blank">jMetalPy</a></h5>
+      <p class="card-text">A Python framework for multi-objective optimization with metaheuristics, widely used for teaching and research in evolutionary computation.</p>
+      <p class="card-text small mb-0"><a href="https://github.com/jMetal/jMetalPy" target="_blank">GitHub</a> · <i>Swarm and Evolutionary Computation</i>, 2019</p>
+    </div>
+  </div>
+</div>
 
 {% if site.data.repositories.github_repos %}
 

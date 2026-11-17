@@ -14,7 +14,7 @@ cv:
     Clarivate Highly Cited Researcher (2025, 2026), listed since 2021 in the Stanford/Elsevier top-2% ranking in AI,
     member of the Scientific Panel advising the European Commission on the implementation of the EU AI Act (2026),
     author of 220+ JCR journal articles (85% Q1, 35% D1) and 230+ conference papers, 20 supervised PhD theses, 9 patents,
-    and 65+ research projects and technology transfer contracts. Citations (Google Scholar, Oct 2026): 45,405; h-index 74; i10-index 271.
+    and 65+ research projects and technology transfer contracts. Citations (Google Scholar, Nov 2026): 46,644; h-index 75; i10-index 272.
 
   sections:
     Experience:
@@ -25,7 +25,7 @@ cv:
         start_date: 2011-01
         end_date: present
         highlights:
-          - Leads the strategic research agenda in Applied Artificial Intelligence; coordinator of the Joint Research Lab in Applied AI (JRL-A2I) with UPV/EHU and BCAM.
+          - Leads the strategic research agenda in Applied Artificial Intelligence; Scientific Director of the Joint Research Lab in Applied AI (JRL-A2I) with UPV/EHU and BCAM.
           - Former Technology Director of the OPTIMA (Optimization, Modeling and Analytics) business area, leading a team of 22 researchers (approx. 2.2M€ yearly contracting).
           - Senior Researcher and Project Manager (2011–2012).
 
@@ -159,6 +159,10 @@ cv:
         date: 2023
         awarder: IEEE Intelligent Transportation Systems Magazine
         summary: For "Road Traffic Forecasting – Recent Advances and New Challenges".
+      - title: First Prize, AI4ES Datathon (Cervera Network of Excellence)
+        date: 2023
+        awarder: CDTI
+        summary: Challenge on the incidence and evolution of viral diseases (Department of Health, Generalitat de Catalunya).
       - title: Certificate of Appreciation
         date: 2023
         awarder: IEEE Intelligent Transportation Systems Society

@@ -3,14 +3,19 @@ layout: page
 title: Open-World & Robust Machine Learning
 description: Out-of-distribution detection, open-set recognition, uncertainty and robustness for safe deployment of ML models.
 importance: 3
-category: trustworthy AI
+category: Trustworthy AI
 permalink: /research/open-world-ml/
 related_publications: true
+img: assets/img/research/research_openworld.jpg
 ---
+
+<div class="mb-4">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_openworld.jpg" class="img-fluid rounded z-depth-1" alt="Known classes and out-of-distribution samples" %}
+</div>
 
 Deployed models constantly face inputs unlike their training data. This line develops methods that let ML models **know what they do not know**: detecting out-of-distribution (OOD) inputs, recognizing unknown classes in data streams, quantifying uncertainty, and balancing performance, efficiency and robustness.
 
-**Main contributions**
+<i class="fa-solid fa-circle-question"></i> **Main contributions**
 
 - A unifying review of how to manage the unknown in machine learning {% cite barcinablanco2024managing %}.
 - OOD detection for spiking neural networks with built-in explainability {% cite martinezseras2023novel %}, and robustness analysis of object detectors against OOD data {% cite martinezseras2026inherent %}.

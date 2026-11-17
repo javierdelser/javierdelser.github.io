@@ -1,9 +1,7 @@
-github_users:
-  - javierdelser
-
 repo_description_lines_max: 2
 
 github_repos:
+  - vamos-optimization/VAMOS
   - jMetal/jMetalPy
   - javierdelser/GPAIS-audit
   - javierdelser/AiGAS-OSR-dEVL

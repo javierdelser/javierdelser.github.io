@@ -1,0 +1,168 @@
+# Top-20 international collaborators (outside Spain), ranked by number of joint publications
+# in _bibliography/papers.bib (snapshot November 2026). Affiliation = most frequent affiliation in
+# joint papers (OpenAlex). lat/lon = institution location, used by the map on the Team page.
+international:
+  - name: Khan Muhammad
+    papers: 44
+    institution: Sungkyunkwan University
+    city: Seoul
+    country: South Korea
+    lat: 37.5878
+    lon: 126.9930
+    topics: Deep learning for vision, autonomous driving, smart healthcare
+  - name: Iztok Fister
+    papers: 19
+    institution: University of Maribor
+    city: Maribor
+    country: Slovenia
+    lat: 46.5590
+    lon: 15.6380
+    topics: Swarm intelligence, nature-inspired optimization
+  - name: Guang Yang
+    papers: 15
+    institution: Imperial College London
+    city: London
+    country: United Kingdom
+    lat: 51.4988
+    lon: -0.1749
+    topics: Medical imaging, trustworthy medical AI, AI autophagy
+  - name: Tanveer Hussain
+    papers: 14
+    institution: Sejong University
+    city: Seoul
+    country: South Korea
+    lat: 37.5503
+    lon: 127.0731
+    topics: Video analytics, scene understanding
+  - name: Xin-She Yang
+    papers: 9
+    institution: Middlesex University London
+    city: London
+    country: United Kingdom
+    lat: 51.5898
+    lon: -0.2283
+    topics: Bio-inspired computation, metaheuristics
+  - name: Mingfu Xiong
+    papers: 9
+    institution: Wuhan Textile University
+    city: Wuhan
+    country: China
+    lat: 30.4730
+    lon: 114.3960
+    topics: Person re-identification, computer vision
+  - name: Marja Matinmikko-Blue
+    papers: 9
+    institution: University of Oulu (formerly VTT)
+    city: Oulu
+    country: Finland
+    lat: 65.0593
+    lon: 25.4663
+    topics: Cognitive radio, spectrum management
+  - name: Babak Hossein Khalaj
+    papers: 9
+    institution: Sharif University of Technology
+    city: Tehran
+    country: Iran
+    lat: 35.7036
+    lon: 51.3515
+    topics: Wireless communications, relay networks
+  - name: Sung Wook Baik
+    papers: 8
+    institution: Sejong University
+    city: Seoul
+    country: South Korea
+    lat: 37.5503
+    lon: 127.0731
+    topics: Video analytics, energy forecasting
+  - name: Eleni I. Vlahogianni
+    papers: 8
+    institution: National Technical University of Athens
+    city: Athens
+    country: Greece
+    lat: 37.9785
+    lon: 23.7845
+    topics: Traffic forecasting, intelligent transportation
+  - name: Andreas Holzinger
+    papers: 8
+    institution: BOKU University
+    city: Vienna
+    country: Austria
+    lat: 48.2370
+    lon: 16.3330
+    topics: Explainable and human-centric AI, counterfactuals
+  - name: Nikola Kasabov
+    papers: 7
+    institution: Auckland University of Technology
+    city: Auckland
+    country: New Zealand
+    lat: -36.8532
+    lon: 174.7665
+    topics: Spiking neural networks, evolving systems
+  - name: Javier Garcia-Frias
+    papers: 7
+    institution: University of Delaware
+    city: Newark, DE
+    country: United States
+    lat: 39.6780
+    lon: -75.7506
+    topics: Joint source-channel coding
+  - name: Mostafa Shahriari
+    papers: 6
+    institution: Software Competence Center Hagenberg
+    city: Hagenberg
+    country: Austria
+    lat: 48.3686
+    lon: 14.5146
+    topics: Deep learning for geophysical inversion
+  - name: Miia Mustonen
+    papers: 6
+    institution: VTT Technical Research Centre of Finland
+    city: Oulu
+    country: Finland
+    lat: 65.0580
+    lon: 25.4680
+    topics: Cognitive radio, spectrum sharing
+  - name: Mehdi Bennis
+    papers: 6
+    institution: University of Oulu
+    city: Oulu
+    country: Finland
+    lat: 65.0593
+    lon: 25.4663
+    topics: Millimeter-wave and VR communications, edge learning
+  - name: Carlos Torres-Verdín
+    papers: 6
+    institution: The University of Texas at Austin
+    city: Austin, TX
+    country: United States
+    lat: 30.2849
+    lon: -97.7341
+    topics: Deep learning for borehole resistivity inversion
+  - name: Ponnuthurai N. Suganthan
+    papers: 5
+    institution: Qatar University
+    city: Doha
+    country: Qatar
+    lat: 25.3755
+    lon: 51.4889
+    topics: Evolutionary computation, randomization-based neural networks
+  - name: Zhifan Gao
+    papers: 5
+    institution: Sun Yat-sen University
+    city: Guangzhou
+    country: China
+    lat: 23.0960
+    lon: 113.2988
+    topics: Medical image analysis, domain generalization
+  - name: M. Tanveer
+    papers: 5
+    institution: Indian Institute of Technology Indore
+    city: Indore
+    country: India
+    lat: 22.5203
+    lon: 75.9207
+    topics: Ensemble deep learning, Alzheimer's disease diagnosis
+
+# Other frequent international co-authors (5 joint publications): Zong Woo Geem (Gachon University, South Korea),
+# Iztok Fister Jr. (University of Maribor, Slovenia),
+# Amin Ullah (Sejong University, South Korea), Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London, United Kingdom).

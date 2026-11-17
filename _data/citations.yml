@@ -1,2 +1,2380 @@
-# citations data for al-folio (template demo entries removed)
-{}
+metadata:
+  last_updated: '2026-11-17'
+  source: https://scholar.google.com/citations?user=p_wY0zUAAAAJ
+papers:
+  ZzlSgRqYykMC:
+    title: 'Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI'
+    year: '2020'
+    citations: 18632
+  KWzIFqRkAKkC:
+    title: 'Explainable Artificial Intelligence (XAI): What we know and what is left to attain Trustworthy Artificial Intelligence'
+    year: '2023'
+    citations: 2789
+  Zh0EY9V9P6UC:
+    title: 'Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation'
+    year: '2023'
+    citations: 1514
+  z8nqeaKD1nsC:
+    title: 'Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions'
+    year: '2024'
+    citations: 1158
+  Ade32sEp0pkC:
+    title: 'Deep learning for safe autonomous driving: Current challenges and future directions'
+    year: '2020'
+    citations: 993
+  NXb4pA-qfm4C:
+    title: 'Data fusion and machine learning for industrial prognosis: Trends and perspectives towards Industry 4.0'
+    year: '2019'
+    citations: 967
+  IaI1MmNe2tcC:
+    title: 'A practical tutorial on bagging and boosting based ensembles for machine learning: Algorithms, software tools, performance study, practical perspectives and opportunities'
+    year: '2020'
+    citations: 731
+  cWzG1nlazyYC:
+    title: 'Bio-inspired computation: Where we stand and what''s next'
+    year: '2019'
+    citations: 711
+  PoWvk5oyLR8C:
+    title: 'Road traffic forecasting: Recent advances and new challenges'
+    year: '2018'
+    citations: 546
+  NDuN12AVoxsC:
+    title: A tutorial on the design, experimentation and application of metaheuristic algorithms to real-world optimization problems
+    year: '2021'
+    citations: 521
+  pyW8ca7W8N0C:
+    title: A survey on applications of the harmony search algorithm
+    year: '2013'
+    citations: 484
+  nRpfm8aw39MC:
+    title: 'Deep learning for multigrade brain tumor classification in smart healthcare systems: A prospective survey'
+    year: '2020'
+    citations: 482
+  Ehil0879vHcC:
+    title: 'Spiking neural networks and online learning: An overview and perspectives'
+    year: '2020'
+    citations: 446
+  QyXJ3EUuO1IC:
+    title: 'Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey'
+    year: '2021'
+    citations: 405
+  fQNAKQ3IYiAC:
+    title: A critical review of robustness in power grids using complex networks concepts
+    year: '2015'
+    citations: 385
+  8dzOF9BpDQoC:
+    title: 'Deep neural networks in the cloud: Review, applications, challenges and research directions'
+    year: '2023'
+    citations: 339
+  QYdC8u9Cj1oC:
+    title: 'jMetalPy: a Python Framework for Multi-Objective Optimization with Metaheuristics'
+    year: '2019'
+    citations: 339
+  jL-93Qbq4QoC:
+    title: 'Comprehensive taxonomies of nature-and bio-inspired optimization: Inspiration versus algorithmic behavior, critical analysis recommendations'
+    year: '2020'
+    citations: 333
+  69ZgNCALVd0C:
+    title: Swin transformer for fast MRI
+    year: '2022'
+    citations: 321
+  27LrP4qxOz0C:
+    title: 'Vision-based semantic segmentation in scene understanding for autonomous driving: Recent achievements, challenges, and outlooks'
+    year: '2022'
+    citations: 317
+  OU6Ihb5iCvQC:
+    title: 'The coral reefs optimization algorithm: a novel metaheuristic for efficiently solving optimization problems'
+    year: '2014'
+    citations: 316
+  YsrPvlHIBpEC:
+    title: Information fusion as an integrative cross-cutting enabler to achieve robust, explainable, and trustworthy medical artificial intelligence
+    year: '2022'
+    citations: 282
+  hCrLmN-GePgC:
+    title: 'Big Data for transportation and mobility: recent advances, trends and challenges'
+    year: '2018'
+    citations: 273
+  _5tno0g5mFcC:
+    title: Activity recognition using temporal optical flow convolutional features and multilayer LSTM
+    year: '2018'
+    citations: 237
+  pAkWuXOU-OoC:
+    title: A prescription of methodological guidelines for comparing bio-inspired optimization algorithms
+    year: '2021'
+    citations: 233
+  dQ2og3OwTAUC:
+    title: 'Millimeter-wave V2V communications: Distributed association and beam alignment'
+    year: '2017'
+    citations: 233
+  An6A6Jpfc1oC:
+    title: 'Data harmonisation for information fusion in digital healthcare: A state-of-the-art systematic review, meta-analysis and future research directions'
+    year: '2022'
+    citations: 218
+  mUJArPsKIAAC:
+    title: Artificial Intelligence of Things-assisted two-stream neural network for anomaly detection in surveillance Big Video Data
+    year: '2022'
+    citations: 204
+  t-hv7AR41mYC:
+    title: 'General Purpose Artificial Intelligence Systems (GPAIS): Properties, definition, taxonomy, societal implications and responsible governance'
+    year: '2024'
+    citations: 190
+  D_tqNUsBuKoC:
+    title: 'Deep learning for brain age estimation: A systematic review'
+    year: '2023'
+    citations: 190
+  U_HPUtbDl20C:
+    title: 'Deepsmoke: Deep learning model for smoke detection and segmentation in outdoor environments'
+    year: '2021'
+    citations: 189
+  S16KYo8Pm5AC:
+    title: A discrete and improved bat algorithm for solving a medical goods distribution problem with pharmacological waste collection
+    year: '2019'
+    citations: 182
+  hvmnpdAuIbkC:
+    title: 'ChatAgri: Exploring potentials of ChatGPT on cross-linguistic agricultural text classification'
+    year: '2023'
+    citations: 181
+  1yWc8FF-_SYC:
+    title: 'Deep learning for road traffic forecasting: Does it make a difference?'
+    year: '2021'
+    citations: 180
+  HtS1dXgVpQUC:
+    title: 'Online heart monitoring systems on the internet of health things environments: A survey, a reference model and an outlook'
+    year: '2020'
+    citations: 178
+  r0BpntZqJG4C:
+    title: A new grouping genetic algorithm for clustering problems
+    year: '2012'
+    citations: 174
+  jtI9f0ekYq0C:
+    title: A review of deep learning‐based approaches for deepfake content detection
+    year: '2024'
+    citations: 173
+  37UQlXuwjP4C:
+    title: On generating trustworthy counterfactual explanations
+    year: '2024'
+    citations: 171
+  DUooU5lO8OsC:
+    title: 'Taming the latency in multi-user VR 360°: A QoE-aware deep learning-aided multicast framework'
+    year: '2020'
+    citations: 166
+  T_ojBgVMvoEC:
+    title: 'Panchromatic and multispectral image fusion for remote sensing and earth observation: Concepts, taxonomy, literature review, evaluation methodologies and challenges ahead'
+    year: '2023'
+    citations: 162
+  oPLKW5k6eA4C:
+    title: 'Analysis, characterization, prediction, and attribution of extreme atmospheric events with machine learning and deep learning techniques: a review'
+    year: '2024'
+    citations: 152
+  tHtfpZlB6tUC:
+    title: Prediction of Alzheimer's progression based on multimodal deep-learning-based fusion and visual explainability of time-series data
+    year: '2023'
+    citations: 152
+  e_rmSamDkqQC:
+    title: 'On the imputation of missing data for road traffic forecasting: New insights and novel techniques'
+    year: '2018'
+    citations: 150
+  MIg0yeAD4ggC:
+    title: 'Fuzz-ClustNet: Coupled fuzzy clustering and deep neural networks for Arrhythmia detection from ECG signals'
+    year: '2023'
+    citations: 148
+  5qfkUJPXOUwC:
+    title: A discrete water cycle algorithm for solving the symmetric and asymmetric traveling salesman problem
+    year: '2018'
+    citations: 142
+  ruyezt5ZtCIC:
+    title: Weighted strategies to guide a multi-objective evolutionary algorithm for multi-UAV mission planning
+    year: '2019'
+    citations: 134
+  1Ye0OR6EYb4C:
+    title: 'Evolutionary multitask optimization: a methodological overview, challenges, and future research directions'
+    year: '2022'
+    citations: 125
+  WqliGbK-hY8C:
+    title: 'The role of local urban traffic and meteorological conditions in air pollution: A data-based case study in Madrid, Spain'
+    year: '2016'
+    citations: 124
+  1taIhTC69MYC:
+    title: A robust cyberattack detection approach using optimal features of SCADA power systems in smart grids
+    year: '2020'
+    citations: 114
+  uDGL6kOW6j0C:
+    title: 'From data to actions in intelligent transportation systems: A prescription of functional requirements for model actionability'
+    year: '2021'
+    citations: 111
+  AHdEip9mkN0C:
+    title: 'DeepReS: A deep learning-based video summarization strategy for resource-constrained industrial surveillance scenarios'
+    year: '2019'
+    citations: 111
+  PVjk1bu6vJQC:
+    title: Evolving spiking neural networks for online learning over drifting data streams
+    year: '2018'
+    citations: 107
+  Xz60mAmATU4C:
+    title: Region-based evidential deep learning to quantify uncertainty and improve robustness of brain tumor segmentation
+    year: '2023'
+    citations: 104
+  GFxP56DSvIMC:
+    title: Intelligent embedded vision for summarization of multiview videos in IIoT
+    year: '2019'
+    citations: 103
+  9c2xU6iGI7YC:
+    title: Adaptive long-term traffic state estimation with evolving spiking neural networks
+    year: '2019'
+    citations: 102
+  -yGd096yOn8C:
+    title: 'Visual tracking in complex scenes: A location fusion mechanism based on the combination of multiple visual cognition flows'
+    year: '2023'
+    citations: 101
+  LK8CI43ZvvMC:
+    title: Intelligent underwater object detection and image restoration for autonomous underwater vehicles
+    year: '2023'
+    citations: 98
+  zCSUwVk65WsC:
+    title: 'Traveling salesman problem: a perspective review of recent research and new results with bio-inspired metaheuristics'
+    year: '2020'
+    citations: 98
+  2v_ZtQDX9iAC:
+    title: Fuzzy attention neural network to tackle discontinuity in airway segmentation
+    year: '2023'
+    citations: 97
+  NxmKEeNBbOMC:
+    title: Accurate long-term air temperature prediction with machine learning models and data reduction techniques
+    year: '2023'
+    citations: 95
+  sszUF3NjhM4C:
+    title: Human short long-term cognitive memory mechanism for visual monitoring in IoT-assisted smart cities
+    year: '2021'
+    citations: 95
+  sfnaS5RM6jYC:
+    title: 'Fuzzy deep learning for the diagnosis of Alzheimer''s disease: Approaches and challenges'
+    year: '2024'
+    citations: 94
+  AZju0d2GQJ0C:
+    title: 'A tutorial on federated learning from theory to practice: Foundations, software frameworks, exemplary use cases, and selected trends'
+    year: '2024'
+    citations: 89
+  dBIO0h50nwkC:
+    title: 'Bioinspired computational intelligence and transportation systems: a long road ahead'
+    year: '2019'
+    citations: 89
+  OBSaB-F7qqsC:
+    title: 'Randomization-based machine learning in renewable energy prediction problems: Critical literature review, new results and perspectives'
+    year: '2022'
+    citations: 87
+  738O_yMBCRsC:
+    title: A coral reefs optimization algorithm with harmony search operators for accurate wind speed prediction
+    year: '2015'
+    citations: 86
+  TlpoogIpr_IC:
+    title: Persistence in complex systems
+    year: '2022'
+    citations: 84
+  RXiHnyRawswC:
+    title: 'A Design Framework for operationalizing Trustworthy Artificial Intelligence in Healthcare: Requirements, Tradeoffs and Challenges for its Clinical Adoption'
+    year: '2025'
+    citations: 82
+  sJsF-0ZLhtgC:
+    title: A deep learning approach to the inversion of borehole resistivity measurements
+    year: '2020'
+    citations: 82
+  BrOSOlqYqPUC:
+    title: 'A survey on extremism analysis using natural language processing: definitions, literature review, trends and challenges'
+    year: '2023'
+    citations: 79
+  LgRImbQfgY4C:
+    title: Unsupervised anomaly detection in stream data with online evolving spiking neural networks
+    year: '2021'
+    citations: 79
+  wyM6WWKXmoIC:
+    title: 'Responsible artificial intelligence systems: A roadmap to society’s trust through trustworthy AI, auditability, accountability, and governance'
+    year: '2025'
+    citations: 77
+  RoXSNcbkSzsC:
+    title: Adaptive multifactorial evolutionary optimization for multitask reinforcement learning
+    year: '2021'
+    citations: 77
+  gV6rEsy15s0C:
+    title: '‘Bio-inspired computation: Where we stand and what’s next,’’Swarm Evol'
+    year: '2019'
+    citations: 76
+  m4fbC6XIj1kC:
+    title: Ensemble deep learning for Alzheimer’s disease characterization and estimation
+    year: '2024'
+    citations: 75
+  rTD5ala9j4wC:
+    title: 'Energy-aware multi-objective job shop scheduling optimization with metaheuristics in manufacturing industries: a critical survey, results, and perspectives'
+    year: '2022'
+    citations: 75
+  Ak0FvsSvgGUC:
+    title: 'Community detection in networks using bio-inspired optimization: Latest developments, new results and perspectives with a selection of recent meta-heuristics'
+    year: '2020'
+    citations: 74
+  sA9dB-pw3HoC:
+    title: Large-kernel attention for 3D medical image segmentation
+    year: '2024'
+    citations: 73
+  3NQIlFlcGxIC:
+    title: 'Fuzzy logic in surveillance big video data analysis: Comprehensive review, challenges, and research directions'
+    year: '2021'
+    citations: 73
+  mWEH9CqjF64C:
+    title: 'EvoPruneDeepTL: An evolutionary pruning model for transfer learning based deep neural networks'
+    year: '2023'
+    citations: 71
+  WZBGuue-350C:
+    title: 'Device-free people counting in IoT environments: New insights, results, and open challenges'
+    year: '2018'
+    citations: 69
+  yqoGN6RLRZoC:
+    title: Cognitive workload classification using eye-tracking and EEG data
+    year: '2016'
+    citations: 68
+  RtRctb2lSbAC:
+    title: 'Ensemble deep learning in speech signal tasks: A review'
+    year: '2023'
+    citations: 66
+  7BrZ7Jt4UNcC:
+    title: 'Vision-based personalized wireless capsule endoscopy for smart healthcare: taxonomy, literature review, opportunities and challenges'
+    year: '2020'
+    citations: 66
+  2VqYfGB8ITEC:
+    title: Novelty search for global optimization
+    year: '2019'
+    citations: 63
+  TQgYirikUcIC:
+    title: A tutorial on H. 264/SVC scalable video coding and its tradeoff between quality, coding efficiency and performance
+    year: '2011'
+    citations: 63
+  5MTHONV0fEkC:
+    title: Multiview summarization and activity recognition meet edge computing in IoT environments
+    year: '2020'
+    citations: 61
+  KNjnJ3z-R6IC:
+    title: 'Bio-inspired computation for big data fusion, storage, processing, learning and visualization: state of the art and future directions'
+    year: '2025'
+    citations: 60
+  70eg2SAEIzsC:
+    title: A multi-objective grouping harmony search algorithm for the optimal distribution of 24-hour medical emergency units
+    year: '2013'
+    citations: 60
+  DyXnQzXoVgIC:
+    title: Multimodal audio-visual information fusion using canonical-correlated graph neural network for energy-efficient speech enhancement
+    year: '2023'
+    citations: 59
+  v1_lew4L6wgC:
+    title: Error control and loss functions for the deep learning inversion of borehole resistivity measurements
+    year: '2021'
+    citations: 59
+  ipzZ9siozwsC:
+    title: Detection of non-technical losses in smart meter data based on load curve profiling and time series analysis
+    year: '2017'
+    citations: 59
+  yTLRzDEmwhEC:
+    title: On the caveats of AI autophagy
+    year: '2025'
+    citations: 58
+  SjuI4pbJlxcC:
+    title: 'Computational Intelligence in the hospitality industry: A systematic literature review and a prospect of challenges'
+    year: '2021'
+    citations: 58
+  FiytvqdAVhgC:
+    title: 'Lights and shadows in Evolutionary Deep Learning: Taxonomy, critical methodological analysis, cases of study, learned lessons, recommendations and challenges'
+    year: '2021'
+    citations: 58
+  ji7lAbPyDbYC:
+    title: Toward fully automated inspection of critical assets supported by autonomous mobile robots, vision sensors, and artificial intelligence
+    year: '2024'
+    citations: 56
+  rmuvC79q63oC:
+    title: ECG-based pulse detection during cardiac arrest using random forest classifier
+    year: '2019'
+    citations: 56
+  X9ykpCP0fEIC:
+    title: 'Greybox XAI: A Neural-Symbolic learning framework to produce interpretable predictions for image classification'
+    year: '2022'
+    citations: 55
+  5icHVeHT4IsC:
+    title: 'What lies beneath: A note on the explainability of black-box machine learning models for road traffic forecasting'
+    year: '2019'
+    citations: 55
+  EUQCXRtRnyEC:
+    title: Fuzzy-logic based framework for spectrum availability assessment in cognitive radio systems
+    year: '2013'
+    citations: 55
+  uc_IGeMz5qoC:
+    title: Comparative study of pheromone control heuristics in ACO algorithms for solving RCPSP problems
+    year: '2017'
+    citations: 53
+  ldfaerwXgEUC:
+    title: One-way urban traffic reconfiguration using a multi-objective harmony search approach
+    year: '2013'
+    citations: 53
+  blknAaTinKkC:
+    title: 'Centralized and distributed spectrum channel assignment in cognitive wireless networks: a harmony search approach'
+    year: '2012'
+    citations: 53
+  7wO8s98CvbsC:
+    title: A critical literature survey and prospects on tampering and anomaly detection in image data
+    year: '2020'
+    citations: 52
+  CaZNVDsoPx4C:
+    title: 'Plausible counterfactuals: Auditing deep learning classifiers with realistic adversarial examples'
+    year: '2020'
+    citations: 52
+  9vf0nzSNQJEC:
+    title: A novel Coral Reefs Optimization algorithm with substrate layers for optimal battery scheduling optimization in micro-grids
+    year: '2016'
+    citations: 51
+  7H_MAutzIkAC:
+    title: 'AT-MFCGA: An adaptive transfer-guided multifactorial cellular genetic algorithm for evolutionary multitasking'
+    year: '2021'
+    citations: 50
+  jFemdcug13IC:
+    title: Multi-task learning with multi-view weighted fusion attention for artery-specific calcification analysis
+    year: '2021'
+    citations: 49
+  6yz0xqPARnAC:
+    title: Evolutionary LSTM-FCN networks for pattern classification in industrial processes
+    year: '2020'
+    citations: 49
+  UmS_249rOGwC:
+    title: Deep learning for understanding multilabel imbalanced Chest X-ray datasets
+    year: '2023'
+    citations: 48
+  sNmaIFBj_lkC:
+    title: Differential evolution for association rule mining using categorical and numerical attributes
+    year: '2018'
+    citations: 47
+  ubry08Y2EpUC:
+    title: 'Fairness in bio-inspired optimization research: A prescription of methodological guidelines for comparing meta-heuristics'
+    year: '2020'
+    citations: 46
+  PELIpwtuRlgC:
+    title: Understanding daily mobility patterns in urban road networks using traffic flow analytics
+    year: '2016'
+    citations: 45
+  kzcSZmkxUKAC:
+    title: 'Vessel-GAN: Angiographic reconstructions from myocardial CT perfusion with explainable generative adversarial networks'
+    year: '2022'
+    citations: 44
+  c1e4I3QdEKYC:
+    title: 'The coral reefs optimization algorithm: an efficient meta-heuristic for solving hard optimization problems'
+    year: '2013'
+    citations: 44
+  JV2RwH3_ST0C:
+    title: Evaluating the internationalization success of companies through a hybrid grouping harmony search—extreme learning machine approach
+    year: '2012'
+    citations: 44
+  dhFuZR0502QC:
+    title: A comparative study of two hybrid grouping evolutionary techniques for the capacitated P-median problem
+    year: '2012'
+    citations: 43
+  KI9T_ytC6pkC:
+    title: Adaptive clustering and weighted regularization contrastive learning framework for unsupervised person re-identification
+    year: '2025'
+    citations: 42
+  IsPWOBWtZBwC:
+    title: 'HDL: Hybrid deep learning for the synthesis of myocardial velocity maps in digital twins for cardiac analysis'
+    year: '2022'
+    citations: 42
+  iyewoVqAXLQC:
+    title: 'Managing the Unknown in Machine Learning: Definitions, Related Areas, Recent Advances, and Prospects'
+    year: '2024'
+    citations: 41
+  lvd772isFD0C:
+    title: 'Soft computing for swarm robotics: new trends and applications'
+    year: '2020'
+    citations: 41
+  p2g8aNsByqUC:
+    title: A coral reefs optimization algorithm for optimal mobile network deployment with electromagnetic pollution control criterion
+    year: '2014'
+    citations: 39
+  4vMrXwiscB8C:
+    title: 'Analyze, Sense, Preprocess, Predict, Implement, and Deploy (ASPPID): An incremental methodology based on data analytics for cost-efficiently monitoring the industry 4.0'
+    year: '2019'
+    citations: 38
+  Wq2b2clWBLsC:
+    title: Multi-level multi-type self-generated knowledge fusion for cardiac ultrasound segmentation
+    year: '2023'
+    citations: 37
+  k8Z6L05lTy4C:
+    title: On-line dynamic time warping for streaming time series
+    year: '2017'
+    citations: 37
+  K3LRdlH-MEoC:
+    title: A random-key encoded harmony search approach for energy-efficient production scheduling with shared resources
+    year: '2015'
+    citations: 37
+  kF1pexMAQbMC:
+    title: 'Edge-enhanced dual discriminator generative adversarial network for fast MRI with parallel imaging using multi-view information: J. Huang et al.'
+    year: '2022'
+    citations: 36
+  kh2fBNsKQNwC:
+    title: Adversarial sample crafting for time series classification with elastic similarity measures
+    year: '2018'
+    citations: 36
+  lgwcVrK6X84C:
+    title: An efficient and scalable simulation model for autonomous vehicles with economical hardware
+    year: '2020'
+    citations: 35
+  t7zJ5fGR-2UC:
+    title: Underwater robot task planning using multi-objective meta-heuristics
+    year: '2017'
+    citations: 34
+  tOudhMTPpwUC:
+    title: One-year-ahead energy demand estimation from macroeconomic variables using computational intelligence algorithms
+    year: '2015'
+    citations: 34
+  BqipwSGYUEgC:
+    title: A novel heuristic approach for distance-and connectivity-based multihop node localization in wireless sensor networks
+    year: '2013'
+    citations: 34
+  _AeoHAGD03cC:
+    title: Effective air pollution prediction by combining time series decomposition with stacking and bagging ensembles of evolving spiking neural networks
+    year: '2023'
+    citations: 33
+  JP7YXuLIOvAC:
+    title: A framework to improve urban accessibility and environmental conditions in age-friendly cities using graph modeling and multi-objective optimization
+    year: '2023'
+    citations: 33
+  C33y2ycGS3YC:
+    title: 'Evolutionary multitask optimization: Fundamental research questions, practices, and directions for the future'
+    year: '2022'
+    citations: 33
+  KaMxkj08jr0C:
+    title: On the post-hoc explainability of deep echo state networks for time series forecasting, image and video classification
+    year: '2022'
+    citations: 33
+  ALROH1vI_8AC:
+    title: 'dMFEA-II: An adaptive multifactorial evolutionary algorithm for permutation-based discrete optimization problems'
+    year: '2020'
+    citations: 33
+  4xDN1ZYqzskC:
+    title: Is the vehicle routing problem dead? an overview through bioinspired perspective and a prospect of opportunities
+    year: '2020'
+    citations: 33
+  mlAyqtXpCwEC:
+    title: Optimal microgrid topology design and siting of distributed generation sources using a multi-objective substrate layer coral reefs optimization algorithm
+    year: '2018'
+    citations: 33
+  TIZ-Mc8IlK0C:
+    title: 'DRED: An evolutionary diversity generation method for concept drift adaptation in online learning environments'
+    year: '2018'
+    citations: 32
+  NMxIlDl6LWMC:
+    title: On the design of a novel two-objective harmony search approach for distance-and connectivity-based localization in wireless sensor networks
+    year: '2013'
+    citations: 32
+  xGWFX6Gbr9MC:
+    title: Enhancing trust in automated 3D point cloud data interpretation through explainable counterfactuals
+    year: '2025'
+    citations: 31
+  Se3iqnhoufwC:
+    title: A novel CAM-based traffic light preemption algorithm for efficient guidance of emergency vehicles
+    year: '2010'
+    citations: 31
+  60iIaj97TE0C:
+    title: What can artificial intelligence do for soil health in agriculture?
+    year: '2026'
+    citations: 30
+  EaFouW7jFu4C:
+    title: 'The level of strength of an explanation: A quantitative evaluation technique for post-hoc XAI methods'
+    year: '2025'
+    citations: 30
+  HJSXoJQnj-YC:
+    title: A novel approach for the detection of anomalous energy consumption patterns in industrial cyber‐physical systems
+    year: '2024'
+    citations: 30
+  CNPyR2KL9-0C:
+    title: Multiobjective evolutionary pruning of deep neural networks with transfer learning for improving their performance and robustness
+    year: '2023'
+    citations: 30
+  zGdJYJv2LkUC:
+    title: 'Group’n route: An edge learning-based clustering and efficient routing scheme leveraging social strength for the internet of vehicles'
+    year: '2022'
+    citations: 29
+  WJVC3Jt7v1AC:
+    title: On-line elastic similarity measures for time series
+    year: '2019'
+    citations: 29
+  BwyfMAYsbu0C:
+    title: On efficiently solving the vehicle routing problem with time windows using the bat algorithm with random reinsertion operators
+    year: '2017'
+    citations: 29
+  Mojj43d5GZwC:
+    title: Synchronization of faulty processors in coarse-grained TMR protected partially reconfigurable FPGA designs
+    year: '2016'
+    citations: 29
+  WWeOtg8bX_EC:
+    title: Multi-objective optimization for multimodal multi-objective multi-point shortest path problem considering unforeseeable road eventualities
+    year: '2025'
+    citations: 28
+  QUX0mv85b1cC:
+    title: AI-based medical e-diagnosis for fast and automatic ventricular volume measurement in patients with normal pressure hydrocephalus
+    year: '2023'
+    citations: 28
+  ZqE1mSdD_DYC:
+    title: Visual appearance and soft biometrics fusion for person re-identification using deep learning
+    year: '2023'
+    citations: 28
+  9Nmd_mFXekcC:
+    title: 'Beyond WYSIWYG: Sharing contextual sensing data through mmWave V2V communications'
+    year: '2017'
+    citations: 28
+  _xSYboBqXhAC:
+    title: Compact and fast fault injection system for robustness measurements on SRAM-based FPGAs
+    year: '2013'
+    citations: 28
+  -f6ydRqryjwC:
+    title: A novel grouping harmony search algorithm for the multiple-type access node location problem
+    year: '2012'
+    citations: 28
+  XoXfffV-tXoC:
+    title: 'Optimal design of Microgrid’s network topology and location of the distributed renewable energy resources using the Harmony Search algorithm: C. Camacho-Gómez et al.'
+    year: '2019'
+    citations: 27
+  hMod-77fHWUC:
+    title: Efficient citywide planning of open WiFi access networks using novel grouping harmony searchheuristics
+    year: '2013'
+    citations: 27
+  M3NEmzRMIkIC:
+    title: A hybrid harmony search algorithm for the spread spectrum radar polyphase codes design problem
+    year: '2012'
+    citations: 27
+  7Frjd3zlGBUC:
+    title: On the black-box explainability of object detection models for safe and trustworthy industrial applications
+    year: '2024'
+    citations: 26
+  SnGPuo6Feq8C:
+    title: Explainable COVID-19 infections identification and delineation using calibrated pseudo labels
+    year: '2022'
+    citations: 26
+  z6xuaG2dYH0C:
+    title: Multi-domain adversarial variational Bayesian inference for domain generalization
+    year: '2022'
+    citations: 25
+  1lhNe0rCu4AC:
+    title: 'Deep echo state networks for short-term traffic forecasting: Performance comparison and statistical assessment'
+    year: '2020'
+    citations: 25
+  HIFyuExEbWQC:
+    title: 'Bio-inspired optimization for the molecular docking problem: state of the art, recent results and perspectives'
+    year: '2019'
+    citations: 25
+  xyvS_IvSCKsC:
+    title: 'HPRNet: Human parsing reconstruction with non-local multi-scale perception network for cloth-changing person re-identification'
+    year: '2025'
+    citations: 24
+  s85pQhAUCrAC:
+    title: 'Federated deep learning for wireless capsule endoscopy analysis: enabling collaboration across multiple data centers for robust learning of diverse pathologies'
+    year: '2024'
+    citations: 24
+  BmWJbWwHJAwC:
+    title: 'A novel Out-of-Distribution detection approach for Spiking Neural Networks: Design, fusion, performance evaluation and explainability'
+    year: '2023'
+    citations: 24
+  mel-f30kHHgC:
+    title: 'Modelling electricity consumption during the COVID19 pandemic: datasets, models, results and a research agenda'
+    year: '2023'
+    citations: 24
+  SIv7DqKytYAC:
+    title: A fingerprint-based localization algorithm based on LSTM and data expansion method for sparse samples
+    year: '2022'
+    citations: 24
+  CYCckWUYoCcC:
+    title: Jointly optimized ensemble deep random vector functional link network for semi-supervised classification
+    year: '2022'
+    citations: 24
+  2osOgNQ5qMEC:
+    title: A novel harmony search based spectrum allocation technique for cognitive radio networks
+    year: '2010'
+    citations: 24
+  9NZAP19TdFAC:
+    title: 'The paradox of success in evolutionary and bioinspired optimization: Revisiting critical issues, key studies, and methodological pathways'
+    year: '2025'
+    citations: 23
+  HGTzPopzzJcC:
+    title: Model free identification of traffic conditions using unmanned aerial vehicles and deep learning
+    year: '2021'
+    citations: 23
+  IRz6iEL74y4C:
+    title: Multi-objective optimization of bike routes for last-mile package delivery with drop-offs
+    year: '2018'
+    citations: 23
+  ZuybSZzF8UAC:
+    title: Community detection in graphs based on surprise maximization using firefly heuristics
+    year: '2016'
+    citations: 23
+  Dem6FJhTUoYC:
+    title: Adaptive dendritic cell-deep learning approach for industrial prognosis under changing conditions
+    year: '2021'
+    citations: 22
+  wMgC3FpKEyYC:
+    title: Simultaneously evolving deep reinforcement learning models using multifactorial optimization
+    year: '2020'
+    citations: 22
+  4JMBOYKVnBMC:
+    title: A low-cost FPGA-based embedded fingerprint verification and matching system
+    year: '2007'
+    citations: 22
+  u5HHmVD_uO8C:
+    title: Asymmetric joint source-channel coding for correlated sources with blind HMM estimation at the receiver
+    year: '2005'
+    citations: 22
+  q0uBw5dMOAkC:
+    title: Research Frontiers in Machine Learning & Knowledge Extraction
+    year: '2025'
+    citations: 21
+  9shLKfS_uJEC:
+    title: 'World models in artificial intelligence: sensing, learning, and reasoning like a child'
+    year: '2025'
+    citations: 21
+  -DxkuPiZhfEC:
+    title: 'Non-imaging medical data synthesis for trustworthy AI: A comprehensive survey'
+    year: '2024'
+    citations: 21
+  eQOLeE2rZwMC:
+    title: Joint source-channel coding of sources with memory using turbo codes and the burrows-wheeler transform
+    year: '2010'
+    citations: 21
+  PyEswDtIyv0C:
+    title: 'QuickLook: Movie summarization using scene-based leading characters with psychological cues fusion'
+    year: '2021'
+    citations: 20
+  LPtt_HFRSbwC:
+    title: Dilated LSTM networks for short-term traffic forecasting using network-wide vehicle trajectory data
+    year: '2020'
+    citations: 20
+  kz9GbA2Ns4gC:
+    title: A heuristic approach to the multicriteria design of IaaS cloud infrastructures for Big Data applications
+    year: '2018'
+    citations: 20
+  VL0QpB8kHFEC:
+    title: Hybridizing cartesian genetic programming and harmony search for adaptive feature construction in supervised learning problems
+    year: '2017'
+    citations: 20
+  VOx2b1Wkg3QC:
+    title: A novel machine learning approach to the detection of identity theft in social networks based on emulated attack instances and support vector machines
+    year: '2016'
+    citations: 20
+  IjCSPb-OGe4C:
+    title: A novel heuristic algorithm for multiuser detection in synchronous CDMA wireless sensor networks
+    year: '2009'
+    citations: 20
+  4aZ_i-5WJEQC:
+    title: Using offline data to speed up reinforcement learning in procedurally generated environments
+    year: '2025'
+    citations: 19
+  2vr6o8x5NLkC:
+    title: 'Measuring the confidence of single-point traffic forecasting models: Techniques, experimental comparison, and guidelines toward their actionability'
+    year: '2024'
+    citations: 19
+  PVgj2kMGcgYC:
+    title: 'Stream learning in energy IoT systems: a case study in combined cycle power plants'
+    year: '2020'
+    citations: 19
+  5awf1xo2G04C:
+    title: A feature selection method for author identification in interactive communications based on supervised learning and language typicality
+    year: '2016'
+    citations: 19
+  4OULZ7Gr8RgC:
+    title: Robustness of different TMR granularities in shared wishbone architectures on SRAM FPGA
+    year: '2012'
+    citations: 19
+  ULOm3_A8WrAC:
+    title: On the application of a hybrid harmony search algorithm to node localization in anchor-based wireless sensor networks
+    year: '2011'
+    citations: 19
+  hNSvKAmkeYkC:
+    title: 'A Systematic Review of Toxicity in Large Language Models: Definitions, Datasets, Detectors, Detoxification Methods and Challenges'
+    year: '2026'
+    citations: 18
+  k_7cPK9k7w8C:
+    title: An evaluation study of intrinsic motivation techniques applied to reinforcement learning over hard exploration environments
+    year: '2022'
+    citations: 18
+  pS0ncopqnHgC:
+    title: 'More is not always better: Insights from a massive comparison of meta-heuristic algorithms over real-parameter optimization problems'
+    year: '2021'
+    citations: 18
+  -jrNzM816MMC:
+    title: A survey on extremism analysis using natural language processing
+    year: '2021'
+    citations: 18
+  LO7wyVUgiFcC:
+    title: Drift detection over non-stationary data streams using evolving spiking neural networks
+    year: '2018'
+    citations: 18
+  tuHXwOkdijsC:
+    title: Environmental perception for intelligent vehicles
+    year: '2018'
+    citations: 18
+  W5xh706n7nkC:
+    title: Joint feature selection and parameter tuning for short-term traffic flow forecasting based on heuristically optimized multi-layer neural networks
+    year: '2017'
+    citations: 18
+  9yKSN-GCB0IC:
+    title: On the application of a novel grouping harmony search algorithm to the switch location problem
+    year: '2010'
+    citations: 18
+  YlPif8NxrbYC:
+    title: Efficient fake news detection using bagging ensembles of bidirectional echo state networks
+    year: '2022'
+    citations: 17
+  CB2v5VPnA5kC:
+    title: Data-driven optimization for transportation logistics and smart mobility applications [guest editorial]
+    year: '2020'
+    citations: 17
+  48xauSegjOkC:
+    title: New perspectives on the use of online learning for congestion level prediction over traffic data
+    year: '2020'
+    citations: 17
+  buQ7SEKw-1sC:
+    title: 'Multifactorial cellular genetic algorithm (mfcga): Algorithmic design, performance comparison and genetic transferability analysis'
+    year: '2020'
+    citations: 17
+  foquWX3nUaYC:
+    title: A bio-inspired approach for collaborative exploration with mobile battery recharging in swarm robotics
+    year: '2018'
+    citations: 17
+  lmc2jWPfTJgC:
+    title: Big data in road transport and mobility research
+    year: '2018'
+    citations: 17
+  D_sINldO8mEC:
+    title: 'On the application of multi-objective harmony search heuristics to the predictive deployment of firefighting aircrafts: a realistic case study'
+    year: '2015'
+    citations: 17
+  j3f4tGmQtD8C:
+    title: On the design of a novel joint network-channel coding scheme for the multiple access relay channel
+    year: '2012'
+    citations: 17
+  fbc8zXXH2BUC:
+    title: ECG-based random forest classifier for cardiac arrest rhythms
+    year: '2019'
+    citations: 16
+  _axFR9aDTf0C:
+    title: Extending the speed-constrained multi-objective PSO (SMPSO) with reference point based preference articulation
+    year: '2018'
+    citations: 16
+  tkaPQYYpVKoC:
+    title: 'Beamwidth optimization in millimeter wave small cell networks with relay nodes: A swarm intelligence approach'
+    year: '2016'
+    citations: 16
+  xm0LlTxljI0C:
+    title: Big data analysis for industrial activity recognition using attention-inspired sequential temporal convolution network
+    year: '2024'
+    citations: 15
+  c59VksA5Vz4C:
+    title: 'Efficient object detection in autonomous driving using spiking neural networks: Performance, energy consumption analysis, and insights into open-set object discovery'
+    year: '2023'
+    citations: 15
+  4X0JR2_MtJMC:
+    title: On the design of hybrid bio‐inspired meta‐heuristics for complex multiattribute vehicle routing problems
+    year: '2020'
+    citations: 15
+  BzfGm06jWhQC:
+    title: On the transferability of knowledge among vehicle routing problems by using cellular evolutionary multitasking
+    year: '2020'
+    citations: 15
+  OP4eGU-M3BUC:
+    title: Return, diversification and risk in cryptocurrency portfolios using deep recurrent neural networks and multi-objective evolutionary algorithms
+    year: '2019'
+    citations: 15
+  WbkHhVStYXYC:
+    title: Semantic information fusion of linked open data and social big data for the creation of an extended corporate CRM database
+    year: '2015'
+    citations: 15
+  nb7KW1ujOQ8C:
+    title: An island grouping genetic algorithm for fuzzy partitioning problems
+    year: '2014'
+    citations: 15
+  d1gkVwhDpl0C:
+    title: On combining distributed joint source-channel-network coding and turbo equalization in multiple access relay networks
+    year: '2007'
+    citations: 15
+  7H_jS4BsgvYC:
+    title: 'Can transformative AI shape a new age for our civilization?: Navigating between speculation and reality'
+    year: '2026'
+    citations: 14
+  Y0-TYkg6YM4C:
+    title: 'Evolutionary computation for the design and enrichment of general-purpose artificial intelligence systems: Survey and prospects'
+    year: '2025'
+    citations: 14
+  hsZV8lGYWTMC:
+    title: 'Padl: A modeling and deployment language for advanced analytical services'
+    year: '2020'
+    citations: 14
+  prdVHNxh-e8C:
+    title: Data augmentation for industrial prognosis using generative adversarial networks
+    year: '2020'
+    citations: 14
+  U4n9YNQMCAIC:
+    title: 'Transfer learning and online learning for traffic forecasting under different data availability conditions: Alternatives and pitfalls'
+    year: '2020'
+    citations: 14
+  u-coK7KVo8oC:
+    title: 'The Internet of things: a survey and outlook'
+    year: '2019'
+    citations: 14
+  LkGwnXOMwfcC:
+    title: Iterative power and subcarrier allocation in rate-constrained orthogonal multicarrier downlink systems based on hybrid harmony search heuristics
+    year: '2011'
+    citations: 14
+  ML0RJ9NH7IQC:
+    title: Rate control in video coding
+    year: '2011'
+    citations: 14
+  Azgs6IHzeyYC:
+    title: A machine learning approach for the efficient estimation of ground-level air temperature in urban areas
+    year: '2025'
+    citations: 13
+  Vno172sVVMwC:
+    title: 'LLM in the loop: A framework for contextualizing counterfactual segment perturbations in point clouds'
+    year: '2025'
+    citations: 13
+  AzKEL7Gb_04C:
+    title: On the connection between concept drift and uncertainty in industrial artificial intelligence
+    year: '2023'
+    citations: 13
+  eO3_k5sD8BwC:
+    title: 'Ensemble learning for seated people counting using WiFi signals: Performance study and transferability assessment'
+    year: '2021'
+    citations: 13
+  otzGkya1bYkC:
+    title: 'Coeba: A coevolutionary bat algorithm for discrete evolutionary multitasking'
+    year: '2020'
+    citations: 13
+  XvxMoLDsR5gC:
+    title: Community detection in weighted directed networks using nature-inspired heuristics
+    year: '2018'
+    citations: 13
+  FAceZFleit8C:
+    title: Road traffic forecasting using neucube and dynamic evolving spiking neural networks
+    year: '2018'
+    citations: 13
+  _FM0Bhl9EiAC:
+    title: Automatic fitting of feature points for border detection of skin lesions in medical images with bat algorithm
+    year: '2018'
+    citations: 13
+  5Ul4iDaHHb8C:
+    title: A harmony search approach for the selective pick-up and delivery problem with delayed drop-off
+    year: '2015'
+    citations: 13
+  WF5omc3nYNoC:
+    title: Architecture and approach for obtaining spectrum availability information
+    year: '2011'
+    citations: 13
+  u-x6o8ySG0sC:
+    title: Performance evaluation of H. 264/MPEG-4 Scalable Video Coding over IEEE 802.16 e networks
+    year: '2009'
+    citations: 13
+  Y0pCki6q_DkC:
+    title: Joint source-channel decoding of correlated sources over ISI channels
+    year: '2005'
+    citations: 13
+  uUvzmPk0f8oC:
+    title: Explaining 3D Semantic Segmentation Through Generative AI‐Based Counterfactuals
+    year: '2025'
+    citations: 12
+  In6cVmBjs0IC:
+    title: A multi-modal assessment framework for comparison of specialized deep learning and general-purpose large language models
+    year: '2025'
+    citations: 12
+  qE4H1tSSYIIC:
+    title: Scale mutualized perception for vessel border detection in intravascular ultrasound images
+    year: '2022'
+    citations: 12
+  g5Ck-dwhA_QC:
+    title: A framework for adapting online prediction algorithms to outlier detection over time series
+    year: '2022'
+    citations: 12
+  jgBuDB5drN8C:
+    title: Robust image classification against adversarial attacks using elastic similarity measures between edge count sequences
+    year: '2020'
+    citations: 12
+  gVv57TyPmFsC:
+    title: Road traffic forecasting using stacking ensembles of echo state networks
+    year: '2019'
+    citations: 12
+  YohjEiUPhakC:
+    title: A deep learning approach to device-free people counting from WiFi signals
+    year: '2018'
+    citations: 12
+  HbR8gkJAVGIC:
+    title: Multi-objective design of time-constrained bike routes using bio-inspired meta-heuristics
+    year: '2018'
+    citations: 12
+  tYavs44e6CUC:
+    title: Wind power production forecasting using ant colony optimization and extreme learning machines
+    year: '2017'
+    citations: 12
+  XD-gHx7UXLsC:
+    title: On the interplay between scheduling interval and beamwidth selection for low-latency and reliable V2V mmWave communications
+    year: '2017'
+    citations: 12
+  NJ774b8OgUMC:
+    title: Optimal phase swapping in low voltage distribution networks based on smart meter data and optimization heuristics
+    year: '2017'
+    citations: 12
+  HE397vMXCloC:
+    title: A novel grouping coral reefs optimization algorithm for optimal mobile network deployment problems under electromagnetic pollution and capacity control criteria
+    year: '2016'
+    citations: 12
+  DrR-2ekChdkC:
+    title: 'Collaborative training of heterogeneous reinforcement learning agents in environments with sparse rewards: what and when to share?'
+    year: '2023'
+    citations: 11
+  qwy9JoKyICEC:
+    title: 'Electric vehicle routing problem: Literature review, instances and results with a novel ant colony optimization method'
+    year: '2022'
+    citations: 11
+  fFSKOagxvKUC:
+    title: Combining bio-inspired meta-heuristics and novelty search for community detection over evolving graph streams
+    year: '2019'
+    citations: 11
+  P7Ujq4OLJYoC:
+    title: Hybrid modified firefly algorithm for border detection of skin lesions in medical imaging
+    year: '2019'
+    citations: 11
+  JoZmwDi-zQgC:
+    title: Identifying recommendation opportunities for computer‐supported collaborative environments
+    year: '2016'
+    citations: 11
+  aIdbFUkbNIkC:
+    title: 'Capabilities, limitations and challenges of style transfer with CycleGANs: a study on automatic ring design generation'
+    year: '2022'
+    citations: 10
+  2l5NCbZemmgC:
+    title: 'Memetic computing: Accelerating optimization heuristics with problem-dependent local search methods'
+    year: '2022'
+    citations: 10
+  WHdLCjDvYFkC:
+    title: 'CURIE: a cellular automaton for concept drift detection'
+    year: '2021'
+    citations: 10
+  FiDNX6EVdGUC:
+    title: 'Random vector functional link networks for road traffic forecasting: Performance comparison and stability analysis'
+    year: '2021'
+    citations: 10
+  WC23djZS0W4C:
+    title: 'A coevolutionary variable neighborhood search algorithm for discrete multitasking (covns): Application to community detection over graphs'
+    year: '2020'
+    citations: 10
+  8xutWZnSdmoC:
+    title: Exploiting the stimuli encoding scheme of evolving spiking neural networks for stream learning
+    year: '2020'
+    citations: 10
+  HeT0ZceujKMC:
+    title: Computing rational border curves of melanoma and other skin lesions from medical images with bat algorithm
+    year: '2019'
+    citations: 10
+  KxtntwgDAa4C:
+    title: Range-free localization algorithm based on connectivity and motion
+    year: '2014'
+    citations: 10
+  hC7cP41nSMkC:
+    title: Decision-making system for obtaining spectrum availability information in opportunistic networks
+    year: '2011'
+    citations: 10
+  7PzlFSSx8tAC:
+    title: Joint non-binary LDPC-BICM and network coding with iterative decoding for the multiple access relay channel
+    year: '2011'
+    citations: 10
+  W7OEmFMy1HYC:
+    title: Iterative concatenated zigzag decoding and blind data fusion of correlated sensors
+    year: '2009'
+    citations: 10
+  I8rxH6phXEkC:
+    title: 'Bio-inspired computation: Where we stand and what’s next, Swarm Evol. Comput. 48 (2019) 220–250'
+    year: ''
+    citations: 10
+  g8uWPOAv7ggC:
+    title: A collaborative content moderation framework for toxicity detection based on multitask neural networks and conformal estimates of annotation disagreement
+    year: '2025'
+    citations: 9
+  1r-w4gtu6w8C:
+    title: 'Probing perfection: The relentless art of meddling for pulmonary airway segmentation from HRCT via a human-AI collaboration based active learning method'
+    year: '2024'
+    citations: 9
+  -uzm3Y7AvW0C:
+    title: 'The right to be forgotten in artificial intelligence: issues, approaches, limitations and challenges'
+    year: '2023'
+    citations: 9
+  __bU50VfleQC:
+    title: A graph-based methodology for the sensorless estimation of road traffic profiles
+    year: '2023'
+    citations: 9
+  eGYfIraVYiQC:
+    title: Guest editorial artificial intelligence and deep learning for intelligent and sustainable traffic and vehicle management (VANETs)
+    year: '2022'
+    citations: 9
+  hSRAE-fF4OAC:
+    title: Improving the urban accessibility of older pedestrians using multi-objective optimization
+    year: '2022'
+    citations: 9
+  w0F2JDEymm0C:
+    title: Collaborative exploration and reinforcement learning between heterogeneously skilled agents in environments with sparse rewards
+    year: '2021'
+    citations: 9
+  BAanoTsO0WEC:
+    title: 'Explainable Artificial Intelligence (XAI): Concepts'
+    year: '2019'
+    citations: 9
+  epqYDVWIO7EC:
+    title: Nature-inspired heuristics for the multiple-vehicle selective pickup and delivery problem under maximum profit and incentive fairness criteria
+    year: '2017'
+    citations: 9
+  2KloaMYe4IUC:
+    title: A novel BRAM content accessing and processing method based on FPGA configuration bitstream
+    year: '2017'
+    citations: 9
+  geHnlv5EZngC:
+    title: Design and Implementation of an Extended Corporate CRMDatabase System with Big Data Analytical Functionalities.
+    year: '2015'
+    citations: 9
+  Tiz5es2fbqcC:
+    title: On a machine learning approach for the detection of impersonation attacks in social networks
+    year: '2015'
+    citations: 9
+  XiSMed-E-HIC:
+    title: On interlinking linked data sources by using ontology matching techniques and the map-reduce framework
+    year: '2014'
+    citations: 9
+  R3hNpaxXUhUC:
+    title: Uncoded optimal binary communication for sources with memory using the Burrows Wheeler Transform
+    year: '2008'
+    citations: 9
+  N4u4nq0IxgcC:
+    title: On the improvement of generalization and stability of forward-only learning via neural polarization
+    year: '2024'
+    citations: 8
+  L_l9e5I586QC:
+    title: Towards improving exploration in self-imitation learning using intrinsic motivation
+    year: '2022'
+    citations: 8
+  v6i8RKmR8ToC:
+    title: Can post-hoc explanations effectively detect out-of-distribution samples?
+    year: '2022'
+    citations: 8
+  SGW5VrABaM0C:
+    title: Lightweight alternatives for hyper-parameter tuning in drifting data streams
+    year: '2021'
+    citations: 8
+  idthP5jqfYAC:
+    title: A prescription of methodological guidelines for comparing bio-inspired optimization algorithms. Swarm Evol. Comput. 67, 100973 (2021)
+    year: '2021'
+    citations: 8
+  Br1UauaknNIC:
+    title: 'Padl: a language for the operationalization of distributed analytical pipelines over edge/fog computing environments'
+    year: '2020'
+    citations: 8
+  F1b5ZUV5XREC:
+    title: Introduction to the special issue on online learning for big-data driven transportation and mobility
+    year: '2019'
+    citations: 8
+  artPoR2Yc-kC:
+    title: 'Swarm intelligence: Recent advances, new perspectives and applications'
+    year: '2019'
+    citations: 8
+  DJbcl8HfkQkC:
+    title: 'Mobile XR over 5G: A way forward with mmWaves and Edge'
+    year: '2019'
+    citations: 8
+  umqufdRvDiIC:
+    title: Bat algorithm swarm robotics approach for dual non-cooperative search with self-centered mode
+    year: '2018'
+    citations: 8
+  9pM33mqn1YgC:
+    title: Decision making in Industry 4.0 scenarios supported by imbalanced data classification
+    year: '2018'
+    citations: 8
+  4fGpz3EwCPoC:
+    title: Solving the open-path asymmetric green traveling salesman problem in a realistic urban environment
+    year: '2018'
+    citations: 8
+  0N-VGjzr574C:
+    title: Using novelty search in differential evolution
+    year: '2018'
+    citations: 8
+  _Re3VWB3Y0AC:
+    title: On the creation of diverse ensembles for nonstationary environments using bio-inspired heuristics
+    year: '2017'
+    citations: 8
+  eflP2zaiRacC:
+    title: On the applicability of ant colony optimization to non-intrusive load monitoring in smart grids
+    year: '2015'
+    citations: 8
+  35N4QoGY0k4C:
+    title: Fast and accurate single bit error injection into sram based fpgas
+    year: '2012'
+    citations: 8
+  iH-uZ7U-co4C:
+    title: Flexible channel coding approach for short-length codewords
+    year: '2012'
+    citations: 8
+  zYLM7Y9cAGgC:
+    title: Wiener filter-based fixed-complexity vector precoding for the MIMO downlink channel
+    year: '2009'
+    citations: 8
+  UeHWp8X0CEIC:
+    title: A novel dual-frequency multiple access relay transmission scheme
+    year: '2007'
+    citations: 8
+  ymY9cBF3mdcC:
+    title: 'Defense strategy against byzantine attacks in federated machine learning: Developments towards explainability'
+    year: '2024'
+    citations: 7
+  EsEWqaRxkBgC:
+    title: Efficient video summarization for smart surveillance systems
+    year: '2022'
+    citations: 7
+  zdjWy_NXXwUC:
+    title: Accurate long-term air temperature prediction with a fusion of artificial intelligence and data reduction techniques
+    year: '2022'
+    citations: 7
+  NyGDZy8z5eUC:
+    title: 'LUNAR: Cellular automata for drifting data streams'
+    year: '2021'
+    citations: 7
+  yxmsSjX2EkcC:
+    title: Visualization of numerical association rules by hill slopes
+    year: '2020'
+    citations: 7
+  a3BOlSfXSfwC:
+    title: Cuckoo search algorithm for border reconstruction of medical images with rational curves
+    year: '2019'
+    citations: 7
+  yMeIxYmEMEAC:
+    title: Hybridizing differential evolution and novelty search for multimodal optimization problems
+    year: '2019'
+    citations: 7
+  KbBQZpvPDL4C:
+    title: Discovering dependencies among mined association rules with population-based metaheuristics
+    year: '2019'
+    citations: 7
+  mNrWkgRL2YcC:
+    title: Trophallaxis, low-power vision sensors and multi-objective heuristics for 3D scene reconstruction using swarm robotics
+    year: '2019'
+    citations: 7
+  bz8QjSJIRt4C:
+    title: On the design and tuning of machine learning models for language toxicity classification in online platforms
+    year: '2018'
+    citations: 7
+  zLWjf1WUPmwC:
+    title: Cost-efficient deployment of multi-hop wireless networks over disaster areas using multi-objective meta-heuristics
+    year: '2018'
+    citations: 7
+  LPZeul_q3PIC:
+    title: Dandelion-encoded harmony search heuristics for opportunistic traffic offloading in synthetically modeled mobile networks
+    year: '2015'
+    citations: 7
+  M0leSnx2MbUC:
+    title: Recent advances on video coding
+    year: '2011'
+    citations: 7
+  k_IJM867U9cC:
+    title: Social acceptance and usage experiences from a mobile location-aware service environment
+    year: '2011'
+    citations: 7
+  3_LpOwP6eMYC:
+    title: A collaborative content moderation framework for toxicity detection based on conformalized estimates of annotation disagreement
+    year: '2024'
+    citations: 6
+  -6RzNnnwWf8C:
+    title: 'Communication technologies for edge learning and inference: a novel framework, open issues, and perspectives'
+    year: '2022'
+    citations: 6
+  6_hjMsCP8ZoC:
+    title: 'Innovation Policies and Big data: opportunities and challenges'
+    year: '2021'
+    citations: 6
+  w2UhwfzvF0QC:
+    title: 'Explainable artificial intelligence (XAI) on timeseries data: a survey. CoRR abs/2104.00950 (2021)'
+    year: '2021'
+    citations: 6
+  L1USKYWJimsC:
+    title: A Novel Metaheuristic Approach for Loss Reduction and Voltage Profile Improvement in Power Distribution Networks Based on Simultaneous Placement and Sizing of Distributed …
+    year: '2020'
+    citations: 6
+  MhiOAD_qIWkC:
+    title: Bat algorithm method for automatic determination of color and contrast of modified digital images
+    year: '2020'
+    citations: 6
+  tH6gc1N1XXoC:
+    title: 'A question of trust: Statistical characterization of long-term traffic estimations for their improved actionability'
+    year: '2019'
+    citations: 6
+  MLfJN-KU85MC:
+    title: Positioning and digital maps
+    year: '2018'
+    citations: 6
+  4MWp96NkSFoC:
+    title: A meta-heuristic learning approach for the non-intrusive detection of impersonation attacks in social networks
+    year: '2017'
+    citations: 6
+  eMMeJKvmdy0C:
+    title: Solving strategy board games using a CSP-based ACO approach
+    year: '2017'
+    citations: 6
+  4fKUyHm3Qg0C:
+    title: A Meta-heuristically Optimized Fuzzy Approach towards Multi-metric Security Risk Assessment in Heterogeneous System of Systems.
+    year: '2014'
+    citations: 6
+  vV6vV6tmYwMC:
+    title: A preliminary approach to near-optimal multi-hop capacitated network design using grouping-dandelion encoded heuristics
+    year: '2012'
+    citations: 6
+  RYcK_YlVTxYC:
+    title: 'Mobile clouds: How to find opportunities'
+    year: '2012'
+    citations: 6
+  9ZlFYXVOiuMC:
+    title: A Grouping Harmony Search approach for the Citywide WiFi deployment problem
+    year: '2011'
+    citations: 6
+  08ZZubdj9fEC:
+    title: Iterative fusion of distributed decisions over the Gaussian multiple-access channel using concatenated BCH-LDGM codes
+    year: '2011'
+    citations: 6
+  5nxA0vEk-isC:
+    title: Serially-concatenated LDGM codes for correlated sources over Gaussian broadcast channels
+    year: '2009'
+    citations: 6
+  Tyk-4Ss8FVUC:
+    title: Joint source-channel-network decoding and blind estimation of correlated sensors using concatenated zigzag codes
+    year: '2009'
+    citations: 6
+  KlAtU1dfN6UC:
+    title: Design, simulation and implementation of a channel equalizer for DVB-T on-channel repeaters
+    year: '2008'
+    citations: 6
+  e5wmG9Sq2KIC:
+    title: Source controlled turbo coding of sources with memory using the burrows wheeler transform
+    year: '2006'
+    citations: 6
+  e84hm74t-eoC:
+    title: Leveraging programmable logic controllers for machine learning applications in industrial setups
+    year: '2026'
+    citations: 5
+  JH5k92_tO-AC:
+    title: Efficient bridge damage detection using a lightweight attention‐based modeling framework
+    year: '2025'
+    citations: 5
+  wUn16MOA3RoC:
+    title: 'Overlap Number of Balls Model-Agnostic CounterFactuals (ONB-MACF): A data-morphology-based counterfactual generation method for trustworthy artificial intelligence'
+    year: '2025'
+    citations: 5
+  YPNY0knpFBYC:
+    title: Forward-forward learning achieves highly selective latent representations for out-of-distribution detection in fully spiking neural networks
+    year: '2024'
+    citations: 5
+  n3vGvpFsckwC:
+    title: On the Robustness of Fully-Spiking Neural Networks in Open-World Scenarios using Forward-Only Learning Algorithms
+    year: '2024'
+    citations: 5
+  ziOE8S1-AIUC:
+    title: Efficiency of tree-search like heuristics to solve complex mixed-integer programming problems applied to the design of optimal space trajectories
+    year: '2021'
+    citations: 5
+  3bvyWxjaHKcC:
+    title: Machine learning based soft sensing tool for the prediction of leaf wetness duration in precision agriculture
+    year: '2021'
+    citations: 5
+  r_AWSJRzSzQC:
+    title: Nature-inspired metaheuristics for optimizing information dissemination in vehicular networks
+    year: '2019'
+    citations: 5
+  edDO8Oi4QzsC:
+    title: 'Let nature decide its nature: On the design of collaborative hyperheuristics for decentralized ephemeral environments'
+    year: '2018'
+    citations: 5
+  GtLg2Ama23sC:
+    title: Concept tracking and adaptation for drifting data streams under extreme verification latency
+    year: '2018'
+    citations: 5
+  URolC5Kub84C:
+    title: A novel Fireworks Algorithm with wind inertia dynamics and its application to traffic forecasting
+    year: '2017'
+    citations: 5
+  uWiczbcajpAC:
+    title: Nature-inspired approaches for distance metric learning in multivariate time series classification
+    year: '2017'
+    citations: 5
+  ZfRJV9d4-WMC:
+    title: A heuristically optimized complex event processing engine for big data stream analytics
+    year: '2017'
+    citations: 5
+  ye4kPcJQO24C:
+    title: A probabilistic sample matchmaking strategy for imbalanced data streams with concept drift
+    year: '2016'
+    citations: 5
+  NhqRSupF_l8C:
+    title: Novel hybrid heuristics for an extension of the dynamic relay deployment problem over disaster areas
+    year: '2014'
+    citations: 5
+  P5F9QuxV20EC:
+    title: A novel multi-objective algorithm for the optimal placement of wind turbines with cost and yield production criteria
+    year: '2014'
+    citations: 5
+  abG-DnoFyZgC:
+    title: 'Differentiation in the cloud: methodology for integrating customer values in experience design'
+    year: '2012'
+    citations: 5
+  YsMSGLbcyi4C:
+    title: On the design of frequency-switching patterns for distributed data fusion over relay networks
+    year: '2010'
+    citations: 5
+  ufrVoPGSRksC:
+    title: Design, simulation and hardware validation of a low-cost CLMS echo canceling system
+    year: '2009'
+    citations: 5
+  qjMakFHDy7sC:
+    title: Source controlled modulation scheme for sources with memory
+    year: '2007'
+    citations: 5
+  E7VqQtBCVmcC:
+    title: Large Language Models for Structured Task Decomposition in Reinforcement Learning Problems with Sparse Rewards
+    year: '2025'
+    citations: 4
+  RMgMIBzvq-4C:
+    title: 'WoodAD: A New Dataset and a Comparison of Deep Learning Approaches for Wood Anomaly Detection'
+    year: '2025'
+    citations: 4
+  BOlwja0KXvYC:
+    title: Person re-identification with spatial multi-granularity feature exploration for social risk situational assessment
+    year: '2024'
+    citations: 4
+  X0DADzN9RKwC:
+    title: Using curiosity for an even representation of tasks in continual offline reinforcement learning
+    year: '2024'
+    citations: 4
+  AYInfyleIOsC:
+    title: 'What to sense when there is no sensor: Ex-novo traffic flow estimation for non-sensed roads'
+    year: '2022'
+    citations: 4
+  8Xgff_V0N9gC:
+    title: A Multifactorial Cellular Genetic Algorithm for Multimodal Multitask Optimization
+    year: '2022'
+    citations: 4
+  oi2SiIJ9l4AC:
+    title: Change detection and adaptation strategies for long-term estimation of pedestrian flows
+    year: '2021'
+    citations: 4
+  w1MjKQ0l0TYC:
+    title: Soft sensing methods for the generation of plausible traffic data in sensor-less locations
+    year: '2021'
+    citations: 4
+  gKiMpY-AVTkC:
+    title: Deep recurrent neural networks and optimization meta-heuristics for green urban route planning with dynamic traffic estimates
+    year: '2019'
+    citations: 4
+  IUKN3-7HHlwC:
+    title: 'Foreword: New theoretical insights and practical applications of bio-inspired computation approaches.'
+    year: '2019'
+    citations: 4
+  FPJr55Dyh1AC:
+    title: Interplay of two bat algorithm robotic swarms in non-cooperative target point search
+    year: '2018'
+    citations: 4
+  pYKElYtJMmwC:
+    title: 'Heuristics and Hyper-Heuristics: Principles and Applications'
+    year: '2017'
+    citations: 4
+  1yQoGdGgb4wC:
+    title: A novel adaptive density-based ACO algorithm with minimal encoding redundancy for clustering problems
+    year: '2016'
+    citations: 4
+  bFI3QPDXJZMC:
+    title: 'ENVIRAN: Energy efficient virtual radio access networks'
+    year: '2013'
+    citations: 4
+  lSLTfruPkqcC:
+    title: Spectrum band and RAT selection for infrastructure governed opportunistic networks
+    year: '2012'
+    citations: 4
+  J_g5lzvAfSwC:
+    title: A discrete particle swarm optimization algorithm for mobile network deployment problems
+    year: '2012'
+    citations: 4
+  RGFaLdJalmkC:
+    title: A heuristically-driven multi-criteria tool for the design of efficient open WiFi access networks
+    year: '2012'
+    citations: 4
+  4TOpqqG69KYC:
+    title: A novel grouping heuristic algorithm for the switch location problem based on a hybrid dual harmony search technique
+    year: '2011'
+    citations: 4
+  HDshCWvjkbEC:
+    title: On the application of a novel hybrid harmony search algorithm to the radar polyphase code design problem
+    year: '2011'
+    citations: 4
+  cFHS6HbyZ2cC:
+    title: Harmony search heuristics for quasi-asynchronous CDMA detection with M-PAM signalling
+    year: '2010'
+    citations: 4
+  roLk4NBRz8UC:
+    title: Diversity Gain Analysis of a Novel Dual-Frequency Multiple Access Relay Transmission Scheme
+    year: '2007'
+    citations: 4
+  jlhcAiayVhoC:
+    title: 'AiGAS-dEVL: An adaptive incremental neural gas model for drifting data streams under extreme verification latency'
+    year: '2026'
+    citations: 3
+  TGkaJS32XoUC:
+    title: 'Gelaco: An evolutionary approach to layer compression'
+    year: '2025'
+    citations: 3
+  R22Rs3tN8aoC:
+    title: 'AiGAS-dEVL-RC: An Adaptive Growing Neural Gas Model for Recurrently Drifting Unsupervised Data Streams'
+    year: '2025'
+    citations: 3
+  U0iAMwwPxtsC:
+    title: Membership Inference Attacks Fueled by Few-Shot Learning to Detect Privacy Leakage and Address Data Integrity
+    year: '2025'
+    citations: 3
+  QsKbpXNoaWkC:
+    title: 'Resilience to the flowing unknown: An open set recognition framework for data streams'
+    year: '2024'
+    citations: 3
+  lg2tdxc6qMwC:
+    title: A Contrastive Symmetric Forward-Forward Algorithm (SFFA) for Continual Learning Tasks
+    year: '2024'
+    citations: 3
+  PQEM9vzQD9gC:
+    title: Balancing performance, efficiency and robustness in open-world machine learning via evolutionary multi-objective model compression
+    year: '2024'
+    citations: 3
+  KS-xo-ZNxMsC:
+    title: Mitigating Toxicity in Dialogue Agents through Adversarial Reinforcement Learning.
+    year: '2024'
+    citations: 3
+  wSy_KLzO7YEC:
+    title: 'Efficient platooning for urban last mile logistics using multi-objective optimization: Performance comparison and load strategies'
+    year: '2023'
+    citations: 3
+  sJPMR1oEGYQC:
+    title: A Causal Deep Learning Framework for Traffic Forecasting
+    year: '2023'
+    citations: 3
+  TaaCk18tZOkC:
+    title: On the Design and Performance of a Novel Metaheuristic Solver for the Extended Colored Traveling Salesman Problem
+    year: '2023'
+    citations: 3
+  0aBXIfxlw9sC:
+    title: Deterministic and stochastic exploration of long asteroid fly-by sequences exploiting tree-graph and optimal substructure properties
+    year: '2022'
+    citations: 3
+  UuEBAcK4md4C:
+    title: An active adaptation strategy for streaming time series classification based on elastic similarity measures
+    year: '2022'
+    citations: 3
+  rbm3iO8VlycC:
+    title: 'Nature-and bio-inspired optimization: the good, the bad, the ugly and the hopeful'
+    year: '2022'
+    citations: 3
+  DkZNVXde3BIC:
+    title: 'MO-MFCGA: multiobjective multifactorial cellular genetic algorithm for evolutionary multitasking'
+    year: '2021'
+    citations: 3
+  -95Q15plzcUC:
+    title: Rank aggregation for non-stationary data streams
+    year: '2021'
+    citations: 3
+  HhcuHIWmDEUC:
+    title: 'SLAYER: A Semi-supervised Learning Approach for Drifting Data Streams under Extreme Verification Latency.'
+    year: '2021'
+    citations: 3
+  -mN3Mh-tlDkC:
+    title: An Intelligent Procedure for the Characterization of Energy Consumption in Industrial Environments
+    year: '2020'
+    citations: 3
+  86PQX7AUzd4C:
+    title: 'Introductory Chapter: Nature-Inspired Methods for Stochastic, Robust, and Dynamic Optimization'
+    year: '2018'
+    citations: 3
+  vDijr-p_gm4C:
+    title: Multi-objective heuristics applied to robot task planning for inspection plants
+    year: '2017'
+    citations: 3
+  hkOj_22Ku90C:
+    title: 'Intelligent SPARQL endpoints: Optimizing execution performance by automatic query relaxation and queue scheduling'
+    year: '2016'
+    citations: 3
+  evX43VCCuoAC:
+    title: Harmony search algorithm
+    year: '2015'
+    citations: 3
+  1sJd4Hv_s6UC:
+    title: A novel range-free localization algorithm to turn connectivity traces and motion data into localization information
+    year: '2014'
+    citations: 3
+  ns9cj8rnVeAC:
+    title: Efficient design of a double‐band coplanar hybrid antenna using multi‐objective evolutionary programming
+    year: '2013'
+    citations: 3
+  TFP_iSt0sucC:
+    title: Concurrent and distributed projection through local interference for wireless sensor networks
+    year: '2011'
+    citations: 3
+  _kc_bZDykSQC:
+    title: 'Resource allocation in rate-limited OFDMA systems: A hybrid heuristic approach'
+    year: '2011'
+    citations: 3
+  RHpTSmoSYBkC:
+    title: Signal shaping scheme based on the BWT for the transmission of non-binary sources with memory over the AWGN channel
+    year: '2010'
+    citations: 3
+  UebtZRa9Y70C:
+    title: H. 264/SVC rate-resiliency tradeoff in faulty communications through 802.16 e railway networks
+    year: '2009'
+    citations: 3
+  0EnyYjriUFMC:
+    title: Performance Analysis of a Novel Dual-Frequency Multiple Access Relay Transmission Scheme
+    year: '2009'
+    citations: 3
+  qsWQJNntlusC:
+    title: 'Emerging NeoHebbian Dynamics in Forward-Forward Learning: Implications for Neuromorphic Computing'
+    year: '2026'
+    citations: 2
+  GYcXSSpN504C:
+    title: Multi-criteria integration of passenger and freight transport for sustainable last-mile delivery logistics
+    year: '2026'
+    citations: 2
+  _tF6a-HnqWAC:
+    title: 'Words as Beacons: Guiding RL Agents with High-Level Language Prompts'
+    year: '2024'
+    citations: 2
+  Vr2j17o0sqMC:
+    title: Neuromorphic Technology Insights in Spain
+    year: '2024'
+    citations: 2
+  4e5Qn2KL_jwC:
+    title: Reconstruction-Based Anomaly Detection in Wind Turbine Operation Time Series Using Generative Models
+    year: '2024'
+    citations: 2
+  NMlhSUseqAsC:
+    title: Traffic data analysis and route planning
+    year: '2023'
+    citations: 2
+  eAlLMO4JVmQC:
+    title: On the Potential of Randomization-based Neural Networks for Driving Behavior Classification
+    year: '2022'
+    citations: 2
+  EPG8bYD4jVwC:
+    title: On the design of graph embeddings for the sensorless estimation of road traffic profiles
+    year: '2022'
+    citations: 2
+  XUvXOeBm_78C:
+    title: Distributed Coordination of Heterogeneous Robotic Swarms Using Stochastic Diffusion Search
+    year: '2020'
+    citations: 2
+  CdxZDUztZiMC:
+    title: Data-driven predictive modeling of traffic and air flow for the improved efficiency of tunnel ventilation systems
+    year: '2020'
+    citations: 2
+  vDZJ-YLwNdEC:
+    title: 'Introductory Chapter: Swarm Intelligence-Recent Advances, New Perspectives, and Applications'
+    year: '2019'
+    citations: 2
+  F9fV5C73w3QC:
+    title: Real-time Electrical Power Prediction in a Combined Cycle Power Plant
+    year: '2019'
+    citations: 2
+  nZcligLrVowC:
+    title: Cooperative game concepts in solving global optimization
+    year: '2019'
+    citations: 2
+  yFnVuubrUp4C:
+    title: Bat algorithm for kernel computation in fractal image reconstruction
+    year: '2019'
+    citations: 2
+  nPT8s1NX_-sC:
+    title: 'Quantum computing: Six key factors to understand the future of computation'
+    year: '2018'
+    citations: 2
+  N5tVd3kTz84C:
+    title: A simulation-based quantitative analysis on the topological heritability of Dandelion-encoded meta-heuristics for tree optimization problems
+    year: '2017'
+    citations: 2
+  uLbwQdceFCQC:
+    title: A Novel Grouping Harmony Search Algorithm for Clustering Problems
+    year: '2017'
+    citations: 2
+  AXPGKjj_ei8C:
+    title: Joint topology optimization, power control and spectrum allocation for intra-vehicular multi-hop sensor networks using dandelion-encoded heuristics
+    year: '2016'
+    citations: 2
+  eJXPG6dFmWUC:
+    title: On the heritability of Dandelion-encoded harmony search heuristics for tree optimization problems
+    year: '2015'
+    citations: 2
+  SP6oXDckpogC:
+    title: A Bi-objective harmony search approach for deploying cost-effective multi-hop communications over large-area wildfires
+    year: '2014'
+    citations: 2
+  xtRiw3GOFMkC:
+    title: A decode-and-forward scheme for multihop wireless networks
+    year: '2013'
+    citations: 2
+  a9-T7VOCCH8C:
+    title: Recent Advances on Meta-Heuristics and Their Application to Real Scenarios
+    year: '2013'
+    citations: 2
+  NaGl4SEjCO4C:
+    title: On the design of an heuristically optimized multiband spectrum sensing approach for cognitive radio systems
+    year: '2012'
+    citations: 2
+  GnPB-g6toBAC:
+    title: Energy efficient spectrum access in cognitive wireless access networks
+    year: '2012'
+    citations: 2
+  Zph67rFs4hoC:
+    title: On the performance of single LDGM codes for iterative data fusion over the multiple access channel
+    year: '2010'
+    citations: 2
+  qUcmZB5y_30C:
+    title: Turbo joint source-channel coding of non-uniform memoryless sources in the bandwidth-limited regime
+    year: '2010'
+    citations: 2
+  kNdYIx-mwKoC:
+    title: Enhanced sensing error probability estimation for iterative data fusion in the low SNR regime
+    year: '2010'
+    citations: 2
+  _FxGoFyzp5QC:
+    title: On the coexistence of pulsed uwb communications with tv distribution services over matv cable networks
+    year: '2006'
+    citations: 2
+  SrKkpNFED5gC:
+    title: 'CT<sub><i>CL</i></sub>: A Cross-Language Benchmark for Matching Patients to Clinical Trials'
+    year: '2026'
+    citations: 1
+  l6Q3WhenKVUC:
+    title: Towards Robust Machine Learning Models for the Estimation of Mooring-Line Tension in Floating Wind Turbines under Unknown Sea Conditions
+    year: '2026'
+    citations: 1
+  BJtnxTr0fRcC:
+    title: 'SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks'
+    year: '2026'
+    citations: 1
+  6VlyvFCUEfcC:
+    title: On the Inherent Robustness of One-Stage Object Detection against Out-of-Distribution Data
+    year: '2026'
+    citations: 1
+  yIeBiWEAh44C:
+    title: Swarm Intelligence–Based Fractional System Identification on Programmable Logic Controllers for Industrial Applications
+    year: '2026'
+    citations: 1
+  vVJNg6_NJEsC:
+    title: Improving the classification of cybersecurity attack procedures using retrieval augmented generation
+    year: '2025'
+    citations: 1
+  lbI08cpqPnQC:
+    title: An approach based on machine learning and mel-frequency cepstral coefficients for locating faults in transmission lines
+    year: '2025'
+    citations: 1
+  ndLnGcHYRF0C:
+    title: 'Fractal Feature Modeling: Multi-Dimensional Attention and Spatial Adaptive Relationship Learning for Person Re-Identification'
+    year: '2025'
+    citations: 1
+  8VtEwCQfWZkC:
+    title: 'D-CRISP: explaining object detectors by combining randomized and segment-based perturbations'
+    year: '2025'
+    citations: 1
+  nPTYJWkExTIC:
+    title: Domain generalized person reidentification based on skewness regularity of higher-order statistics
+    year: '2024'
+    citations: 1
+  WwIwg2wKZ0QC:
+    title: 'Advancing towards Safe Reinforcement Learning over Sparse Environments with Out-of-Distribution Observations: Detection and Adaptation Strategies'
+    year: '2024'
+    citations: 1
+  OzeSX8-yOCQC:
+    title: Evolutionary multi-objective quantization of randomization-based neural networks
+    year: '2023'
+    citations: 1
+  nqdriD65xNoC:
+    title: Enhanced Generalization through Prioritization and Diversity in Self-Imitation Reinforcement Learning over Procedural Environments with Sparse Rewards
+    year: '2023'
+    citations: 1
+  Og1tA8FjbJAC:
+    title: Spatial Estimation of Ground-Level Temperature for Climate-Sensitive Urban Mobility using Image-to-Image Deep Neural Networks
+    year: '2023'
+    citations: 1
+  YTuZlYwrTOUC:
+    title: Expert-driven Rule-based Refinement of Semantic Segmentation Maps for Autonomous Vehicles
+    year: '2023'
+    citations: 1
+  G1UMdFYMoxkC:
+    title: Solving a Multi-objective Job Shop Scheduling Problem with an Automatically Configured Evolutionary Algorithm
+    year: '2023'
+    citations: 1
+  VN7nJs4JPk0C:
+    title: Performance and Explainability of Reservoir Computing Models for Industrial Prognosis
+    year: '2021'
+    citations: 1
+  PaBasH6fAo0C:
+    title: Parametric learning of associative functional networks through a modified memetic self-adaptive firefly algorithm
+    year: '2020'
+    citations: 1
+  bKqednn6t2AC:
+    title: Dynamic partitioning of evolving graph streams using nature-inspired heuristics
+    year: '2019'
+    citations: 1
+  8d8msizDQcsC:
+    title: Multi-objective metaheuristics for a flexible ligand-macromolecule docking problem in computational biology
+    year: '2018'
+    citations: 1
+  q3CdL3IzO_QC:
+    title: Memetic Modified Cuckoo Search Algorithm with ASSRS for the SSCF Problem in Self-Similar Fractal Image Reconstruction
+    year: '2018'
+    citations: 1
+  tKAzc9rXhukC:
+    title: Quantitative Analysis and Performance Study of Ant Colony Optimization Models Applied to Multi-mode Resource Constraint Project Scheduling Problems
+    year: '2017'
+    citations: 1
+  7T2F9Uy0os0C:
+    title: An analysis of coalition-competition pricing strategies for multi-operator mobile traffic offloading using bi-objective heuristics
+    year: '2017'
+    citations: 1
+  Fu2w8maKXqMC:
+    title: Wireless Network Optimization for Massive V2I Data Collection using Multiobjective Harmony Search Heuristics
+    year: '2017'
+    citations: 1
+  _Ybze24A_UAC:
+    title: A grouping harmony search algorithm for assigning resources to users in WCDMA mobile networks
+    year: '2017'
+    citations: 1
+  UxriW0iASnsC:
+    title: A novel harmony search algorithm for one-year-ahead energy demand estimation using macroeconomic variables
+    year: '2014'
+    citations: 1
+  maZDTaKrznsC:
+    title: Asymptotic analysis of flooding in CSMA-based large scale ad-hoc wireless networks
+    year: '2012'
+    citations: 1
+  O3NaXMp0MMsC:
+    title: Analysis of quantization effects on the performance of cooperative MIMO techniques in wireless networks
+    year: '2012'
+    citations: 1
+  isC4tDSrTZIC:
+    title: A note on the Wiener filter for vector random processes
+    year: '2011'
+    citations: 1
+  ZHo1McVdvXMC:
+    title: Análisis en términos de ganancia de conformación de un esquema de transmisión para fuentes multiletra no uniformes sin memoria
+    year: '2010'
+    citations: 1
+  hqOjcs7Dif8C:
+    title: Design and implementation of a direct RF-to-digital UHF-TV multichannel transceiver
+    year: '2010'
+    citations: 1
+  dfsIfKJdRG4C:
+    title: Joint Turbo Coding and Source-Controlled Modulation of Cycle-Stationary Sources in the Bandwidth-Limited Regime
+    year: '2010'
+    citations: 1
+  g5m5HwL7SMYC:
+    title: Optimizacion de Parámetros y Criterios de Salida de Algoritmos Genéticos para Deteccion CDMA
+    year: '2010'
+    citations: 1
+  _Qo2XoVZTnwC:
+    title: IR-UWB binary communications for sources with nonequal probabilities
+    year: '2007'
+    citations: 1
+  qxL8FJ1GzNcC:
+    title: Joint Source-Channel Decoding ASIP Architecture for Sensor Networks
+    year: '2007'
+    citations: 1
+  8k81kl-MbHgC:
+    title: Erratum to" serially-concatenated LDGM codes for correlated sources over Gaussian broadcast channels"
+    year: '2006'
+    citations: 1
+  43bX7VzcjpAC:
+    title: 'Traveling Salesman Problem: A Prospective Review of Recent Research and New Results with Bio-Inspired Metaheuristics and Novelty Search'
+    year: ''
+    citations: 1
+  j5aT6aphRxQC:
+    title: 'VAMOS: A framework for fast, configurable and accessible multiobjective optimization in python'
+    year: '2026'
+    citations: 0
+  hefNtdE4IMkC:
+    title: Adaptive Conformalized RNN Ensembles for Uncertainty-Aware Motion Prediction of Floating Offshore Wind Turbines in Stochastic Marine Environments
+    year: '2026'
+    citations: 0
+  DquSII9TDu4C:
+    title: A Semi‐Interpretable Multimodal Model Combining Electronic Health Records and Chest X‐Rays for COVID‐19‐Related Death Prediction
+    year: '2026'
+    citations: 0
+  X5YyAB84Iw4C:
+    title: 'From Assistants to Auditors: Opportunities and Challenges of using General-Purpose AI for Auditing Responsible AI Systems'
+    year: '2026'
+    citations: 0
+  rqnDXT1GswoC:
+    title: 'Self-Supervised Cross-Sensor Spectral Image Fusion: A cross-domain multimodal reciprocal learning framework'
+    year: '2026'
+    citations: 0
+  CMvovTBb2okC:
+    title: 'DMSFNet: Dual-stage Modality-guided Frequency Suppression and Semantic Fusion for Visible-Infrared Person Re-Identification'
+    year: '2026'
+    citations: 0
+  qCpRzq7zkD8C:
+    title: 'IMFACT: Counterfactual Explanations for Time Series via Intrinsic Mode Function Substitution'
+    year: '2026'
+    citations: 0
+  SpPTWFSNUtQC:
+    title: A Self‐Supervised Machine Learning Approach for the Estimation of Open‐Circuit Voltage Degradation in Photovoltaic Systems
+    year: '2026'
+    citations: 0
+  tBlTYpvFGQIC:
+    title: 'As Simple as Possible, but Not Simpler: When Reservoir Computing Rivals Deep Learning in Hydrological Prediction'
+    year: '2026'
+    citations: 0
+  u3T1itk59dMC:
+    title: Robust Mooring Tension Estimation of Floating Structures Using Direct-Input Echo State Networks
+    year: '2026'
+    citations: 0
+  PVqtIyvKoSUC:
+    title: Evolutionary Prompt Optimization for Visual Language Models using Equivariant Semantics
+    year: '2026'
+    citations: 0
+  ukw-9cB-YDkC:
+    title: '4SNet: Spatial and Spectrum Self-adaptive Synergy Network for Visible-Infrared Person Re-identification'
+    year: '2026'
+    citations: 0
+  c1AJUTjuCtUC:
+    title: 'xAI-2026 Late-breaking Work, Demos and Doctoral Consortium Joint Proceedings: Joint Proceedings of the xAI 2026 Late-breaking Work, Demos and Doctoral Consortium (LB/D/DC@ xAI …'
+    year: '2026'
+    citations: 0
+  lK9BDNCuzFgC:
+    title: 'On the Limitations of Neural Collapse for the Detection of Out-of-Distribution Observations: Can We Do Any Better?'
+    year: '2026'
+    citations: 0
+  v_tt_AnqfNMC:
+    title: 'Reflect, Reason, Rephrase (R³-Detox): An In-Context Learning Approach to Text Detoxification'
+    year: '2025'
+    citations: 0
+  h168fVGZblEC:
+    title: 'IARD: Intruder Activity Recognition Dataset for Threat Detection'
+    year: '2025'
+    citations: 0
+  XAp-VaTZjjwC:
+    title: 'Benchmarking Machine Learning Models for QoE Estimation in Video Streaming: Accuracy, Efficiency, Confidence and Explainability'
+    year: '2025'
+    citations: 0
+  Ej9njvOgR2oC:
+    title: 'CRTSC: Channel-Wise Recalibration and Texture-Structural Consistency Constraint for Anomaly Detection in Medical Chest Images'
+    year: '2025'
+    citations: 0
+  vnF2_uLGgtgC:
+    title: Evolutionary Computation as a Path to Safe, Trustworthy, and Responsible General-Purpose Artificial Intelligence
+    year: '2025'
+    citations: 0
+  VRfTbSk87rEC:
+    title: 'Guest Editorial: Special Issue on Human-Machine Fusion Decision-Making for Emergency Handling'
+    year: '2025'
+    citations: 0
+  DQNrXyjhriIC:
+    title: 'Computación evolutiva para el diseño y mejora de sistemas inteligentes de propósito general: estudio y perspectivas'
+    year: '2025'
+    citations: 0
+  I858iXPj1OkC:
+    title: 'Trustworthy Artificial Intelligence: Nature, Requirements, Regulation, and Emerging Discussions'
+    year: '2025'
+    citations: 0
+  orDZ08hpP44C:
+    title: Fostering Intrinsic Motivation in Reinforcement Learning with Pretrained Foundation Models
+    year: '2024'
+    citations: 0
+  rLGzs9wiiwIC:
+    title: On the Connection Between Neural Activations and Uncertainty in Object Detection Transformers Using Topological Data Analysis
+    year: '2024'
+    citations: 0
+  eH23hyXCXa4C:
+    title: 'Beyond short-term traffic forecasting models: navigating through data availability constraints'
+    year: '2024'
+    citations: 0
+  6ZzL7HXColQC:
+    title: Intrinsic Motivation mechanisms for a better sample efficiency in deep reinforcement learning applied to scenarios with sparse rewards
+    year: '2023'
+    citations: 0
+  yY3RG6sOEgwC:
+    title: Multi-step Ahead Visual Trajectory Prediction for Object Tracking using Echo State Networks
+    year: '2023'
+    citations: 0
+  Y9VhQm-5nPIC:
+    title: Estimación de Matrices Origen-Destino a partir de Datos de Flujo Vehicular
+    year: '2023'
+    citations: 0
+  isU91gLudPYC:
+    title: A Comparison of Modelling Approaches for the Long-term Estimation of Origin Destination Matrices in Bike Sharing Systems
+    year: '2022'
+    citations: 0
+  WzTVkKNmPSkC:
+    title: An Evaluation Study of Intrinsic Motivation Techniques Applied to Reinforcement Learning over Hard
+    year: '2022'
+    citations: 0
+  qmtmRrLr0tkC:
+    title: 'Capabilities, Limitations and Challenges of Style Transfer with CycleGANs: A Study on Automatic Ring Design'
+    year: '2022'
+    citations: 0
+  QsaTk4IG4EwC:
+    title: LANGUAGE PROCESSING
+    year: '2021'
+    citations: 0
+  jU7OWUQzBzMC:
+    title: Swarm Intelligence for Automatic Color and Contrast Retrieval of Digital Images of Paintings
+    year: '2020'
+    citations: 0
+  kw52XkFRtyQC:
+    title: A Novel Formulation for the Energy Storage Scheduling Problem in Solar Self-consumption Systems
+    year: '2020'
+    citations: 0
+  rCNdntzdTkkC:
+    title: dMFEA-II
+    year: '2020'
+    citations: 0
+  naSTrk-c4S8C:
+    title: 'Comprehensive Taxonomies of Nature-and Bio-inspired Optimization: Inspiration Versus Algorithmic Behavior, Critical Analysis Recommendations'
+    year: '2020'
+    citations: 0
+  3A3nxV7CjKIC:
+    title: Aprendizaje automático para la anotación de ritmos en parada cardiorrespiratoria
+    year: '2019'
+    citations: 0
+  O0nohqN1r9EC:
+    title: 'jMetalPy: a Python Framework for Multi-Objective Optimization with Metaheuristics'
+    year: '2019'
+    citations: 0
+  OR75R8vi5nAC:
+    title: Using Adaptive Novelty Search in Differential Evolution
+    year: '2019'
+    citations: 0
+  L24QuVWYgZ0C:
+    title: Using Adaptive Novelty Search in Differential Evolution
+    year: '2019'
+    citations: 0
+  QoJ_w57xiyAC:
+    title: Dynamic Partitioning of Evolving Graph Streams Using Nature-Inspired Heuristics
+    year: '2019'
+    citations: 0
+  owLR8QvbtFgC:
+    title: Intelligent Embedded Vision for Summarization of Multi-View Videos in IIoT
+    year: '2019'
+    citations: 0
+  Aul-kAQHnToC:
+    title: Online Ranking with Concept Drifts in Streaming Data.
+    year: '2019'
+    citations: 0
+  Ri6SYOTghG4C:
+    title: A Study of the Predictive Earliness of Traffic Flow Characterization for Software Defined Networking
+    year: '2018'
+    citations: 0
+  TesyEGJKHF4C:
+    title: Decision Making in Industry 4.0 Scenarios Supported by Imbalanced
+    year: '2018'
+    citations: 0
+  0izLItjtcgwC:
+    title: Intelligent Distributed Computing XII
+    year: '2018'
+    citations: 0
+  Dip1O2bNi0gC:
+    title: 'Quantum Computing: Six Key Factors to Understand the Future of Computation'
+    year: '2018'
+    citations: 0
+  -FonjvnnhkoC:
+    title: Task Classification Using Topological Graph Features for Functional M/EEG Brain Connectomics
+    year: '2018'
+    citations: 0
+  H7nrzBkawXsC:
+    title: Task Classification Using Topological Graph Features for Functional M/EEG
+    year: '2018'
+    citations: 0
+  txeM2kYbVNMC:
+    title: 'SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks (Supplementary Materials)'
+    year: '2018'
+    citations: 0
+  yeL6HyUMUGUC:
+    title: Solving the Open-Path Asymmetric Green Traveling Salesman Problem in a Realistic Urban Environment
+    year: '2018'
+    citations: 0
+  W2uZP3ddy8sC:
+    title: Automatic Fitting of Feature Points for Border Detection of Skin Lesions in Medical Images with Bat Algorithm
+    year: '2018'
+    citations: 0
+  cBPnxVikjH8C:
+    title: Using Novelty Search in Differential Evolution
+    year: '2018'
+    citations: 0
+  HtEfBTGE9r8C:
+    title: XVIII Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA 2018)
+    year: '2018'
+    citations: 0
+  AvfA0Oy_GE0C:
+    title: KETpic-Matlab Toolbox for LaTeX High-Quality Graphical Artwork in Educational Materials on Bézier Curve Algorithms at a Master Level
+    year: '2017'
+    citations: 0
+  EkHepimYqZsC:
+    title: A local search method for graph clustering heuristics based on partitional Distribution learning
+    year: '2017'
+    citations: 0
+  kzcrU_BdoSEC:
+    title: Cost-Efficient Selective Network Caching in Large-Area Vehicular Networks Using Multi-objective Heuristics
+    year: '2017'
+    citations: 0
+  z_wVstp3MssC:
+    title: A Novel Grouping Harmony Search Algorithm for Clustering Problems
+    year: '2017'
+    citations: 0
+  VLnqNzywnoUC:
+    title: An Analysis of Coalition-Competition Pricing Strategies for Multi-operator Mobile Traffic Offloading Using Bi-objective Heuristics
+    year: '2017'
+    citations: 0
+  sbeIDTyQOFgC:
+    title: Detection of non-technical losses in smart meter data based on load curve profiling and time series analysis
+    year: '2017'
+    citations: 0
+  1DsIQWDZLl8C:
+    title: Joint Feature Selection and Parameter Tuning for Short-term Traffic Flow Forecasting based on Heuristically Optimized Multi-layer Neural Networks
+    year: '2017'
+    citations: 0
+  WC9gN4BGCRcC:
+    title: Cost-efficient Selective Network Caching in Large-Area Vehicular Networks using Multi-objective Heuristics
+    year: '2017'
+    citations: 0
+  yB1At4FlUx8C:
+    title: 'Intelligent SPARQL Endpoints: Optimizing Execution Performance by Automatic Query Relaxation and Queue Scheduling'
+    year: '2016'
+    citations: 0
+  LjlpjdlvIbIC:
+    title: On the Application of Bio-inspired Heuristics for Network Routing with Multiple QoS Constraints
+    year: '2016'
+    citations: 0
+  wKETBy42zhYC:
+    title: 'Intelligent SPARQL Endpoints: Optimizing Execution Performance by Automatic Query Relaxation and Queue Scheduling'
+    year: '2016'
+    citations: 0
+  sgsej9ZJWHMC:
+    title: A Meta-heuristically Optimized Fuzzy Approach towards Multi-metric Security Risk Assessment in Heterogeneous System of Systems
+    year: '2014'
+    citations: 0
+  3htObqc8RwsC:
+    title: Swarm and Evolutionary Computation
+    year: '2013'
+    citations: 0
+  c_xDhezhKKUC:
+    title: Study and development of advanced meta-heuristic approaches for resource allocation in intelligent communication systems
+    year: '2013'
+    citations: 0
+  M05iB0D1s5AC:
+    title: 2012 Index IEEE Journal of Selected Topics in Signal Processing Vol. 6
+    year: '2012'
+    citations: 0
+  ClCfbGk0d_YC:
+    title: Soft Computing Approaches in the design of energy-efficient wireless systems
+    year: '2012'
+    citations: 0
+  2P1L_qKh6hAC:
+    title: 'Mobile Lightweight Wireless Systems: Third International ICST Conference, MOBILIGHT 2011, Bilbao, Spain, May 9-10, 2011, Revised Selected Papers'
+    year: '2012'
+    citations: 0
+  LXmCCkuhhTsC:
+    title: Research Article Iterative Fusion of Distributed Decisions over the Gaussian Multiple-Access Channel Using Concatenated BCH-LDGM Codes
+    year: '2011'
+    citations: 0
+  aqlVkmm33-oC:
+    title: Centralized synchronization methods for distributed detection in sensor networks
+    year: '2010'
+    citations: 0
+  rbGdIwl2e6cC:
+    title: On the Performance of Single LDGM Codes
+    year: '2010'
+    citations: 0
+  mB3voiENLucC:
+    title: On the design of a scalable multimedia streaming system based on receiver-driven flow and congestion awareness
+    year: '2010'
+    citations: 0
+  M3ejUd6NZC8C:
+    title: Design and implementation of a multichannel UHF-TV digital IF transceiver
+    year: '2010'
+    citations: 0
+  L8Ckcad2t8MC:
+    title: Fixed-complexity regularized vector precoding for the multiuser MIMO downlink channel
+    year: '2009'
+    citations: 0
+  ZeXyd9-uunAC:
+    title: Improved dual frequency multiple access relay scheme for spatially correlated sources
+    year: '2008'
+    citations: 0
+  hFOr9nPyWt4C:
+    title: Pulsed multi-band MIMO for UWB systems
+    year: '2007'
+    citations: 0
+  Ic1VZgkJnDsC:
+    title: Iterative joint source-channel coding techniques for single and multiterminal sources in communication networks
+    year: '2006'
+    citations: 0
+  yJjnfzR0HrkC:
+    title: Spike-Density Gating for Efficient Spiking Transformers
+    year: ''
+    citations: 0
+  MDX3w3dAD3YC:
+    title: Multi-Objective Meta-Optimization for Configuring NSGA-II on Real-World Engineering Problems
+    year: ''
+    citations: 0
+  i_7YvbSbtFEC:
+    title: Results in Engineering
+    year: ''
+    citations: 0
+  RfUwGJFMQ-0C:
+    title: Transportation Research Interdisciplinary Perspectives
+    year: ''
+    citations: 0
+  X4-KO54GjGYC:
+    title: Transportation Research Interdisciplinary Perspectives
+    year: ''
+    citations: 0
+  g_UdREhPGEoC:
+    title: Swarm and Evolutionary Computation
+    year: ''
+    citations: 0
+  kUhpeDhEZMUC:
+    title: Monte Carlo Estimation of Origin-Destination Matrices from Traffic Counts
+    year: ''
+    citations: 0
+  aEW5N-EHWIMC:
+    title: 'Computación Evolutiva para el Diseño y Mejora de Sistemas Inteligentes de Propósito General: Estudio y perspectivas'
+    year: ''
+    citations: 0
+  PlWzFYVEG4EC:
+    title: Integrating Passenger and Freight Transport in Urban Areas Using Multi-Objective Optimization
+    year: ''
+    citations: 0
+  oTdOBqtIf_kC:
+    title: Context-Aware Audio-Visual Speech Enhancement Based on Neuro-Fuzzy Modeling and User Preference Learning....
+    year: ''
+    citations: 0
+  eI34FqJmdUoC:
+    title: Zadání diplomové práce
+    year: ''
+    citations: 0
+  RuPIJ_LgqDgC:
+    title: Spatial Attention Cooperative-Based Graph Convolutional Model for Person Re-Identification
+    year: ''
+    citations: 0
+  SAZ1SQo2q1kC:
+    title: What Size of Aisle Is Necessary? A System Dynamics Model for Mitigating Bottleneck Congestion in Entrance Halls of Metro Stations …
+    year: ''
+    citations: 0
+  1tZ8xJnm2c8C:
+    title: Research Article An Island Grouping Genetic Algorithm for Fuzzy Partitioning Problems
+    year: ''
+    citations: 0
+  silx2ntsSuwC:
+    title: Agarwal, Manish, Fuzzy Logic Control of Washing Machines, Paper 2011 Aho, Alfred V./Lam, Monica S./Sethi, Ravi/Ullman, Jeffry D., Compiler, 2. Aufl. Mün-chen 2008 Alcorn …
+    year: ''
+    citations: 0
+  PkcyUWeTMh0C:
+    title: SPECIAL ISSUE ON MULTITASK EVOLUTIONARY COMPUTATION
+    year: ''
+    citations: 0
+  ce2CqMG-AY4C:
+    title: 'Hence, the core challenge of smart cities, and smart mobility in particular, is twofold: First, to provide access to all traditional services a city must offer in this noted …'
+    year: ''
+    citations: 0
+  q-HalDI95KYC:
+    title: IEEE Transactions on Emerging Topics in Computational Intelligence
+    year: ''
+    citations: 0
+  0CzhzZyukY4C:
+    title: Convolutional Neural Network With Adaptive Regularization to Classify Driving Styles on Smartphones.............
+    year: ''
+    citations: 0
+  LhH-TYMQEocC:
+    title: Swarm and Evolutionary Computation
+    year: ''
+    citations: 0
+  Ug5p-4gJ2f0C:
+    title: Swarm and Evolutionary Computation
+    year: ''
+    citations: 0
+  g3aElNc5_aQC:
+    title: ICWMC 2010
+    year: ''
+    citations: 0
+  hMsQuOkrut0C:
+    title: ICWMC 2009
+    year: ''
+    citations: 0
+  ILKRHgRFtOwC:
+    title: CTRQ 2009
+    year: ''
+    citations: 0
+  L7CI7m0gUJcC:
+    title: AICT 2010
+    year: ''
+    citations: 0
+  EYYDruWGBe4C:
+    title: ICWMC 2010
+    year: ''
+    citations: 0
+  vbGhcppDl1QC:
+    title: CTRQ 2010
+    year: ''
+    citations: 0
+  p__nRnzSRKYC:
+    title: ICDT 2010
+    year: ''
+    citations: 0
+  JQOojiI6XY0C:
+    title: 'Resource Sharing in Mobile Clouds: How to find Opportunities'
+    year: ''
+    citations: 0
+  tS2w5q8j5-wC:
+    title: PLANIFICACIÓN Y VERIFICACIÓN DE INSTALACIÓN DE LA RED TETRA EN METRO BILBAO
+    year: ''
+    citations: 0
+  fPk4N6BV_jEC:
+    title: Plataforma de Evaluación de Codificación de Vídeo Escalable H. 264/SVC sobre Redes IEEE 802.16 e
+    year: ''
+    citations: 0
+  u_35RYKgDlwC:
+    title: Comparacion de Técnicas de Codificacion de Red y Encaminamiento para Redes de Multidifusion
+    year: ''
+    citations: 0
+  zA6iFVUQeVQC:
+    title: Codigos Multinivel para la Transmision de Fuentes Correlacionadas a través de Canales de Difusion
+    year: ''
+    citations: 0
+  rO6llkc54NcC:
+    title: Técnicas Avanzadas de Retransmision para Redes de Multiple Acceso con Fuentes Correlacionadas
+    year: ''
+    citations: 0
+  3s1wT3WcHBgC:
+    title: Algoritmo de Control Predictivo de Semáforos basado en Comunicaciones V2I con Mensajes CAM
+    year: ''
+    citations: 0
+  SeFeTyx0c_EC:
+    title: Técnicas de Retransmision por Cambio de Frecuencia en Redes Inalámbricas de SaltoUnico
+    year: ''
+    citations: 0
+  HoB7MX3m0LUC:
+    title: Algoritmo de Deteccion y Decodificacion Turbo Bio-inspirado para Escenarios CDMA de Secuencia Directa
+    year: ''
+    citations: 0
+  pqnbT2bcN3wC:
+    title: Estudio y Simulacion de Repetidores Regenerativos y no Regenerativos en Redes de Difusion DVB-T
+    year: ''
+    citations: 0
+  IWHjjKOFINEC:
+    title: Turbo Joint Source-Channel Coding of Cycle-Stationary Sources in the Bandwidth-Limited Regime
+    year: ''
+    citations: 0
+  QIV2ME_5wuYC:
+    title: Esquema de Transmision Binaria para Fuentes con Memoria basado en la Transformacion Burrows Wheeler
+    year: ''
+    citations: 0
+  Wp0gIr-vW9MC:
+    title: Codigos LDGM Concatenados para la Transmision de Fuentes Correlacionadas en Canales de Difusion
+    year: ''
+    citations: 0

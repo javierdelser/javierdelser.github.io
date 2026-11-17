@@ -1,19 +1,19 @@
 ---
 layout: page
-title: more
+title: More
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: awards
+  - title: Awards
     permalink: /awards/
-  - title: talks & service
+  - title: Talks & Service
     permalink: /service/
-  - title: teaching
+  - title: Teaching
     permalink: /teaching/
   - title: divider
-  - title: software
+  - title: Software
     permalink: /repositories/
-  - title: news archive
+  - title: News archive
     permalink: /news/
 ---
