@@ -43,5 +43,6 @@ bundle exec jekyll serve      # http://localhost:4000
 
 ## Deployment
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and publishes it to the `gh-pages` branch.
-Under **Settings → Pages**, the source must be **Deploy from a branch → `gh-pages`**. Under **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**.
+Under **Settings → Pages → Build and deployment**, set the source to **GitHub Actions**. The built-in branch build cannot load this site's Jekyll theme and plugins.
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds and deploys the site directly to GitHub Pages. Pull requests build the site without deploying it.
+After changing the source, merge this workflow and run **Deploy site** from the Actions tab if it has not already deployed.
