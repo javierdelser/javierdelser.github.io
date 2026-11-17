@@ -10,7 +10,7 @@ img: assets/img/research/research_rl.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.jpg" class="img-fluid rounded z-depth-1" alt="An agent trajectory over a learned value function" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.jpg" class="img-fluid rounded z-depth-1" alt="An agent learning the path to reward" %}
 </div>
 
 This line explores how **pretrained foundation models** (vision-language models and LLMs) can guide reinforcement learning agents in environments with sparse rewards, through intrinsic motivation, high-level language prompts and structured task decomposition.

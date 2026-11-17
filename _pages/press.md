@@ -33,14 +33,14 @@ nav_order: 7
 
 <div class="row">
   <div class="col-sm-6 mt-3">
-    {% include figure.liquid path="assets/img/press/ehu_2026.jpg" title="Javier Del Ser at UPV/EHU" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/press/ehu_2026.jpg" title="Javier Del Ser at EHU" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3">
     {% include figure.liquid path="assets/img/press/tecnalia_portrait.jpg" title="Javier Del Ser at TECNALIA" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Photos: UPV/EHU (left) and TECNALIA (right). High-resolution portraits for press use are available on request.
+  Photos: EHU (left) and TECNALIA (right). High-resolution portraits for press use are available on request.
 </div>
 
 ## <i class="fa-solid fa-newspaper"></i> In the news
@@ -69,7 +69,7 @@ nav_order: 7
 | 2025-11-19 | Estrategia Empresarial (ES)                  | [Javier del Ser, entre los científicos más citados del mundo](https://www.estrategia.net/noticias/javier-del-ser-investigador-en-inteligencia-artificial-en-tecnalia-y-ehu-entre-los-cientificos-mas-citados-del-mundo)                                                                                                                                                                                                                                                                                          |
 | 2025-11-19 | Parke.eus                                    | [Javier Del Ser among the world's most cited scientists](https://parke.eus/en/javier-del-ser-researcher-in-artificial-intelligence-at-tecnalia-and-ehu-among-the-worlds-most-cited-scientists/)                                                                                                                                                                                                                                                                                                                  |
 | 2025-11-19 | IY Magazine (ES)                             | [Javier del Ser figura entre los científicos más citados a nivel mundial](https://iymagazine.es/noticia/20683/universidad/javier-del-ser-destacado-en-inteligencia-artificial-figura-entre-los-cientificos-mas-citados-a-nivel-mundial.html)                                                                                                                                                                                                                                                                     |
-| 2025-10-07 | TECNALIA                                     | [Promoting the new UPV/EHU degree in Applied AI together with the JRL-A2I](https://www.tecnalia.com/en/news/we-are-promoting-the-new-degree-in-applied-ai-from-the-upv-ehu-along-with-jrl-a2i)                                                                                                                                                                                                                                                                                                                   |
+| 2025-10-07 | TECNALIA                                     | [Promoting the new EHU degree in Applied AI together with the JRL-A2I](https://www.tecnalia.com/en/news/we-are-promoting-the-new-degree-in-applied-ai-from-the-upv-ehu-along-with-jrl-a2i)                                                                                                                                                                                                                                                                                                                       |
 | 2025-07-17 | GECCO 2025                                   | [Keynote: Evolutionary Computation as a Path to Safe, Trustworthy, and Responsible General-Purpose AI](https://gecco-2025.sigevo.org/Keynotes) ([abstract](https://doi.org/10.1145/3712256.3737465))                                                                                                                                                                                                                                                                                                             |
 | 2025-04-30 | EHU Campusa (ES)                             | [Op-ed: Cuatro obstáculos que pueden limitar el potencial transformador de la IA](https://www.ehu.eus/es/web/campusa/-/javier-del-ser-cathedra)                                                                                                                                                                                                                                                                                                                                                                  |
 | 2025-04-22 | TECNALIA                                     | [We have analysed the economic and social impact of AI in the Senate](https://www.tecnalia.com/en/news/we-have-analysed-the-economic-and-social-impact-of-ai-in-the-senate)                                                                                                                                                                                                                                                                                                                                      |
@@ -117,7 +117,7 @@ nav_order: 7
 ## <i class="fa-solid fa-id-card"></i> Other profiles
 
 [TECNALIA Science Portal](https://scienceportal.tecnalia.com/en/persons/javier-del-ser-lorente) ·
-[UPV/EHU research portal](https://ekoizpen-zientifikoa.ehu.eus/investigadores/129783/detalle?lang=en) ·
+[EHU research portal](https://ekoizpen-zientifikoa.ehu.eus/investigadores/129783/detalle?lang=en) ·
 [BCAM](https://www.bcamath.org/en/people/bcam-members/jdelser) ·
 [ELLIS](https://ellis.eu/person/javier-del-ser-1) ·
 [Bankinter Foundation experts](https://www.fundacionbankinter.org/expertos/javier-del-ser/) ·

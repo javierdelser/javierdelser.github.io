@@ -10,7 +10,7 @@ img: assets/img/research/research_openworld.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_openworld.jpg" class="img-fluid rounded z-depth-1" alt="Known classes and out-of-distribution samples" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_openworld.jpg" class="img-fluid rounded z-depth-1" alt="Open-world clusters beyond the known" %}
 </div>
 
 Deployed models constantly face inputs unlike their training data. This line develops methods that let ML models **know what they do not know**: detecting out-of-distribution (OOD) inputs, recognizing unknown classes in data streams, quantifying uncertainty, and balancing performance, efficiency and robustness.

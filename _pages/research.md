@@ -14,7 +14,7 @@ horizontal: false
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_overview.jpg" class="img-fluid rounded z-depth-1" alt="Overview of research lines: Trustworthy AI, Learning & Optimization, Applications" zoomable=true %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_overview.jpg" class="img-fluid rounded z-depth-1" alt="Mosaic of the nine research lines: trustworthy AI (top row), learning and optimization (middle row) and applications (bottom row)" zoomable=true %}
 </div>
 
 My research aims to make Artificial Intelligence **trustworthy, robust and useful in practice**. I work on how to explain, audit and govern AI systems (including general-purpose and generative AI), on learning paradigms that cope with an open and changing world, and on evolutionary and bio-inspired optimization, with applications in transportation, health, industry, energy and climate.

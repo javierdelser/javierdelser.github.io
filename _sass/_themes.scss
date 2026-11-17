@@ -319,3 +319,29 @@ html[data-theme="dark"] .chip {
 html[data-theme="dark"] .role-badge {
   color: #0b1324;
 }
+
+// Category separators on the Research page (same look as the publication year separators)
+div.projects h2.category {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  text-align: left;
+  color: var(--global-theme-color) !important;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom: none !important;
+  margin: 2.5rem 0 1.2rem;
+  padding-top: 0;
+
+  &::after {
+    content: "";
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(90deg, var(--global-theme-color), transparent);
+    opacity: 0.45;
+  }
+}
+
+div.projects a:hover h2.category {
+  text-decoration: none;
+}

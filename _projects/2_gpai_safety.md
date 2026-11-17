@@ -10,7 +10,7 @@ img: assets/img/research/research_gpai.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_gpai.jpg" class="img-fluid rounded z-depth-1" alt="A general-purpose model connected to many tasks, inside a safety shield" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_gpai.jpg" class="img-fluid rounded z-depth-1" alt="General-purpose AI safety nexus" %}
 </div>
 
 Foundation models and other **General-Purpose AI Systems (GPAIS)** raise new scientific and societal questions. This line studies what makes a system general-purpose, how such systems can be evaluated, audited and governed, and which risks emerge when they are deployed at scale. I also serve on the Scientific Panel of independent experts that advises the European Commission on implementing the **EU AI Act**.

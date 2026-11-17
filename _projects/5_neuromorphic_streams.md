@@ -10,7 +10,7 @@ img: assets/img/research/research_neuromorphic.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_neuromorphic.jpg" class="img-fluid rounded z-depth-1" alt="Spike raster and membrane potential of spiking neurons" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_neuromorphic.jpg" class="img-fluid rounded z-depth-1" alt="Neuromorphic network adapting over time" %}
 </div>
 
 Real-world data arrive continuously and change over time, and energy budgets are limited. This line studies **brain-inspired** and **energy-efficient** learning paradigms that adapt online.

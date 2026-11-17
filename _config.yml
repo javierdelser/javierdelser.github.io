@@ -9,12 +9,12 @@ last_name: Del Ser
 contact_note: >
   Email is the best way to reach me. For prospective PhD students and postdocs, please include a short CV and a description of your research interests.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Prof. Dr. Javier Del Ser — Research Professor and AI Director at TECNALIA, Distinguished Researcher at the University of the Basque Country (UPV/EHU).
+  Prof. Dr. Javier Del Ser — Principal Investigator (PI) at TECNALIA, Distinguished Researcher at the University of the Basque Country (EHU).
   Highly Cited Researcher working on Trustworthy and Responsible AI, Explainable AI, AI safety and Evolutionary Computation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Javier Del Ser, artificial intelligence, machine learning, deep learning, trustworthy AI, responsible AI, explainable AI, XAI, AI safety, evolutionary computation, swarm intelligence, TECNALIA, UPV/EHU, BCAM
+keywords: Javier Del Ser, artificial intelligence, machine learning, deep learning, trustworthy AI, responsible AI, explainable AI, XAI, AI safety, evolutionary computation, swarm intelligence, TECNALIA, EHU, BCAM
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.

@@ -4,7 +4,7 @@
 
 cv:
   name: Javier Del Ser Lorente
-  label: Research Professor & AI Director (TECNALIA) · Distinguished Research Scientist (UPV/EHU)
+  label: Principal Investigator (PI) at TECNALIA · Distinguished Researcher at EHU
   email: javier.delser@tecnalia.com
   location: Bilbao, Basque Country, Spain
   website: https://javierdelser.github.io
@@ -19,18 +19,18 @@ cv:
   sections:
     Experience:
       - company: TECNALIA Research & Innovation
-        position: Research Professor & AI Director (Principal Investigator), DIGITAL Unit – Core AI
+        position: Principal Investigator (PI), DIGITAL Unit – Core AI
         location: Derio, Spain
         url: https://www.tecnalia.com
         start_date: 2011-01
         end_date: present
         highlights:
-          - Leads the strategic research agenda in Applied Artificial Intelligence; Scientific Director of the Joint Research Lab in Applied AI (JRL-A2I) with UPV/EHU and BCAM.
+          - Leads the strategic research agenda in Applied Artificial Intelligence; Scientific Director of the Joint Research Lab in Applied AI (JRL-A2I) with EHU and BCAM.
           - Former Technology Director of the OPTIMA (Optimization, Modeling and Analytics) business area, leading a team of 22 researchers (approx. 2.2M€ yearly contracting).
           - Senior Researcher and Project Manager (2011–2012).
 
-      - company: University of the Basque Country (UPV/EHU)
-        position: Distinguished Research Scientist, Department of Mathematics, Faculty of Science and Technology
+      - company: University of the Basque Country (EHU)
+        position: Distinguished Researcher, Department of Mathematics, Faculty of Science and Technology
         location: Leioa, Spain
         url: https://www.ehu.eus
         start_date: 2024-12
@@ -53,7 +53,7 @@ cv:
         highlights:
           - Director of the TECNALIA Chair in Artificial Intelligence at the University of Granada.
 
-      - company: University of the Basque Country (UPV/EHU)
+      - company: University of the Basque Country (EHU)
         position: Adjunct Professor (Profesor Asociado), Department of Communications Engineering, Bilbao School of Engineering
         location: Bilbao, Spain
         start_date: 2015-10
@@ -126,7 +126,7 @@ cv:
           - "Advisor: Prof. Pedro M. Crespo Bofill."
           - Sobresaliente Cum Laude (unanimous). Diploma of Advanced Studies (DEA) in 2005 with a grade of 9.5/10.
 
-      - institution: University of the Basque Country (UPV/EHU)
+      - institution: University of the Basque Country (EHU)
         area: Telecommunication Engineering
         studyType: MSc (Ingeniero Superior de Telecomunicación)
         location: Bilbao, Spain
@@ -203,6 +203,8 @@ cv:
         details: Full Professor (Catedrático de Universidad) and Associate Professor (Profesor Titular), ANECA.
       - label: 2015
         details: Profesor Agregado and Profesor Adjunto, UNIBASQ (Basque Agency for Quality of the University System).
+      - label: 2010
+        details: Profesor Asociado (adjunct professor), UNIQUAL.
 
     Research Stays:
       - label: 2017–2018

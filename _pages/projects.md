@@ -34,16 +34,16 @@ Over my career I have taken part in **45 national and 23 international research 
 | **Opteemal**: Optimised Energy Efficient Design Platform for Refurbishment at District Level                 | H2020-EeB-2015                                     | 2015–2019 |
 | **MoveUs**: ICT cloud-based platform and mobility services available, universal and safe for all users       | European Commission, FP7, 608885                   | 2013–2016 |
 | **DEWI**: Dependable Embedded Wireless Infrastructure                                                        | ARTEMIS Joint Undertaking                          | 2014–2017 |
-| **R5COP**: Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems                          | ARTEMIS Joint Undertaking                          | 2014–2017 |
-| **ARROWHEAD**: Service Interoperability Enabling Collaborative Automation                                    | ARTEMIS Joint Undertaking                          | 2013–2017 |
-| **HOLIDES**: Holistic Human Factors and System Design of Adaptive Cooperative Human-Machine Systems          | ARTEMIS Joint Undertaking                          | 2013–2016 |
-| **SONATAG**: Passive Location and Identification Sonar Tag for Subsea Cable and Pipeline Monitoring          | European Commission, FP7                           | 2013–2015 |
+| **R5COP**: Reconfigurable ROS-based Resilient Reasoning Robotic Cooperating Systems                          | ARTEMIS Joint Undertaking, 621447                  | 2014–2017 |
+| **ARROWHEAD**: Service Interoperability Enabling Collaborative Automation                                    | ARTEMIS Joint Undertaking, 332987                  | 2013–2017 |
+| **HOLIDES**: Holistic Human Factors and System Design of Adaptive Cooperative Human-Machine Systems          | ARTEMIS Joint Undertaking, 332933                  | 2013–2016 |
+| **SONATAG**: Passive Location and Identification Sonar Tag for Subsea Cable and Pipeline Monitoring          | European Commission, FP7, 605088                   | 2013–2015 |
 | **I3RES**: ICT-based Intelligent Management of Integrated RES for Smart Grid Optimal Operation               | European Commission, FP7, 318184                   | 2012–2015 |
-| **eGOTHAM**: Sustainable-Smart Grid Open System for Aggregated Energy Control                                | ARTEMIS Joint Undertaking                          | 2012–2015 |
+| **eGOTHAM**: Sustainable-Smart Grid Open System for Aggregated Energy Control                                | ARTEMIS Joint Undertaking, 295378                  | 2012–2015 |
 | **SOPCAWIND**: Software for the Optimal Place Calculation of Wind Farms                                      | European Commission, FP7, 296164                   | 2012–2014 |
-| **KAP**: Knowledge, Awareness and Prediction in Manufacturing                                                | European Commission, FP7                           | 2010–2013 |
-| **CREW**: Cognitive Radio Experimentation World                                                              | European Commission, FP7                           | 2011–2012 |
-| **SAIL**: Scalable and Adaptive Internet Solutions                                                           | European Commission, FP7                           | 2010–2012 |
+| **KAP**: Knowledge, Awareness and Prediction in Manufacturing                                                | European Commission, FP7, 260111                   | 2010–2013 |
+| **CREW**: Cognitive Radio Experimentation World                                                              | European Commission, FP7, 258301                   | 2011–2012 |
+| **SAIL**: Scalable and Adaptive Internet Solutions                                                           | European Commission, FP7, 257448                   | 2010–2012 |
 
 ## <i class="fa-solid fa-landmark"></i> National and regional projects
 
@@ -51,35 +51,40 @@ Over my career I have taken part in **45 national and 23 international research 
 | :--------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ | :-------- |
 | **EGOKIA**: AI that remembers and learns the unknown (continuation of BEREZ-IA)                            | Basque Government, ELKARTEK (KK-2025/00081, KK-2026/00050)                | 2025–2027 |
 | **MATHMODE** consolidated research group (Group of Excellence, category A)                                 | Basque Government, IT1294-19, IT1456-22, IT1866-26                        | 2019–2029 |
-| **JRL-A2I applications to health, meteorology, language and speech technologies, and industrial sciences** | UPV/EHU Collaborative Projects (EHU-G24/03)                               | 2025–2026 |
+| **JRL-A2I applications to health, meteorology, language and speech technologies, and industrial sciences** | EHU Collaborative Projects (EHU-G24/03)                                   | 2025–2026 |
 | **IKASLAGUN**: Advanced AI, language technologies and intelligent robotics to reuse expert knowledge       | Gipuzkoa Science, Technology and Innovation Network (2024-CIE2-000006-01) | 2024–     |
 | **IKUN**: Large Multimodal Models for Quality Assurance and Operator Support in Smart Industry             | Basque Government, ELKARTEK (KK-2024/00064)                               | 2024–     |
 | **GRECO**: Green Computing for efficient and sustainable AI systems engineering                            | Basque Government, ELKARTEK (KK-2024/00090)                               | 2024–     |
 | **RUL-ET**: Remaining useful life of moorings and umbilicals for offshore renewables                       | Basque Government, ELKARTEK (KK-2024/00086)                               | 2024–2025 |
 | **BEREZ-IA**: Towards a Continuous, Autonomous, Sustainable and Self-Explanatory AI                        | Basque Government, ELKARTEK (KK-2022/00058, KK-2023/00012)                | 2022–2024 |
-| **ICL4LANG** (with Elhuyar and UPV/EHU HiTZ)                                                               | Basque Government, ELKARTEK (KK-2023/00094)                               | 2023–2024 |
+| **ICL4LANG** (with Elhuyar and EHU HiTZ)                                                                   | Basque Government, ELKARTEK (KK-2023/00094)                               | 2023–2024 |
 | **EGIA**: Edge Technologies for Industrial Distributed AI Applications                                     | Basque Government, ELKARTEK (KK-2022/00119)                               | 2022–2023 |
 | **AI4ES**: CERVERA Network of Excellence on Data-Based Enabling Technologies                               | CDTI                                                                      | 2021–2023 |
-| **Healthcare advancements through the Joint Research Lab in Artificial Intelligence**                      | UPV/EHU Collaborative Projects (COLAB20/01)                               | 2021–2022 |
+| **Healthcare advancements through the Joint Research Lab in Artificial Intelligence**                      | EHU Collaborative Projects (COLAB20/01)                                   | 2021–2022 |
 | **3KIA**: Comprehensive approach to the design and deployment of trustworthy AI-based systems              | Basque Government, ELKARTEK (KK-2020/00049)                               | 2020–2022 |
 | **VIRTUAL**: Virtual models to extend the lifespan of components and capital goods                         | Basque Government, ELKARTEK (KK-2018/00096)                               | 2018–2019 |
 | **TEKINTZE**: Teknologia Ekin Hagin (T) Zerra Erabiliz                                                     | Basque Government, ELKARTEK (KK-2018/00104)                               | 2018–2019 |
-| **GECECPAST**: Efficient electricity consumption management via time series classification and prediction  | Spanish Ministry (MINECO), RETOS Investigación                            | 2018–2020 |
-| **SENSACION**: Domain semantics in Big Data analysis algorithms                                            | Spanish Ministry (MINECO), RETOS Investigación                            | 2018–2020 |
+| **GECECPAST**: Efficient electricity consumption management via time series classification and prediction  | Spanish State Research Agency, RETOS (TIN2017-82626-R)                    | 2018–2020 |
+| **SENSACION**: Domain semantics in Big Data analysis algorithms                                            | Spanish Ministry of Economy and Competitiveness (TIN2017-86049-R)         | 2018–2020 |
 | **RETEVI**: Thematic Network on Intelligent Vehicles (I & II)                                              | MINECO (TRA2015-69002-REDT, TRA2017-90620-REDT)                           | 2016–     |
 | **CELEXITA**: Connectome-based knowledge extraction for diagnosis and therapy evaluation                   | Spanish Ministry (MINECO), RETOS Colaboración                             | 2016–2018 |
 | **BID3A** and **BID3ABI**: Big Data for the RIS3 regional strategy                                         | Basque Government, ELKARTEK (KK-2015/00080, KK-2016/00096)                | 2015–2016 |
 | New bio-inspired hybrid algorithms for prediction problems in renewable energy                             | MINECO, RETOS Investigación (TIN2014-54583-C2-2-R)                        | 2015–2018 |
+| **AM4G**: Advanced Manufacturing 4th Generation                                                            | CDTI                                                                      | 2015–2018 |
+| **CASSANDRA**: Predictive risk analysis of physical security threats in critical facilities                | Basque Government, HAZITEK                                                | 2016      |
 | **AIRHEM III**: Health monitoring of aeronautical components and structures                                | Basque Government, ELKARTEK                                               | 2015–2016 |
 | **OSIRIS**: Optimization of the intelligent supervision of the distribution network                        | MINECO, RETOS Colaboración                                                | 2014–2016 |
 | **ADI**: Data science at the intersection of behavioral economics and territory                            | Basque Government, ETORTEK                                                | 2014–2015 |
-| **ACORDY**: Autonomous cognitive radio systems based on dynamically reconfigurable devices                 | Spanish Ministry of Science and Innovation                                | 2012–2014 |
-| **OPHERA**: Multidisciplinary heuristic optimization for cognitive radio and its hardware implementation   | Basque Government                                                         | 2012–2014 |
+| **ACORDY**: Autonomous cognitive radio systems based on dynamically reconfigurable devices                 | Spanish Ministry of Economy and Competitiveness (TEC2011-28250-C02-02)    | 2012–2014 |
+| **OPHERA**: Multidisciplinary heuristic optimization for cognitive radio and its hardware implementation   | Basque Government, Basic and Applied Research (2012-31)                   | 2012–2014 |
+| **SINTONIA**: Unmanned systems with zero environmental impact                                              | CDTI, CENIT programme (CEN20091001)                                       | 2009–2013 |
 | **COMONSENS**: Foundations and methodologies for future communication and sensor networks                  | Spanish Ministry of Education and Science, CONSOLIDER                     | 2008–2013 |
 | Future Internet II                                                                                         | Basque Government, ETORTEK                                                | 2009–2011 |
 | **INFOSETEC**: Information technologies for sensor networks                                                | Basque Government, SAIOTEK                                                | 2006–2007 |
 | **MIMESIS**: New transmission techniques for MIMO systems and hardware demonstration                       | Spanish Ministry of Education and Science                                 | 2004–2007 |
 | **TECMAR**: New transmission and reception techniques for MIMO systems                                     | Basque Government                                                         | 2005–2007 |
+| **INFOCOM**: Thematic Network on Information and Communication Theory                                      | Spanish Ministry of Education and Science, Thematic Networks              | 2008      |
+| **Hogar UWB**: Broadband home communication platform with ultra-wideband wireless technology               | Basque Government                                                         | 2004–2006 |
 | **eADI**: Intelligent nodes for context recognition                                                        | Basque Government, SAIOTEK                                                | 2004–2005 |
 
 ## <i class="fa-solid fa-handshake"></i> Contracts with industry and public institutions
@@ -91,7 +96,8 @@ I have worked with companies such as Iberdrola, Vicinay Marine Innovation, Indra
 - **Machine learning for software-defined networks**, KEYNETIC (2019–2021). Role: PI.
 - **Technical expert witness in telecommunications**, Vodafone UK (2018–2019). Role: PI.
 - **CYBERSID**: detection of cyberbullying and identity theft, Informática de Euskadi (2015–2016).
-- **VITAL – Digital Life**, Euskaltel. Role: PI.
+- **VITAL – Digital Life**: research on localisation and human-machine interfaces for Euskaltel (Basque Government ETORGAI programme, 2009–2011). Role: PI.
+- **Cognitive radio research for VTT Technical Research Centre of Finland**: resource-management algorithms (2010) and cognitive radio networks (2012), subcontracted by VTT. Role: PI.
 - **IKUP2P**, IKUSI Ángel Iglesias (2008–2010). Role: PI.
 - Industrial PhD theses co-funded by the Basque Government's **BIKAINTEK** programme with IKUSI, DYNICON and INDRA.
 

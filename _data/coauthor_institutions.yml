@@ -1,0 +1,1502 @@
+# Institutions of all co-authors of Javier Del Ser (most frequent affiliation of each co-author in joint papers,
+# OpenAlex snapshot November 2026). Used only to draw the world map on the Team page.
+- name: Tecnalia
+  city: Donostia / San Sebastian
+  country: ES
+  lat: 43.3128
+  lon: -1.975
+  coauthors: 63
+- name: University of the Basque Country
+  city: Leioa
+  country: ES
+  lat: 43.3269
+  lon: -2.9888
+  coauthors: 43
+- name: Universidad de Granada
+  city: Granada
+  country: ES
+  lat: 37.1882
+  lon: -3.6067
+  coauthors: 24
+- name: Universidad de Alcalá
+  city: Alcalá de Henares
+  country: ES
+  lat: 40.4821
+  lon: -3.36
+  coauthors: 23
+- name: Imperial College London
+  city: London
+  country: GB
+  lat: 51.5085
+  lon: -0.1257
+  coauthors: 17
+- name: Universidad Politécnica de Madrid
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 15
+- name: Universidad de Deusto
+  city: Bilbao
+  country: ES
+  lat: 43.2627
+  lon: -2.9253
+  coauthors: 14
+- name: Sejong University
+  city: Seoul
+  country: KR
+  lat: 37.566
+  lon: 126.9784
+  coauthors: 11
+- name: VTT Technical Research Centre of Finland
+  city: Espoo
+  country: FI
+  lat: 60.2052
+  lon: 24.6522
+  coauthors: 11
+- name: BOKU University
+  city: Vienna
+  country: AT
+  lat: 48.2085
+  lon: 16.3721
+  coauthors: 10
+- name: Centro de Estudios e Investigaciones Técnicas de Gipuzkoa
+  city: Donostia / San Sebastian
+  country: ES
+  lat: 43.3128
+  lon: -1.975
+  coauthors: 10
+- name: Universidad de Málaga
+  city: Málaga
+  country: ES
+  lat: 36.7202
+  lon: -4.4203
+  coauthors: 8
+- name: Wuhan Textile University
+  city: Wuhan
+  country: CN
+  lat: 30.5833
+  lon: 114.2667
+  coauthors: 8
+- name: Mondragon Unibertsitatea
+  city: Arrasate / Mondragón
+  country: ES
+  lat: 43.0644
+  lon: -2.4898
+  coauthors: 8
+- name: Indian Institute of Technology Indore
+  city: Indore
+  country: IN
+  lat: 22.7179
+  lon: 75.8333
+  coauthors: 8
+- name: Sungkyunkwan University
+  city: Suwon
+  country: KR
+  lat: 37.2911
+  lon: 127.0089
+  coauthors: 7
+- name: Sun Yat-sen University
+  city: Guangzhou
+  country: CN
+  lat: 23.1167
+  lon: 113.25
+  coauthors: 7
+- name: Universidad Carlos III de Madrid
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 7
+- name: Sharif University of Technology
+  city: Tehran
+  country: IR
+  lat: 35.6944
+  lon: 51.4215
+  coauthors: 6
+- name: Universidade Estadual Paulista (Unesp)
+  city: São Paulo
+  country: BR
+  lat: -23.5475
+  lon: -46.6361
+  coauthors: 6
+- name: Universidad Rey Juan Carlos
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 6
+- name: Ikerlan
+  city: Arrasate / Mondragón
+  country: ES
+  lat: 43.0606
+  lon: -2.499
+  coauthors: 6
+- name: University of Maribor
+  city: Maribor
+  country: SI
+  lat: 46.5558
+  lon: 15.6459
+  coauthors: 5
+- name: Wuhan University of Science and Technology
+  city: Wuhan
+  country: CN
+  lat: 30.5833
+  lon: 114.2667
+  coauthors: 5
+- name: Institut de Microelectrònica de Barcelona
+  city: Cerdanyola del Vallès
+  country: ES
+  lat: 41.4911
+  lon: 2.1408
+  coauthors: 5
+- name: Universitat Autònoma de Barcelona
+  city: Cerdanyola del Vallès
+  country: ES
+  lat: 41.4911
+  lon: 2.1408
+  coauthors: 5
+- name: Shenzhen University
+  city: Shenzhen
+  country: CN
+  lat: 22.5455
+  lon: 114.0683
+  coauthors: 5
+- name: Universidad Autónoma de Madrid
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 4
+- name: Universidad de Las Palmas de Gran Canaria
+  city: Las Palmas de Gran Canaria
+  country: ES
+  lat: 28.0997
+  lon: -15.4134
+  coauthors: 4
+- name: Hunan Normal University
+  city: Changsha
+  country: CN
+  lat: 28.1987
+  lon: 112.9709
+  coauthors: 4
+- name: Warsaw University of Technology
+  city: Warsaw
+  country: PL
+  lat: 52.2298
+  lon: 21.0118
+  coauthors: 4
+- name: Ikusi (Spain)
+  city: Donostia / San Sebastian
+  country: ES
+  lat: 43.2964
+  lon: -1.98
+  coauthors: 4
+- name: Tampere University
+  city: Tampere
+  country: FI
+  lat: 61.4991
+  lon: 23.7871
+  coauthors: 4
+- name: ASML (United States)
+  city: Chandler
+  country: US
+  lat: 33.294
+  lon: -111.8863
+  coauthors: 4
+- name: Shandong Normal University
+  city: Jinan
+  country: CN
+  lat: 36.6683
+  lon: 116.9972
+  coauthors: 4
+- name: Universidad Complutense de Madrid
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 4
+- name: Osakidetza
+  city: Vitoria-Gasteiz
+  country: ES
+  lat: 42.85
+  lon: -2.6727
+  coauthors: 4
+- name: Universidad de Cantabria
+  city: Santander
+  country: ES
+  lat: 43.4647
+  lon: -3.8044
+  coauthors: 3
+- name: Universidad de Navarra
+  city: Pamplona
+  country: ES
+  lat: 42.8169
+  lon: -1.6432
+  coauthors: 3
+- name: National Technical University of Athens
+  city: Athens
+  country: GR
+  lat: 37.9838
+  lon: 23.7278
+  coauthors: 3
+- name: Basque Center for Applied Mathematics
+  city: Bilbao
+  country: ES
+  lat: 43.2627
+  lon: -2.9253
+  coauthors: 3
+- name: University of Delaware
+  city: Newark
+  country: US
+  lat: 39.6837
+  lon: -75.7497
+  coauthors: 3
+- name: Wuhan University
+  city: Wuhan
+  country: CN
+  lat: 30.5833
+  lon: 114.2667
+  coauthors: 3
+- name: University of Oulu
+  city: Oulu
+  country: FI
+  lat: 65.0124
+  lon: 25.4682
+  coauthors: 3
+- name: Oxford Brookes University
+  city: Oxford
+  country: GB
+  lat: 51.7522
+  lon: -1.256
+  coauthors: 3
+- name: University of Cambridge
+  city: Cambridge
+  country: GB
+  lat: 52.2
+  lon: 0.1167
+  coauthors: 3
+- name: Shanghai Jiao Tong University
+  city: Shanghai
+  country: CN
+  lat: 31.2222
+  lon: 121.4581
+  coauthors: 3
+- name: Institut national de recherche en sciences et technologies du numérique
+  city: Le Chesnay-Rocquencourt
+  country: FR
+  lat: 48.8205
+  lon: 2.1311
+  coauthors: 3
+- name: University of Edinburgh
+  city: Edinburgh
+  country: GB
+  lat: 55.9521
+  lon: -3.1965
+  coauthors: 3
+- name: King Saud University
+  city: Riyadh
+  country: SA
+  lat: 24.6877
+  lon: 46.7219
+  coauthors: 3
+- name: Centro Tecnológico de Investigación, Desarrollo e Innovación en tecnologías de la Información y las Comunicaciones (TIC)
+  city: Valencia
+  country: ES
+  lat: 39.4739
+  lon: -0.3797
+  coauthors: 3
+- name: SK Hynix (South Korea)
+  city: Icheon-si
+  country: KR
+  lat: 37.2792
+  lon: 127.4425
+  coauthors: 3
+- name: Instituto de Microelectrónica de Sevilla
+  city: Seville
+  country: ES
+  lat: 37.3828
+  lon: -5.9732
+  coauthors: 3
+- name: Universidad de Valladolid
+  city: Valladolid
+  country: ES
+  lat: 41.6554
+  lon: -4.7235
+  coauthors: 3
+- name: Xi'an Jiaotong University
+  city: Xi'an
+  country: CN
+  lat: 34.2583
+  lon: 108.9286
+  coauthors: 3
+- name: Curtin University
+  city: Perth
+  country: AU
+  lat: -31.9522
+  lon: 115.8614
+  coauthors: 3
+- name: Anaxomics (Spain)
+  city: Barcelona
+  country: ES
+  lat: 41.3913
+  lon: 2.1599
+  coauthors: 3
+- name: Maastricht University
+  city: Maastricht
+  country: NL
+  lat: 50.8483
+  lon: 5.6889
+  coauthors: 3
+- name: Politecnico di Milano
+  city: Milan
+  country: IT
+  lat: 45.4643
+  lon: 9.1895
+  coauthors: 3
+- name: University of Kashmir
+  city: Srinagar
+  country: IN
+  lat: 34.0857
+  lon: 74.8055
+  coauthors: 3
+- name: Iberdrola (Spain)
+  city: Bilbao
+  country: ES
+  lat: 43.2627
+  lon: -2.9253
+  coauthors: 3
+- name: Universitat de València
+  city: Valencia
+  country: ES
+  lat: 39.4739
+  lon: -0.3797
+  coauthors: 3
+- name: Inner Mongolia University
+  city: Hohhot
+  country: CN
+  lat: 40.8106
+  lon: 111.6522
+  coauthors: 3
+- name: University of Bradford
+  city: Bradford
+  country: GB
+  lat: 53.7939
+  lon: -1.7521
+  coauthors: 3
+- name: Mälardalen University
+  city: Västerås
+  country: SE
+  lat: 59.6162
+  lon: 16.5528
+  coauthors: 3
+- name: Universidad Europea de Madrid
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 3
+- name: Università degli Studi Suor Orsola Benincasa
+  city: Naples
+  country: IT
+  lat: 40.8414
+  lon: 14.2426
+  coauthors: 3
+- name: Universidade Federal do Ceará
+  city: Fortaleza
+  country: BR
+  lat: -3.7172
+  lon: -38.5431
+  coauthors: 2
+- name: Auckland University of Technology
+  city: Auckland
+  country: NZ
+  lat: -36.8485
+  lon: 174.7635
+  coauthors: 2
+- name: Nanyang Technological University
+  city: Singapore
+  country: SG
+  lat: 1.2897
+  lon: 103.8501
+  coauthors: 2
+- name: Universidade de Vigo
+  city: Vigo
+  country: ES
+  lat: 42.2328
+  lon: -8.7226
+  coauthors: 2
+- name: University of Technology Sydney
+  city: Sydney
+  country: AU
+  lat: -33.8678
+  lon: 151.2073
+  coauthors: 2
+- name: University of Birmingham
+  city: Birmingham
+  country: GB
+  lat: 52.4814
+  lon: -1.8998
+  coauthors: 2
+- name: Universitat Politècnica de València
+  city: Valencia
+  country: ES
+  lat: 39.4739
+  lon: -0.3797
+  coauthors: 2
+- name: Capital Medical University
+  city: Beijing
+  country: CN
+  lat: 39.9075
+  lon: 116.3972
+  coauthors: 2
+- name: Indian Statistical Institute
+  city: Kolkata
+  country: IN
+  lat: 22.5626
+  lon: 88.363
+  coauthors: 2
+- name: Royal Brompton Hospital
+  city: London
+  country: GB
+  lat: 51.5085
+  lon: -0.1257
+  coauthors: 2
+- name: Kyungpook National University
+  city: Daegu
+  country: KR
+  lat: 35.8703
+  lon: 128.5911
+  coauthors: 2
+- name: Universitat Jaume I
+  city: Castellon
+  country: ES
+  lat: 39.9857
+  lon: -0.0494
+  coauthors: 2
+- name: Universidad de Sevilla
+  city: Seville
+  country: ES
+  lat: 37.3828
+  lon: -5.9732
+  coauthors: 2
+- name: Universidade Federal do Piauí
+  city: Teresina
+  country: BR
+  lat: -5.0892
+  lon: -42.8019
+  coauthors: 2
+- name: Chinese Academy of Sciences
+  city: Beijing
+  country: CN
+  lat: 39.9075
+  lon: 116.3972
+  coauthors: 2
+- name: University of Macau
+  city: Macao
+  country: MO
+  lat: 22.2006
+  lon: 113.5461
+  coauthors: 2
+- name: European Commission
+  city: Brussels
+  country: BE
+  lat: 50.8505
+  lon: 4.3488
+  coauthors: 2
+- name: University of Jordan
+  city: Amman
+  country: JO
+  lat: 31.9552
+  lon: 35.945
+  coauthors: 2
+- name: Clinical Data Interchange Standards Consortium
+  city: Austin
+  country: US
+  lat: 30.2672
+  lon: -97.7431
+  coauthors: 2
+- name: University of Liège
+  city: Liège
+  country: BE
+  lat: 50.6337
+  lon: 5.5675
+  coauthors: 2
+- name: Hospital Universitari i Politècnic La Fe
+  city: Valencia
+  country: ES
+  lat: 39.4739
+  lon: -0.3797
+  coauthors: 2
+- name: National Taipei University of Technology
+  city: Taipei
+  country: TW
+  lat: 25.0531
+  lon: 121.5264
+  coauthors: 2
+- name: Delhi Technological University
+  city: New Delhi
+  country: IN
+  lat: 28.6214
+  lon: 77.2148
+  coauthors: 2
+- name: The Alan Turing Institute
+  city: London
+  country: GB
+  lat: 51.5085
+  lon: -0.1257
+  coauthors: 2
+- name: Chinese Academy of Medical Sciences & Peking Union Medical College
+  city: Beijing
+  country: CN
+  lat: 39.9075
+  lon: 116.3972
+  coauthors: 2
+- name: Anhui University
+  city: Hefei
+  country: CN
+  lat: 31.8639
+  lon: 117.2808
+  coauthors: 2
+- name: Guangdong University of Technology
+  city: Guangzhou
+  country: CN
+  lat: 23.1167
+  lon: 113.25
+  coauthors: 2
+- name: Peking University
+  city: Beijing
+  country: CN
+  lat: 39.9075
+  lon: 116.3972
+  coauthors: 2
+- name: Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento
+  city: Lisbon
+  country: PT
+  lat: 38.7251
+  lon: -9.1498
+  coauthors: 2
+- name: Chinese University of Hong Kong
+  city: Hong Kong
+  country: HK
+  lat: 22.2783
+  lon: 114.1747
+  coauthors: 2
+- name: University of the Aegean
+  city: Mytilene
+  country: GR
+  lat: 39.1077
+  lon: 26.5553
+  coauthors: 2
+- name: Telefónica (Spain)
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 2
+- name: Pontificia Universidad Católica de Valparaíso
+  city: Valparaíso
+  country: CL
+  lat: -33.036
+  lon: -71.6296
+  coauthors: 2
+- name: Toho University
+  city: Tokyo
+  country: JP
+  lat: 35.6895
+  lon: 139.6917
+  coauthors: 2
+- name: Universidad Nacional de Educación a Distancia
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 2
+- name: 3E (Belgium)
+  city: Brussels
+  country: BE
+  lat: 50.8551
+  lon: 4.3484
+  coauthors: 2
+- name: Middlesex University London
+  city: London
+  country: GB
+  lat: 51.5085
+  lon: -0.1257
+  coauthors: 1
+- name: Islamia College University
+  city: Peshawar
+  country: PK
+  lat: 34.008
+  lon: 71.5785
+  coauthors: 1
+- name: Gachon University
+  city: Seongnam-si
+  country: KR
+  lat: 37.4386
+  lon: 127.1378
+  coauthors: 1
+- name: Nantong University
+  city: Nantong
+  country: CN
+  lat: 32.0303
+  lon: 120.8747
+  coauthors: 1
+- name: ParisTech
+  city: Paris
+  country: FR
+  lat: 48.8534
+  lon: 2.3488
+  coauthors: 1
+- name: National Institute of Technology Rourkela
+  city: Rourkela
+  country: IN
+  lat: 22.225
+  lon: 84.8641
+  coauthors: 1
+- name: Taif University
+  city: Ta'if
+  country: SA
+  lat: 21.2703
+  lon: 40.4158
+  coauthors: 1
+- name: Imam Mohammad ibn Saud Islamic University
+  city: Riyadh
+  country: SA
+  lat: 24.6877
+  lon: 46.7219
+  coauthors: 1
+- name: Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional
+  city: Mexico City
+  country: MX
+  lat: 19.4285
+  lon: -99.1277
+  coauthors: 1
+- name: Thapar Institute of Engineering & Technology
+  city: Patiāla
+  country: IN
+  lat: 30.3363
+  lon: 76.3922
+  coauthors: 1
+- name: University of Tabuk
+  city: Tabuk
+  country: SA
+  lat: 28.3998
+  lon: 36.5715
+  coauthors: 1
+- name: Edinburgh Napier University
+  city: Edinburgh
+  country: GB
+  lat: 55.9521
+  lon: -3.1965
+  coauthors: 1
+- name: Shenzhen Second People's Hospital
+  city: Shenzhen
+  country: CN
+  lat: 22.5455
+  lon: 114.0683
+  coauthors: 1
+- name: Technological University Dublin
+  city: Dublin
+  country: IE
+  lat: 53.3331
+  lon: -6.2489
+  coauthors: 1
+- name: University of Padua
+  city: Padua
+  country: IT
+  lat: 45.408
+  lon: 11.8859
+  coauthors: 1
+- name: University of Pisa
+  city: Pisa
+  country: IT
+  lat: 43.7085
+  lon: 10.4036
+  coauthors: 1
+- name: Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute
+  city: Berlin
+  country: DE
+  lat: 52.5244
+  lon: 13.4105
+  coauthors: 1
+- name: National Institute Of Technology Silchar
+  city: Silchar
+  country: IN
+  lat: 24.8273
+  lon: 92.7979
+  coauthors: 1
+- name: University of Leicester
+  city: Leicester
+  country: GB
+  lat: 52.6386
+  lon: -1.1317
+  coauthors: 1
+- name: University of Manitoba
+  city: Winnipeg
+  country: CA
+  lat: 49.8844
+  lon: -97.147
+  coauthors: 1
+- name: Southern University of Science and Technology
+  city: Shenzhen
+  country: CN
+  lat: 22.5455
+  lon: 114.0683
+  coauthors: 1
+- name: Victoria University of Wellington
+  city: Wellington
+  country: NZ
+  lat: -41.2866
+  lon: 174.7756
+  coauthors: 1
+- name: Science and Technology Department of Hubei Province
+  city: Wuhan
+  country: CN
+  lat: 30.5833
+  lon: 114.2667
+  coauthors: 1
+- name: Tech University of Korea
+  city: Siheung-si
+  country: KR
+  lat: 37.3907
+  lon: 126.7888
+  coauthors: 1
+- name: Khalifa University of Science and Technology
+  city: Abu Dhabi
+  country: AE
+  lat: 24.4512
+  lon: 54.397
+  coauthors: 1
+- name: University of Portsmouth
+  city: Portsmouth
+  country: GB
+  lat: 50.799
+  lon: -1.0912
+  coauthors: 1
+- name: The University of Western Australia
+  city: Perth
+  country: AU
+  lat: -31.9522
+  lon: 115.8614
+  coauthors: 1
+- name: Benha University
+  city: Banhā
+  country: EG
+  lat: 30.4598
+  lon: 31.1842
+  coauthors: 1
+- name: University of Bologna
+  city: Bologna
+  country: IT
+  lat: 44.4938
+  lon: 11.3387
+  coauthors: 1
+- name: Beihang University
+  city: Beijing
+  country: CN
+  lat: 39.9075
+  lon: 116.3972
+  coauthors: 1
+- name: Shenzhen University Health Science Center
+  city: Shenzhen
+  country: CN
+  lat: 22.5331
+  lon: 113.9328
+  coauthors: 1
+- name: Coventry University
+  city: Coventry
+  country: GB
+  lat: 52.4066
+  lon: -1.5122
+  coauthors: 1
+- name: University of Tehran
+  city: Tehran
+  country: IR
+  lat: 35.6944
+  lon: 51.4215
+  coauthors: 1
+- name: University of Michigan
+  city: Ann Arbor
+  country: US
+  lat: 42.2776
+  lon: -83.7409
+  coauthors: 1
+- name: Sorbonne Université
+  city: Paris
+  country: FR
+  lat: 48.8534
+  lon: 2.3488
+  coauthors: 1
+- name: Gestamp (Spain)
+  city: Madrid
+  country: ES
+  lat: 40.4175
+  lon: -3.6891
+  coauthors: 1
+- name: University of Sussex
+  city: Brighton
+  country: GB
+  lat: 50.8284
+  lon: -0.1395
+  coauthors: 1
+- name: Luleå University of Technology
+  city: Luleå
+  country: SE
+  lat: 65.5841
+  lon: 22.1547
+  coauthors: 1
+- name: Télécom Paris
+  city: Palaiseau
+  country: FR
+  lat: 48.7183
+  lon: 2.2498
+  coauthors: 1
+- name: Islamic Azad University, Tehran
+  city: Tehran
+  country: IR
+  lat: 35.6944
+  lon: 51.4215
+  coauthors: 1
+- name: Software Competence Center Hagenberg (Austria)
+  city: Linz
+  country: AT
+  lat: 48.3064
+  lon: 14.2861
+  coauthors: 1
+- name: Ikerbasque
+  city: Bilbao
+  country: ES
+  lat: 43.2627
+  lon: -2.9253
+  coauthors: 1
+- name: The University of Texas at Austin
+  city: Austin
+  country: US
+  lat: 30.2672
+  lon: -97.7431
+  coauthors: 1
+- name: University of Zagreb
+  city: Zagreb
+  country: HR
+  lat: 45.8144
+  lon: 15.978
+  coauthors: 1
+- name: IRCCS Ospedale Galeazzi - Sant'Ambrogio
+  city: Milan
+  country: IT
+  lat: 45.4643
+  lon: 9.1895
+  coauthors: 1
+- name: Korea Advanced Institute of Science and Technology
+  city: Daejeon
+  country: KR
+  lat: 36.3491
+  lon: 127.3849
+  coauthors: 1
+- name: Meiji University
+  city: Tokyo
+  country: JP
+  lat: 35.6895
+  lon: 139.6917
+  coauthors: 1
+- name: Lancaster University
+  city: Lancaster
+  country: GB
+  lat: 54.0465
+  lon: -2.7999
+  coauthors: 1
+- name: The University of Queensland
+  city: Brisbane
+  country: AU
+  lat: -27.4679
+  lon: 153.0281
+  coauthors: 1
+- name: Leiden University
+  city: Leiden
+  country: NL
+  lat: 52.1583
+  lon: 4.4931
+  coauthors: 1
+- name: Universidad de Los Andes
+  city: Bogotá
+  country: CO
+  lat: 4.6097
+  lon: -74.0817
+  coauthors: 1
+- name: University of Liechtenstein
+  city: Vaduz
+  country: LI
+  lat: 47.1415
+  lon: 9.5215
+  coauthors: 1
+- name: University of Bayreuth
+  city: Bayreuth
+  country: DE
+  lat: 49.9478
+  lon: 11.5789
+  coauthors: 1
+- name: University of Glasgow
+  city: Glasgow
+  country: GB
+  lat: 55.8651
+  lon: -4.2576
+  coauthors: 1
+- name: University of Manchester
+  city: Manchester
+  country: GB
+  lat: 53.4809
+  lon: -2.2374
+  coauthors: 1
+- name: Aligarh Muslim University
+  city: Aligarh
+  country: IN
+  lat: 27.8815
+  lon: 78.0746
+  coauthors: 1
+- name: VIT Bhopal University
+  city: Kothri Kalān
+  country: IN
+  lat: 23.0722
+  lon: 76.8296
+  coauthors: 1
+- name: University of South-Eastern Norway
+  city: Kongsberg
+  country: "NO"
+  lat: 59.6686
+  lon: 9.6502
+  coauthors: 1
+- name: University of Massachusetts Chan Medical School
+  city: Worcester
+  country: US
+  lat: 42.2626
+  lon: -71.8023
+  coauthors: 1
+- name: Consejo Superior de Investigaciones Científicas
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 1
+- name: Universitat de les Illes Balears
+  city: Palma
+  country: ES
+  lat: 39.5694
+  lon: 2.6502
+  coauthors: 1
+- name: Institució Catalana de Recerca i Estudis Avançats
+  city: Barcelona
+  country: ES
+  lat: 41.3888
+  lon: 2.159
+  coauthors: 1
+- name: Universitat de Barcelona
+  city: Barcelona
+  country: ES
+  lat: 41.3888
+  lon: 2.159
+  coauthors: 1
+- name: Universitat Rovira i Virgili
+  city: Tarragona
+  country: ES
+  lat: 41.1191
+  lon: 1.2454
+  coauthors: 1
+- name: Barcelona Supercomputing Center
+  city: Barcelona
+  country: ES
+  lat: 41.3888
+  lon: 2.159
+  coauthors: 1
+- name: Graphenea (Spain)
+  city: Donostia / San Sebastian
+  country: ES
+  lat: 43.3051
+  lon: -2.0068
+  coauthors: 1
+- name: New Infrared Technologies (Spain)
+  city: Boadilla del Monte
+  country: ES
+  lat: 40.4046
+  lon: -3.8847
+  coauthors: 1
+- name: GMV Innovating Solutions (Spain)
+  city: Tres Cantos
+  country: ES
+  lat: 40.6009
+  lon: -3.7081
+  coauthors: 1
+- name: Thales (Spain)
+  city: Madrid
+  country: ES
+  lat: 40.592
+  lon: -3.7094
+  coauthors: 1
+- name: Ficosa International (Spain)
+  city: Barcelona
+  country: ES
+  lat: 41.5605
+  lon: 1.9648
+  coauthors: 1
+- name: Construcciones y Auxiliar de Ferrocarriles (Spain)
+  city: Beasain
+  country: ES
+  lat: 43.0495
+  lon: -2.1889
+  coauthors: 1
+- name: Mondragon Corporation (Spain)
+  city: Arrasate / Mondragón
+  country: ES
+  lat: 43.0644
+  lon: -2.4898
+  coauthors: 1
+- name: Texas A&M University
+  city: College Station
+  country: US
+  lat: 30.628
+  lon: -96.3344
+  coauthors: 1
+- name: Monash University
+  city: Melbourne
+  country: AU
+  lat: -37.814
+  lon: 144.9633
+  coauthors: 1
+- name: Xavier University of Louisiana
+  city: New Orleans
+  country: US
+  lat: 29.9547
+  lon: -90.0751
+  coauthors: 1
+- name: Carleton University
+  city: Ottawa
+  country: CA
+  lat: 45.4112
+  lon: -75.6981
+  coauthors: 1
+- name: Huazhong University of Science and Technology
+  city: Wuhan
+  country: CN
+  lat: 30.5833
+  lon: 114.2667
+  coauthors: 1
+- name: Xi'an University of Science and Technology
+  city: Xi'an
+  country: CN
+  lat: 34.2583
+  lon: 108.9286
+  coauthors: 1
+- name: Tianjin University
+  city: Tianjin
+  country: CN
+  lat: 39.1422
+  lon: 117.1767
+  coauthors: 1
+- name: Universidad de Extremadura
+  city: Badajoz
+  country: ES
+  lat: 38.8779
+  lon: -6.9706
+  coauthors: 1
+- name: Università degli Studi della Tuscia
+  city: Viterbo
+  country: IT
+  lat: 42.4194
+  lon: 12.1056
+  coauthors: 1
+- name: National Research Council Canada
+  city: Ottawa
+  country: CA
+  lat: 45.4112
+  lon: -75.6981
+  coauthors: 1
+- name: Politecnico di Torino
+  city: Turin
+  country: IT
+  lat: 45.0705
+  lon: 7.6868
+  coauthors: 1
+- name: Universidade de Santiago de Compostela
+  city: Santiago de Compostela
+  country: ES
+  lat: 42.8805
+  lon: -8.5457
+  coauthors: 1
+- name: University of Vienna
+  city: Vienna
+  country: AT
+  lat: 48.2085
+  lon: 16.3721
+  coauthors: 1
+- name: Kansas State University
+  city: Manhattan
+  country: US
+  lat: 39.1836
+  lon: -96.5717
+  coauthors: 1
+- name: University of Leeds
+  city: Leeds
+  country: GB
+  lat: 53.7965
+  lon: -1.5478
+  coauthors: 1
+- name: Al Hussein Technical University
+  city: Amman
+  country: JO
+  lat: 31.9552
+  lon: 35.945
+  coauthors: 1
+- name: Swiss Distance University of Applied Sciences
+  city: Brig
+  country: CH
+  lat: 46.9597
+  lon: 7.4344
+  coauthors: 1
+- name: University of Modena and Reggio Emilia
+  city: Modena
+  country: IT
+  lat: 44.6478
+  lon: 10.9254
+  coauthors: 1
+- name: University of Copenhagen
+  city: Copenhagen
+  country: DK
+  lat: 55.6759
+  lon: 12.5655
+  coauthors: 1
+- name: University Health Network
+  city: Toronto
+  country: CA
+  lat: 43.7064
+  lon: -79.3986
+  coauthors: 1
+- name: Technische Hochschule Ingolstadt
+  city: Ingolstadt
+  country: DE
+  lat: 48.7651
+  lon: 11.4237
+  coauthors: 1
+- name: Duke Kunshan University
+  city: Kunshan
+  country: CN
+  lat: 31.3776
+  lon: 120.9543
+  coauthors: 1
+- name: SUNY Polytechnic Institute
+  city: Utica
+  country: US
+  lat: 43.1009
+  lon: -75.2327
+  coauthors: 1
+- name: Medical University of Graz
+  city: Graz
+  country: AT
+  lat: 47.0673
+  lon: 15.442
+  coauthors: 1
+- name: Robert Gordon University
+  city: Aberdeen
+  country: GB
+  lat: 57.1437
+  lon: -2.0981
+  coauthors: 1
+- name: Manchester Metropolitan University
+  city: Manchester
+  country: GB
+  lat: 53.4809
+  lon: -2.2374
+  coauthors: 1
+- name: German Climate Computing Centre
+  city: Hamburg
+  country: DE
+  lat: 53.5507
+  lon: 9.993
+  coauthors: 1
+- name: Technical University of Munich
+  city: Munich
+  country: DE
+  lat: 48.1374
+  lon: 11.5755
+  coauthors: 1
+- name: University of Alberta
+  city: Edmonton
+  country: CA
+  lat: 53.5501
+  lon: -113.4687
+  coauthors: 1
+- name: University of Wolverhampton
+  city: Wolverhampton
+  country: GB
+  lat: 52.5855
+  lon: -2.123
+  coauthors: 1
+- name: University of Essex
+  city: Colchester
+  country: GB
+  lat: 51.8892
+  lon: 0.9042
+  coauthors: 1
+- name: Zhejiang University
+  city: Hangzhou
+  country: CN
+  lat: 30.2936
+  lon: 120.1614
+  coauthors: 1
+- name: Yantai University
+  city: Yantai
+  country: CN
+  lat: 37.4765
+  lon: 121.4408
+  coauthors: 1
+- name: Zhejiang Shuren University
+  city: Hangzhou
+  country: CN
+  lat: 30.2936
+  lon: 120.1614
+  coauthors: 1
+- name: Houston Methodist
+  city: Houston
+  country: US
+  lat: 29.7633
+  lon: -95.3633
+  coauthors: 1
+- name: Shandong University
+  city: Jinan
+  country: CN
+  lat: 36.6683
+  lon: 116.9972
+  coauthors: 1
+- name: The University of Melbourne
+  city: Melbourne
+  country: AU
+  lat: -37.814
+  lon: 144.9633
+  coauthors: 1
+- name: Case Western Reserve University
+  city: Cleveland
+  country: US
+  lat: 41.4995
+  lon: -81.6954
+  coauthors: 1
+- name: University of California San Diego
+  city: San Diego
+  country: US
+  lat: 32.7157
+  lon: -117.1647
+  coauthors: 1
+- name: Hebei University of Technology
+  city: Tianjin
+  country: CN
+  lat: 39.1422
+  lon: 117.1767
+  coauthors: 1
+- name: Université de Sherbrooke
+  city: Sherbrooke
+  country: CA
+  lat: 45.4001
+  lon: -71.8991
+  coauthors: 1
+- name: Stevens Institute of Technology
+  city: Hoboken
+  country: US
+  lat: 40.744
+  lon: -74.0324
+  coauthors: 1
+- name: Carnegie Mellon University
+  city: Pittsburgh
+  country: US
+  lat: 40.4406
+  lon: -79.9959
+  coauthors: 1
+- name: University of Maryland, College Park
+  city: College Park
+  country: US
+  lat: 38.9807
+  lon: -76.9369
+  coauthors: 1
+- name: Gifu University
+  city: Gifu
+  country: JP
+  lat: 35.4229
+  lon: 136.7604
+  coauthors: 1
+- name: Institutes of Innovation for Future Society, Nagoya University
+  city: Nagoya
+  country: JP
+  lat: 35.1815
+  lon: 136.9064
+  coauthors: 1
+- name: Rice University
+  city: Houston
+  country: US
+  lat: 29.7633
+  lon: -95.3633
+  coauthors: 1
+- name: University of Newcastle Australia
+  city: Newcastle
+  country: AU
+  lat: -32.9295
+  lon: 151.7801
+  coauthors: 1
+- name: Asia University
+  city: Taichung
+  country: TW
+  lat: 24.1469
+  lon: 120.6839
+  coauthors: 1
+- name: University of Cincinnati
+  city: Cincinnati
+  country: US
+  lat: 39.1271
+  lon: -84.5144
+  coauthors: 1
+- name: Macquarie University
+  city: Sydney
+  country: AU
+  lat: -33.8678
+  lon: 151.2073
+  coauthors: 1
+- name: Ben-Gurion University of the Negev
+  city: Beersheba
+  country: IL
+  lat: 31.2518
+  lon: 34.7913
+  coauthors: 1
+- name: Universidade de Fortaleza
+  city: Fortaleza
+  country: BR
+  lat: -3.7172
+  lon: -38.5431
+  coauthors: 1
+- name: University of Valparaíso
+  city: Valparaíso
+  country: CL
+  lat: -33.036
+  lon: -71.6296
+  coauthors: 1
+- name: Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+  city: Fortaleza
+  country: BR
+  lat: -3.7172
+  lon: -38.5431
+  coauthors: 1
+- name: Deakin University
+  city: Burwood
+  country: AU
+  lat: -37.8498
+  lon: 145.119
+  coauthors: 1
+- name: University of Maine at Presque Isle
+  city: Presque Isle
+  country: US
+  lat: 46.6695
+  lon: -68.0186
+  coauthors: 1
+- name: University of Calabria
+  city: Rende
+  country: IT
+  lat: 39.3315
+  lon: 16.1804
+  coauthors: 1
+- name: Torrens University Australia
+  city: Adelaide
+  country: AU
+  lat: -34.9277
+  lon: 138.604
+  coauthors: 1
+- name: École de Technologie Supérieure
+  city: Montreal
+  country: CA
+  lat: 45.5088
+  lon: -73.5878
+  coauthors: 1
+- name: Petrobras (Brazil)
+  city: Rio de Janeiro
+  country: BR
+  lat: -22.9064
+  lon: -43.1822
+  coauthors: 1
+- name: Oregon Health & Science University
+  city: Portland
+  country: US
+  lat: 45.5234
+  lon: -122.6762
+  coauthors: 1
+- name: University of Córdoba
+  city: Córdoba
+  country: ES
+  lat: 37.8916
+  lon: -4.7728
+  coauthors: 1
+- name: Leibniz Supercomputing Centre
+  city: Garching
+  country: DE
+  lat: 48.249
+  lon: 11.651
+  coauthors: 1
+- name: FBK CREATE-NET Research Center
+  city: Trento
+  country: IT
+  lat: 46.0679
+  lon: 11.1211
+  coauthors: 1
+- name: HES-SO University of Applied Sciences and Arts Western Switzerland
+  city: Delémont
+  country: CH
+  lat: 47.3649
+  lon: 7.3445
+  coauthors: 1
+- name: Materials and Energy Research Center
+  city: Tehran
+  country: IR
+  lat: 35.6944
+  lon: 51.4215
+  coauthors: 1
+- name: Universidad Politécnica de Cartagena
+  city: Cartagena
+  country: ES
+  lat: 37.602
+  lon: -0.984
+  coauthors: 1
+- name: Intel (Ireland)
+  city: Leixlip
+  country: IE
+  lat: 53.3721
+  lon: -6.513
+  coauthors: 1
+- name: Hispasat (Spain)
+  city: Madrid
+  country: ES
+  lat: 40.4346
+  lon: -3.6896
+  coauthors: 1
+- name: Hong Kong University of Science and Technology
+  city: Hong Kong
+  country: HK
+  lat: 22.2783
+  lon: 114.1747
+  coauthors: 1
+- name: Blekinge Institute of Technology
+  city: Karlskrona
+  country: SE
+  lat: 56.1616
+  lon: 15.5866
+  coauthors: 1
+- name: University of Genoa
+  city: Genoa
+  country: IT
+  lat: 44.4048
+  lon: 8.9444
+  coauthors: 1
+- name: Indra (Spain)
+  city: Madrid
+  country: ES
+  lat: 40.4165
+  lon: -3.7026
+  coauthors: 1
+- name: Thales (France)
+  city: Paris
+  country: FR
+  lat: 48.8534
+  lon: 2.3488
+  coauthors: 1

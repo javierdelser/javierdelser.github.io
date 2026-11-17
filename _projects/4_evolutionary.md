@@ -10,7 +10,7 @@ img: assets/img/research/research_evolutionary.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_evolutionary.jpg" class="img-fluid rounded z-depth-1" alt="A population converging to a Pareto front" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_evolutionary.jpg" class="img-fluid rounded z-depth-1" alt="Swarm intelligence finding the Pareto frontier" %}
 </div>
 
 Since my second PhD (2013), **bio-inspired optimization and metaheuristics** have been a constant thread in my research, both as a field in its own right and as a tool for designing and improving learning systems (**evolutionary machine learning**).

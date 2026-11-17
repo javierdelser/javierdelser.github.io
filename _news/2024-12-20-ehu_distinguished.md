@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the Department of Mathematics of the University of the Basque Country (UPV/EHU) as **Distinguished Research Scientist**.
+Joined the Department of Mathematics of the University of the Basque Country (EHU) as **Distinguished Researcher**.

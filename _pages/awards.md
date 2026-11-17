@@ -43,12 +43,13 @@ nav: false
 
 ## <i class="fa-solid fa-graduation-cap"></i> Academic distinctions, fellowships and accreditations
 
-| Year       | Distinction                                                                                                                   |
-| :--------- | :---------------------------------------------------------------------------------------------------------------------------- |
-| 2024       | Accreditation as Established (independent) Researcher, **R3**.                                                                |
-| 2020       | Accreditation as **Full Professor** (Catedrático de Universidad) and Associate Professor (Profesor Titular), ANECA.           |
-| 2015       | **Extraordinary PhD Award** (Premio Extraordinario de Doctorado), Universidad de Alcalá, ranked first of the doctoral cohort. |
-| 2015       | Accreditation as Profesor Agregado and Profesor Adjunto, UNIBASQ.                                                             |
-| 2008, 2009 | **Torres Quevedo** post-doctoral grants, Spanish Ministry of Science and Innovation.                                          |
-| 2005       | Travel grant, Summer Research Institute, EPFL (Switzerland).                                                                  |
-| 2003       | **Iñaki Goenaga PhD Fellowship**, awarded to the top 32 graduates of 2003 in the Basque Country.                              |
+| Year       | Distinction                                                                                                                                 |
+| :--------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024       | Accreditation as Established (independent) Researcher, **R3**.                                                                              |
+| 2020       | Accreditation as **Full Professor** (Catedrático de Universidad) and Associate Professor (Profesor Titular), ANECA.                         |
+| 2015       | **Extraordinary PhD Award** (Premio Extraordinario de Doctorado), Universidad de Alcalá, ranked first of the doctoral cohort.               |
+| 2015       | Accreditation as Profesor Agregado (associate professor) and Profesor Adjunto (assistant professor), UNIBASQ, both with favourable reports. |
+| 2010       | Accreditation as Profesor Asociado (adjunct professor), UNIQUAL (Basque University System Quality Agency).                                  |
+| 2008, 2009 | **Torres Quevedo** post-doctoral grants, Spanish Ministry of Science and Innovation.                                                        |
+| 2005       | Travel grant, Summer Research Institute, EPFL (Switzerland).                                                                                |
+| 2003       | **Iñaki Goenaga PhD Fellowship**, awarded to the top 32 graduates of 2003 in the Basque Country.                                            |

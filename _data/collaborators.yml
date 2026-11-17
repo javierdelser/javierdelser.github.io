@@ -1,4 +1,4 @@
-# Top-20 international collaborators (outside Spain), ranked by number of joint publications
+# Main international collaborators (outside Spain), ranked by number of joint publications
 # in _bibliography/papers.bib (snapshot November 2026). Affiliation = most frequent affiliation in
 # joint papers (OpenAlex). lat/lon = institution location, used by the map on the Team page.
 international:
@@ -34,14 +34,6 @@ international:
     lat: 37.5503
     lon: 127.0731
     topics: Video analytics, scene understanding
-  - name: Xin-She Yang
-    papers: 9
-    institution: Middlesex University London
-    city: London
-    country: United Kingdom
-    lat: 51.5898
-    lon: -0.2283
-    topics: Bio-inspired computation, metaheuristics
   - name: Mingfu Xiong
     papers: 9
     institution: Wuhan Textile University
@@ -163,6 +155,5 @@ international:
     lon: 75.9207
     topics: Ensemble deep learning, Alzheimer's disease diagnosis
 
-# Other frequent international co-authors (5 joint publications): Zong Woo Geem (Gachon University, South Korea),
-# Iztok Fister Jr. (University of Maribor, Slovenia),
+# Other frequent international co-authors (5 joint publications): Iztok Fister Jr. (University of Maribor, Slovenia),
 # Amin Ullah (Sejong University, South Korea), Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London, United Kingdom).

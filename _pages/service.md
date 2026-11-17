@@ -23,13 +23,13 @@ toc:
 - _Smart Mobility and Big Data: New Advances from Data Science and Optimization_, Salón Atlántico de la Logística y el Transporte (SALT), Las Palmas de Gran Canaria, Spain (2018).
 - _Deep Learning for inversion of resistivity measurements_, Columbia University, New York, USA (2018), and Joint Industry Research Consortium on Formation Evaluation, Texas, USA (2018) (with M. Shahriari, D. Pardo et al.).
 - _State of the Art in Optimization_, Irish Manufacturing Research, Dublin, Ireland (2015).
-- **Plenary keynote**: _Past, present and future of Big Data: towards a prosperity model based on Data Science_, SEPGLA Conference, Manizales, Colombia (2014).
-- **Keynote**: _Recent Applications of Harmony Search to Urban Road Network Planning, Indoor Localization and Telecommunications_, International Conference on Harmony Search Algorithm, Seoul, South Korea (2014).
+- **Plenary keynote**: _Past, present and future of Big Data: towards a prosperity model based on Data Science_, SEPG Latin America 2014 (CMMI Institute), Manizales, Colombia (June 2014).
+- **Invited plenary talk**: _Recent Applications of Harmony Search to Urban Road Network Planning, Indoor Localization and Telecommunications_, 1st Symposium on the Harmony Search Algorithm, Korea University, Seoul, South Korea (February 2014).
 - _Big Data: data analysis over new storage and computing technologies_, Universidad de Alcalá, Spain (2013).
 - _Unsupervised Learning: Clustering_ and _Fundamentals and Applications of Harmony Search_, Universidad de Alcalá, Spain (2012).
-- _Patentability of Algorithms and Computer-Implemented Inventions_, Universidad de Santiago de Compostela, Spain (2011).
+- _Patentability of Algorithms and Computer-Implemented Inventions_ (4 h seminar organised by math-in), Universidad de Santiago de Compostela, Spain (2011).
 - **Keynote**: _On the Application of Advanced Multiobjective and Grouping Heuristics to Localization, Positioning and Network Planning_, 2nd International Workshop on Multiphysics, Multiscale and Optimization Problems, Leioa, Spain (2011).
-- _Iterative Joint Source-Channel Coding Techniques for Single and Multiterminal Sources in Communication Networks_, Universidad Carlos III de Madrid, Spain (2007).
+- _Iterative Joint Source-Channel Coding Techniques for Single and Multiterminal Sources in Communication Networks_, Universidad Carlos III de Madrid, research meeting of the PRO-MULTIDIS-CM project, Spain (2007).
 
 ## <i class="fa-solid fa-pen-nib"></i> Editorial boards
 
@@ -65,6 +65,7 @@ I have served on the organizing committees of more than 100 conferences and work
 - **General Chair**: IEEE International Conference on Intelligent Transportation Systems (**ITSC 2023**, Bilbao), 12th International Symposium on Intelligent Distributed Computing (**IDC 2018**, Bilbao), 3rd International Conference on Harmony Search Algorithm (**ICHSA 2017**, Bilbao), 3rd ICST International Conference on Mobile Lightweight Wireless Systems (**MOBILIGHT 2011**, Bilbao).
 - **Technical Program Co-Chair**: IEEE ITSC 2018; CAEPIA 2018 (Spanish Association for Artificial Intelligence).
 - **General Co-Chair**: 1st BCAM International Workshop on Multiphysics, Multiscale and Optimization Problems (2010).
+- **International Scientific Committee**: 2nd International Conference on Harmony Search Algorithm (ICHSA 2015).
 - **Workshop and special session organizer** at more than 20 international conferences, including IEEE CEC, GECCO (e.g. EVOGRAPH 2019), IEEE SSCI, IEEE ITSC, ICCS and PAAMS (Swarm Intelligence and Swarm Robotics, 2018–2019).
 - **Challenge coordinator** with the company FON at the European Study Group with Industry (ESGI 2017).
 - Advisory, publicity, panel and track chair roles at IDC 2019, AICT, ICDT, CTRQ, MOBIMEDIA, MACOM, CHINACOM, ICN, ICSTA and ICWMC (2010–2011).
@@ -73,4 +74,4 @@ I have served on the organizing committees of more than 100 conferences and work
 ## <i class="fa-solid fa-scale-balanced"></i> Evaluation of research
 
 - Expert evaluator for **15 international R&D funding agencies**, including the Spanish State Research Agency (Retos programme), the Junta de Extremadura (Spain), the Independent Research Fund Denmark, the National Science Centre (Poland), the Italian Ministry of Education, University and Research (MIUR, ST panel), Argentina's National Agency for the Promotion of Science and Technology (PICT), FONCYT, the European Commission's CHIST-ERA ERA-NET, A*STAR (Singapore) and Qatar University.
-- Member of more than **30 PhD committees** at UPV/EHU, Mondragon University, TECNUN, Universidad de Cantabria, Universidad Autónoma de Madrid, Universidad de Málaga, Universidad de Alcalá, Universidad de Granada, Universidad Carlos III de Madrid, Universidad Politécnica de Madrid, Sorbonne Université (ISIR) / ENSTA Paris, NTU Singapore and the University of Trento, among others.
+- Member of more than **30 PhD committees** at EHU, Mondragon University, TECNUN, Universidad de Cantabria, Universidad Autónoma de Madrid, Universidad de Málaga, Universidad de Alcalá, Universidad de Granada, Universidad Carlos III de Madrid, Universidad Politécnica de Madrid, Sorbonne Université (ISIR) / ENSTA Paris, NTU Singapore and the University of Trento, among others.
