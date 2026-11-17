@@ -10,7 +10,7 @@ img: assets/img/research/research_rl.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.jpg" class="img-fluid rounded z-depth-1" alt="Reinforcement learning: learned gridworld policy, agent-environment loop and learning curve" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.jpg" class="img-fluid rounded z-depth-1" alt="A robot agent finding its path to a goal flag through a grid of obstacles, with a rising reward curve" %}
 </div>
 
 This line studies how reinforcement learning (RL) agents can learn efficiently when rewards are sparse, and how **pretrained foundation models** (vision-language models and LLMs) can guide them through intrinsic motivation, high-level language prompts and structured task decomposition.
