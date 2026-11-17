@@ -18,69 +18,17 @@ chart:
   <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">238</h4><small class="text-muted">conference contributions</small></div>
 </div>
 
-```chartjs
-{
-  "type": "bar",
-  "data": {
-    "labels": [
-      "2013",
-      "2014",
-      "2015",
-      "2016",
-      "2017",
-      "2018",
-      "2019",
-      "2020",
-      "2021",
-      "2022",
-      "2023",
-      "2024",
-      "2025",
-      "2026"
-    ],
-    "datasets": [
-      {
-        "label": "Citations per year (Google Scholar)",
-        "data": [
-          125,
-          144,
-          193,
-          257,
-          375,
-          417,
-          797,
-          1628,
-          3040,
-          4228,
-          5603,
-          7794,
-          10583,
-          10551
-        ],
-        "backgroundColor": "#2f5ba8",
-          "borderColor": "#1f3a6e",
-          "borderWidth": 1,
-        "borderRadius": 3
-      }
-    ]
-  },
-  "options": {
-    "plugins": {
-      "legend": {
-        "display": false
-      }
-    },
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "ticks": {
-          "precision": 0
-        }
-      }
-    }
-  }
-}
-```
+<div class="mb-2" style="position: relative; height: 320px">
+  <canvas id="citations-chart" role="img" aria-label="Bar chart of citations per year according to Google Scholar"></canvas>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const el = document.getElementById("citations-chart");
+    if (!el || typeof Chart === "undefined") return;
+    new Chart(el, {"type": "bar", "data": {"labels": ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], "datasets": [{"label": "Citations per year (Google Scholar)", "data": [125, 144, 193, 257, 375, 417, 797, 1628, 3040, 4228, 5603, 7794, 10583, 10551], "backgroundColor": "#2f5ba8", "borderColor": "#1f3a6e", "borderWidth": 1, "borderRadius": 3}]}, "options": {"plugins": {"legend": {"display": false}}, "scales": {"y": {"beginAtZero": true, "ticks": {"precision": 0}}}, "maintainAspectRatio": false}});
+  });
+</script>
 
 <p class="text-muted small">
 Citations per year according to <a href="https://scholar.google.com/citations?user=p_wY0zUAAAAJ" target="_blank">Google Scholar</a> (retrieved November 2026; 2026 is a partial year).

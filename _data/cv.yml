@@ -11,9 +11,9 @@ cv:
   summary: >
     Researcher in Artificial Intelligence, Machine Learning and Deep Learning, with a focus on Trustworthy and Responsible AI
     (explainability, fairness, robustness, AI safety, human-centric AI) and Evolutionary Computation / Swarm Intelligence.
-    Clarivate Highly Cited Researcher (2025, 2026), listed since 2021 in the Stanford/Elsevier top-2% ranking in AI,
+    Clarivate Highly Cited Researcher (2025), listed since 2021 in the Stanford/Elsevier top-2% ranking in AI,
     member of the Scientific Panel advising the European Commission on the implementation of the EU AI Act (2026),
-    author of 220+ JCR journal articles (85% Q1, 35% D1) and 230+ conference papers, 20 supervised PhD theses, 9 patents,
+    author of 220+ JCR journal articles (85% Q1, 35% D1) and 230+ conference papers, 20 supervised PhD theses (19 defended, one awaiting defence), 9 patents,
     and 65+ research projects and technology transfer contracts. Citations (Google Scholar, Nov 2026): 46,644; h-index 75; i10-index 272.
 
   sections:
@@ -135,10 +135,6 @@ cv:
           - 'Final project: "Design and Implementation of a System for the Measurement of Flicker Noise in Power Transmission Networks" (9/10).'
 
     Honors and Awards:
-      - title: Highly Cited Researcher 2026 (Computer Science)
-        date: 2026
-        awarder: Clarivate
-        summary: Selection confirmed; list published in November 2026.
       - title: Highly Cited Researcher 2025 (Computer Science)
         date: 2025
         awarder: Clarivate

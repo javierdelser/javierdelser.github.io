@@ -1,4 +1,4 @@
-# Main international collaborators (outside Spain), ranked by number of joint publications
+# Main international collaborators (outside Spain) shown on the Team page (table and map).
 # in _bibliography/papers.bib (snapshot November 2026). Affiliation = most frequent affiliation in
 # joint papers (OpenAlex). lat/lon = institution location, used by the map on the Team page.
 international:

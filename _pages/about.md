@@ -46,7 +46,7 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
   <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right fa-lg mb-2 text-muted"></i><h3 class="mb-0">46,644</h3><small class="text-muted">citations<br>(Google Scholar)</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line fa-lg mb-2 text-muted"></i><h3 class="mb-0">75</h3><small class="text-muted">h-index<br>(i10-index: 272)</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-book-open fa-lg mb-2 text-muted"></i><h3 class="mb-0">220+</h3><small class="text-muted">JCR journal articles<br>(85% Q1, 35% D1)</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-user-graduate fa-lg mb-2 text-muted"></i><h3 class="mb-0">20</h3><small class="text-muted">PhD theses<br>supervised</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-user-graduate fa-lg mb-2 text-muted"></i><h3 class="mb-0">20</h3><small class="text-muted">PhD theses supervised<br>(19 defended, 1 awaiting defence)</small></div>
 </div>
 <p class="text-center text-muted small">Citation metrics from <a href="https://scholar.google.com/citations?user=p_wY0zUAAAAJ" target="_blank">Google Scholar</a>, November 2026.</p>
 
@@ -60,7 +60,7 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
 
 #### Highlights
 
-- **Highly Cited Researcher** by Clarivate in 2025 (Computer Science; one of two researchers in Spain in this category), confirmed again for 2026.
+- **Highly Cited Researcher** by Clarivate in 2025 (Computer Science; one of two researchers in Spain in this category).
 - Listed every year since 2021 among the **top 2% most influential researchers in AI** (Stanford University / Elsevier), in both the single-year and career-long rankings.
 - **Member of the Scientific Panel of independent experts** advising the European Commission on implementing the **EU AI Act** (one of 60 members, 2026).
 - Member of the team that drafted the **Spanish R&D&I Strategy in Artificial Intelligence** (Government of Spain, 2019).
@@ -68,6 +68,6 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
 - Member of [ELLIS](https://ellis.eu) (European Laboratory for Learning and Intelligent Systems), point of contact of TECNALIA for ELLIS, [CLAIRE](https://claire-ai.org) and [BDVA](https://www.bdva.eu), and IEEE Senior Member.
 - Director of the **TECNALIA Chair in Artificial Intelligence** at the University of Granada; Distinguished Visiting Professor at the University of Granada and Visiting Professor at BOKU University (Vienna, Austria).
 
-I earned my degree in Telecommunication Engineering at the University of the Basque Country (2003), a PhD in Control Engineering and Industrial Electronics (_Cum Laude_) at the University of Navarra (2006), and a second PhD in Information and Communication Technologies (_Cum Laude_, Extraordinary PhD Award) at the University of Alcalá (2013). I have authored more than 220 JCR-indexed journal articles and 230 conference contributions, supervised 20 doctoral theses, co-invented 9 patents, and taken part in more than 65 research projects and technology transfer contracts. I serve as Area Editor of _Information Fusion_ and Associate Editor of _Swarm and Evolutionary Computation_, _Cognitive Computation_ and _IEEE Transactions on Intelligent Transportation Systems_, and I was General Chair of IEEE ITSC 2023 (Bilbao).
+I earned my degree in Telecommunication Engineering at the University of the Basque Country (2003), a PhD in Control Engineering and Industrial Electronics (_Cum Laude_) at the University of Navarra (2006), and a second PhD in Information and Communication Technologies (_Cum Laude_, Extraordinary PhD Award) at the University of Alcalá (2013). I have authored more than 220 JCR-indexed journal articles and 230 conference contributions, supervised 20 doctoral theses (19 defended and one awaiting its defence), co-invented 9 patents, and taken part in more than 65 research projects and technology transfer contracts. I serve as Area Editor of _Information Fusion_ and Associate Editor of _Swarm and Evolutionary Computation_, _Cognitive Computation_ and _IEEE Transactions on Intelligent Transportation Systems_, and I was General Chair of IEEE ITSC 2023 (Bilbao).
 
 More: [Publications]({{ '/publications/' | relative_url }}) · [Research]({{ '/research/' | relative_url }}) · [Projects]({{ '/projects/' | relative_url }}) · [Team]({{ '/team/' | relative_url }}) · [Awards]({{ '/awards/' | relative_url }}) · [Media]({{ '/press/' | relative_url }}) · [CV]({{ '/cv/' | relative_url }})

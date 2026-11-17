@@ -51,4 +51,4 @@ Courses taught for companies and public institutions:
 
 ## <i class="fa-solid fa-user-graduate"></i> Supervision
 
-More than 45 BSc and MSc theses and 20 PhD theses. See the [team]({{ '/team/' | relative_url }}) page.
+More than 45 BSc and MSc theses and 20 PhD theses (19 defended and one awaiting its defence). See the [team]({{ '/team/' | relative_url }}) page.

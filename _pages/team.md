@@ -29,7 +29,7 @@ My research is carried out within two research structures, one in a technology c
       <h5 class="mb-1" style="min-height: 1.5em"><a href="#mathmode-upvehu">MATHMODE</a></h5>
       <small class="text-muted" style="min-height: 2.6em; display: block">EHU · Group of Excellence (A), Basque Government</small>
       <div style="margin-top: auto; padding-top: 0.6rem">
-        <span class="role-badge">Senior researcher</span>
+        <span class="role-badge">Distinguished Researcher</span>
       </div>
     </div>
   </div>
@@ -128,46 +128,52 @@ Its goals are to **develop knowledge** in applied mathematics, AI, statistics an
 
 ## <i class="fa-solid fa-user-graduate"></i> Doctoral supervision
 
-I have supervised **20 doctoral theses**, all graded _Sobresaliente Cum Laude_. Two received the **Extraordinary PhD Award**, and many earned the International Doctorate mention. I am currently supervising about 10 more, mainly in the doctoral programmes of the University of the Basque Country (EHU), several of them industrial doctorates co-funded by the Basque Government's BIKAINTEK programme. Many of my former students now hold research and leadership positions at TECNALIA, at universities, and at companies such as IKUSI, INDRA and DYNICON.
+I have supervised **20 doctoral theses**: 19 have already been defended, all graded _Sobresaliente Cum Laude_, and the 20th (María Arostegi) has been deposited and is awaiting its defence date. Two of them received the **Extraordinary PhD Award**, and many earned the International Doctorate mention. I am currently supervising 11 more, mainly in the doctoral programmes of the University of the Basque Country (EHU), several of them industrial doctorates co-funded by the Basque Government's BIKAINTEK programme. Many of my former students now hold research and leadership positions at TECNALIA, at universities, and at companies such as IKUSI, INDRA and DYNICON.
 
 > **Prospective students and postdocs.** If you are interested in trustworthy AI, AI safety, open-world learning, neuromorphic computing or evolutionary machine learning, feel free to contact me by email with your CV and a short statement of research interests. Positions are usually advertised through TECNALIA, EHU, the JRL-A2I and Marie Skłodowska-Curie networks such as IN-DEEP.
 
 ### <i class="fa-solid fa-hourglass-half"></i> Doctoral theses in progress
 
-| Student                  | Thesis                                                                                                                                           | Programme                               | Since |
-| :----------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- | :---- |
-| María Arostegui Pérez    | Data Streams with Concept Drift and Extreme Verification Latency: From Incremental Learning to Open-Set Recognition (thesis deposit in progress) | Mobile Network ICT, EHU                 | 2022  |
-| Sonia Bilbao-Arechabala  | Advances in the Design of New Intelligent Natural Language Processing Models                                                                     | Language Analysis and Processing, EHU   | 2023  |
-| Maximilian Kammerling    | Data-Driven Models to Support Predictive Maintenance of Offshore Renewable Energy Devices                                                        | Mobile Network ICT, EHU                 | 2023  |
-| Mikel Mendibe Abarrategi | Uncertainty-Aware Deep Learning for Parametric PDEs Modelling Tumor Growth                                                                       | Mobile Network ICT, EHU                 | 2024  |
-| Unai Ruiz-Gonzalez       | Open-Ended Learning Harnessing the Latent Knowledge of Foundational Models                                                                       | Mobile Network ICT, EHU                 | 2024  |
-| Asel Villanueva Merino   | Artificial Intelligence and Digital Twins for the Multi-Objective Optimization of Urban Energy Communities                                       | Mobile Network ICT, EHU                 | —     |
-| Unai Orive Mugica        | Title to be registered                                                                                                                           | Mobile Network ICT, EHU                 | —     |
-| Sergio Campos Cordobés   | Artificial Intelligence Techniques for Railway Systems                                                                                           | Electronics and Telecommunications, EHU | 2017  |
+| Student                    | Thesis                                                                                                                                 | Programme / University                  | Timeline      |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------- | :------------ |
+| Sonia Bilbao-Arechabala    | Advances in the Design of New Intelligent Natural Language Processing Models                                                           | Language Analysis and Processing, EHU   | since 2023    |
+| Sandra Riaño Fernández     | New Signal Processing and Machine Learning Techniques for the Intelligent Operation and Predictive Maintenance of Photovoltaic Systems | Mobile Network ICT, EHU                 | since 2023    |
+| Maximilian Kammerling      | Data-Driven Models to Support Predictive Maintenance of Offshore Renewable Energy Devices                                              | Mobile Network ICT, EHU                 | since 2023    |
+| Mikel Mendibe Abarrategi   | Uncertainty-Aware Deep Learning for Parametric PDEs Modelling Tumor Growth                                                             | Mobile Network ICT, EHU                 | since 2024    |
+| Unai Ruiz-Gonzalez         | Open-Ended Learning Harnessing the Latent Knowledge of Foundational Models                                                             | Mobile Network ICT, EHU                 | since 2024    |
+| Asel Villanueva Merino     | Artificial Intelligence and Digital Twins for the Multi-Objective Optimization of Urban Energy Communities                             | Mobile Network ICT, EHU                 | —             |
+| Unai Orive Mugica          | Title to be registered                                                                                                                 | Mobile Network ICT, EHU                 | —             |
+| Sergio Campos Cordobés     | Artificial Intelligence Techniques for Railway Systems                                                                                 | Electronics and Telecommunications, EHU | since 2017    |
+| Guillermo Villate-Castillo | Towards Reliable Toxicity Detection and Mitigation for AI Alignment                                                                    | University of Deusto                    | expected 2027 |
+| Erik B. Terres-Escudero    | Biologically Plausible Neural Networks: New Approaches and Applications                                                                | University of Deusto                    | expected 2027 |
+| David Zamora Arranz        | Design, Implementation and Validation of Machine Learning Models on Legacy Devices with Limited Capabilities                           | University of Deusto                    | expected 2027 |
 
-### <i class="fa-solid fa-scroll"></i> Defended doctoral theses
+### <i class="fa-solid fa-scroll"></i> Completed doctoral theses
 
-| Student                   | Thesis                                                                                                                                 | University             | Defended | Distinctions                                                    |
-| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------- | :--------------------- | :------- | :-------------------------------------------------------------- |
-| Iñigo Delgado Enales      | Advanced Optimization and Data Modeling Techniques to Improve Accessibility and Thermal Comfort in Urban Planning                      | EHU                    | 2024     | Cum Laude                                                       |
-| Javier Sánchez Cubillo    | Improving the Perception System of Mobile Robots in Complex Tasks with Machine Learning Models for Object Detection and Classification | EHU                    | 2024     | Cum Laude                                                       |
-| Eric L. Manibardo         | Beyond Short-Term Traffic Forecasting Models: Navigating Through Data Availability Constraints                                         | EHU                    | 2024     | Cum Laude, International Doctorate, Industrial Doctorate        |
-| Alain Andrés Fernández    | Intrinsic Motivation Mechanisms for a Better Sample Efficiency in Deep Reinforcement Learning Applied to Scenarios with Sparse Rewards | EHU                    | 2023     | Cum Laude, International Doctorate                              |
-| Alaiñe Iturria            | Reducing False Positives in Time Series Anomaly Detection through Ensemble Techniques                                                  | Univ. Granada          | 2023     | Cum Laude                                                       |
-| Aritz D. Martínez         | Deep Learning and Metaheuristics: Insights and New Developments                                                                        | Univ. Granada          | 2023     | Cum Laude                                                       |
-| Alejandro Barredo Arrieta | On the Design, Implementation and Application of Novel Multi-Disciplinary Techniques for Explaining Artificial Intelligence Models     | EHU                    | 2022     | Cum Laude                                                       |
-| Izaskun Oregi             | Advances on Time Series Analysis Using Elastic Measures of Similarity                                                                  | EHU                    | 2020     | Cum Laude, International Doctorate                              |
-| Cristina Perfecto         | Millimetre Wave Communications in 5G Networks under Latency Constraints: Machine Intelligence, Application Scenarios and Perspectives  | EHU                    | 2019     | Cum Laude, International Doctorate, **Extraordinary PhD Award** |
-| Ibai Laña                 | Design and Validation of Novel Methods for Long-Term Road Traffic Forecasting                                                          | EHU                    | 2018     | Cum Laude, International Doctorate                              |
-| Jesús L. Lobo             | New Perspectives and Methods for Stream Learning in the Presence of Concept Drift                                                      | EHU                    | 2018     | Cum Laude, International Doctorate, **Extraordinary PhD Award** |
-| Carlos A. García-Santiago | Study and Development of Advanced Meta-Heuristic Approaches for Real-Life Dynamic Production Scheduling                                | Univ. Alcalá           | 2016     | Cum Laude, International Doctorate                              |
-| Esther Villar-Rodríguez   | Advanced Machine Learning Techniques and Meta-Heuristic Optimization for the Detection of Masquerading Attacks in Social Networks      | Univ. Alcalá           | 2015     | Cum Laude                                                       |
-| Miren Nekane Bilbao       | Advanced Meta-Heuristic Approaches and Their Application to Operational Optimization in Forest Wildfire Management                     | Univ. Alcalá           | 2014     | Cum Laude                                                       |
-| Diana Manjarrés           | Design and Application of Novel Harmony Search Multi-Objective Algorithms to Practical Problems                                        | Univ. Alcalá           | 2013     | Cum Laude                                                       |
-| Mikel Hernáez             | Joint Network-Channel Coding Schemes for Relay Networks                                                                                | Univ. Navarra (TECNUN) | 2012     | Cum Laude                                                       |
-| Estibaliz Loyo            | Constellation Design for the Gaussian Channel Driven by the Statistics of Sources with Memory Based on the Burrows-Wheeler Transform   | Univ. Navarra (TECNUN) | 2008     | Cum Laude                                                       |
+19 defended theses and one deposited thesis awaiting its defence date.
 
-Other doctoral students I have co-supervised include Jesús Para Fernández (University of Málaga), and Aitor Martínez-Seras and David Zamora Arranz (University of Deusto, with Prof. Pablo García-Bringas).
+| Student                   | Thesis                                                                                                                                                                          | University             | Defended                   | Distinctions                                                    |
+| :------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------- | :------------------------- | :-------------------------------------------------------------- |
+| María Arostegi Pérez      | Data Streams with Concept Drift and Extreme Verification Latency: From Incremental Learning to Open-Set Recognition                                                             | EHU                    | deposited, defence pending | —                                                               |
+| Aitor Martínez-Seras      | Out-of-Distribution Detection in Open-World Machine Learning: New Algorithms, Learning Scenarios, and Pathways towards Safe Artificial Intelligence (with Pablo García-Bringas) | Univ. Deusto           | 2024                       | Cum Laude                                                       |
+| Iñigo Delgado Enales      | Advanced Optimization and Data Modeling Techniques to Improve Accessibility and Thermal Comfort in Urban Planning                                                               | EHU                    | 2024                       | Cum Laude                                                       |
+| Javier Sánchez Cubillo    | Improving the Perception System of Mobile Robots in Complex Tasks with Machine Learning Models for Object Detection and Classification                                          | EHU                    | 2024                       | Cum Laude                                                       |
+| Eric L. Manibardo         | Beyond Short-Term Traffic Forecasting Models: Navigating Through Data Availability Constraints                                                                                  | EHU                    | 2024                       | Cum Laude, International Doctorate, Industrial Doctorate        |
+| Alain Andrés Fernández    | Intrinsic Motivation Mechanisms for a Better Sample Efficiency in Deep Reinforcement Learning Applied to Scenarios with Sparse Rewards                                          | EHU                    | 2023                       | Cum Laude, International Doctorate                              |
+| Jesús Para Fernández      | Application of Machine Learning and Optimization Techniques to Real Problems in Industry 4.0 (with Antonio J. Nebro)                                                            | Univ. Málaga           | 2023                       | Cum Laude                                                       |
+| Alaiñe Iturria            | Reducing False Positives in Time Series Anomaly Detection through Ensemble Techniques                                                                                           | Univ. Granada          | 2023                       | Cum Laude                                                       |
+| Aritz D. Martínez         | Deep Learning and Metaheuristics: Insights and New Developments                                                                                                                 | Univ. Granada          | 2023                       | Cum Laude                                                       |
+| Alejandro Barredo Arrieta | On the Design, Implementation and Application of Novel Multi-Disciplinary Techniques for Explaining Artificial Intelligence Models                                              | EHU                    | 2022                       | Cum Laude                                                       |
+| Izaskun Oregi             | Advances on Time Series Analysis Using Elastic Measures of Similarity                                                                                                           | EHU                    | 2020                       | Cum Laude, International Doctorate                              |
+| Cristina Perfecto         | Millimetre Wave Communications in 5G Networks under Latency Constraints: Machine Intelligence, Application Scenarios and Perspectives                                           | EHU                    | 2019                       | Cum Laude, International Doctorate, **Extraordinary PhD Award** |
+| Ibai Laña                 | Design and Validation of Novel Methods for Long-Term Road Traffic Forecasting                                                                                                   | EHU                    | 2018                       | Cum Laude, International Doctorate                              |
+| Jesús L. Lobo             | New Perspectives and Methods for Stream Learning in the Presence of Concept Drift                                                                                               | EHU                    | 2018                       | Cum Laude, International Doctorate, **Extraordinary PhD Award** |
+| Carlos A. García-Santiago | Study and Development of Advanced Meta-Heuristic Approaches for Real-Life Dynamic Production Scheduling                                                                         | Univ. Alcalá           | 2016                       | Cum Laude, International Doctorate                              |
+| Esther Villar-Rodríguez   | Advanced Machine Learning Techniques and Meta-Heuristic Optimization for the Detection of Masquerading Attacks in Social Networks                                               | Univ. Alcalá           | 2015                       | Cum Laude                                                       |
+| Miren Nekane Bilbao       | Advanced Meta-Heuristic Approaches and Their Application to Operational Optimization in Forest Wildfire Management                                                              | Univ. Alcalá           | 2014                       | Cum Laude                                                       |
+| Diana Manjarrés           | Design and Application of Novel Harmony Search Multi-Objective Algorithms to Practical Problems                                                                                 | Univ. Alcalá           | 2013                       | Cum Laude                                                       |
+| Mikel Hernáez             | Joint Network-Channel Coding Schemes for Relay Networks                                                                                                                         | Univ. Navarra (TECNUN) | 2012                       | Cum Laude                                                       |
+| Estibaliz Loyo            | Constellation Design for the Gaussian Channel Driven by the Statistics of Sources with Memory Based on the Burrows-Wheeler Transform                                            | Univ. Navarra (TECNUN) | 2008                       | Cum Laude                                                       |
 
 ## <i class="fa-solid fa-graduation-cap"></i> Master's and bachelor's theses (selected)
 
@@ -221,7 +227,7 @@ I have also served on numerous bachelor's and master's thesis committees at EHU.
 
 ## <i class="fa-solid fa-earth-americas"></i> Collaborators
 
-My work is highly collaborative: my publications include about **700 distinct co-authors** from **250 institutions in more than 40 countries and regions**. The small dots on the map mark the institutions of all my co-authors, and the larger markers highlight my **main collaborators outside Spain**, selected by number of joint publications. Hover over or click a marker for details.
+My work is highly collaborative: my publications include about **700 distinct co-authors** from **250 institutions in more than 40 countries and regions**. The small dots on the map mark the institutions of all my co-authors, and the larger markers highlight my **main collaborators outside Spain**. Hover over or click a marker for details.
 
 <div id="collab-map" style="height: 440px; border-radius: 6px;" class="z-depth-1 mb-3"></div>
 
@@ -282,7 +288,7 @@ My work is highly collaborative: my publications include about **700 distinct co
   </tbody>
 </table>
 
-Other frequent international co-authors include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Amir Hussain (Edinburgh Napier University), Albert Bifet (University of Waikato / Télécom Paris), Luca Longo (Technological University Dublin) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
+Other international collaborators include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Amir Hussain (Edinburgh Napier University), Albert Bifet (University of Waikato / Télécom Paris), Luca Longo (Technological University Dublin) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
 
 ### <i class="fa-solid fa-location-dot"></i> Main collaborators in Spain
 
@@ -293,4 +299,6 @@ Other frequent international co-authors include Heye Zhang (Sun Yat-sen Universi
 - **University of Alcalá**: Sancho Salcedo-Sanz, José A. Portilla-Figueras and Carlos Casanova-Mateo.
 - **University of Navarra (TECNUN / CEIT)**: Pedro M. Crespo and Mikel Hernáez.
 - **University of Cantabria**: Andrés Iglesias and Akemi Gálvez.
-- **Other institutions**: David Camacho (Universidad Politécnica de Madrid), Antonio J. Nebro (University of Málaga), Pablo García-Bringas (University of Deusto) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).
+- **University of Málaga**: Antonio J. Nebro.
+- **Rey Juan Carlos University (URJC)**: Nicolás Rodríguez Uribe.
+- **Other institutions**: David Camacho (Universidad Politécnica de Madrid), Pablo García-Bringas (University of Deusto) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).

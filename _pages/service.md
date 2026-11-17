@@ -11,6 +11,7 @@ toc:
 ## <i class="fa-solid fa-landmark-dome"></i> Policy and advisory roles
 
 - **Scientific Panel of independent experts on AI**, advising the European Commission on implementing the **EU AI Act** (one of 60 members, 2026).
+- Member of the **Board of Governors** of [AEPIA](https://www.aepia.org/), the Spanish Association for Artificial Intelligence (elected November 2026).
 - Member of the expert team that drafted the **Spanish R&D&I Strategy in Artificial Intelligence** for the Government of Spain (2019).
 - Expert consulted in [The Millennium Project](https://www.millennium-project.org/transition-from-artificial-narrow-to-artificial-general-intelligence-governance/) international study on the **transition from Artificial Narrow to Artificial General Intelligence governance** (AGI experts and thought leaders, Phase 1).
 - Coordinator of the research plan for the telecommunications sector in the **National Strategic R&D Plan of the Government of Colombia** (2012–2013).
@@ -19,6 +20,8 @@ toc:
 ## <i class="fa-solid fa-microphone"></i> Keynotes and invited talks
 
 - **Keynote**, Genetic and Evolutionary Computation Conference (**GECCO 2025**): _Evolutionary Computation as a Path to Safe, Trustworthy, and Responsible General-Purpose Artificial Intelligence_.
+- **Invited seminar**: _Presente y futuro de la Inteligencia Artificial: hacia una tecnología fiable, segura y responsable_, Deusto Research Challenges Seminars, University of Deusto, Bilbao, Spain (May 2025).
+- _Prospectivas de futuro: IA – Big Data_ (with Sonia Bilbao), Webinar on Prospects of Disruptive Technologies, Spanish Technology Platform for Disruptive Technologies (PTE Disruptive, APTE), online (October 2024).
 - _From Shallow to Deep Learning: a historical perspective from feature engineering to hierarchical representation learning_, Universidad Autónoma de Madrid, Spain (2018).
 - _Smart Mobility and Big Data: New Advances from Data Science and Optimization_, Salón Atlántico de la Logística y el Transporte (SALT), Las Palmas de Gran Canaria, Spain (2018).
 - _Deep Learning for inversion of resistivity measurements_, Columbia University, New York, USA (2018), and Joint Industry Research Consortium on Formation Evaluation, Texas, USA (2018) (with M. Shahriari, D. Pardo et al.).

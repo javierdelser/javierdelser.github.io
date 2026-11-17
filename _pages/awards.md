@@ -10,7 +10,6 @@ nav: false
 
 | Year      | Distinction                                                                                                                                                                        |
 | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026      | **Highly Cited Researcher**, Clarivate (Computer Science), second consecutive year.                                                                                                |
 | 2026      | Appointed to the **Scientific Panel of independent experts** advising the European Commission on implementing the EU AI Act (one of 60 members).                                   |
 | 2025      | **Highly Cited Researcher**, Clarivate (Computer Science): top 0.1% of researchers worldwide and one of two researchers in Spain in this category.                                 |
 | 2021–2026 | Listed every year among the **top 2% most influential researchers in Artificial Intelligence** (Stanford University / Elsevier), in both the single-year and career-long editions. |
