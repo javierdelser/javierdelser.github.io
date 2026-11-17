@@ -10,7 +10,7 @@ img: assets/img/research/research_xai.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_xai.jpg" class="img-fluid rounded z-depth-1" alt="Transparent AI decision pathways" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_xai.jpg" class="img-fluid rounded z-depth-1" alt="Explaining an image classifier: saliency heatmap, feature attributions and counterfactual example" %}
 </div>
 
 How can people understand, trust and safely govern machine learning models? This research line builds the conceptual foundations of **Explainable Artificial Intelligence (XAI)** and **Responsible AI**, and develops new methods for explaining models in ways that are actionable and reliable.

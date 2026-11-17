@@ -10,7 +10,7 @@ img: assets/img/research/research_transport.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_transport.jpg" class="img-fluid rounded z-depth-1" alt="Urban mobility flow forecasting" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_transport.jpg" class="img-fluid rounded z-depth-1" alt="Urban traffic flow map, intersection trajectories and traffic forecast" %}
 </div>
 
 Transportation has been one of my main application domains for more than fifteen years, from early work on vehicular communications and traffic-light preemption for emergency vehicles to current research on perception for autonomous driving. I was **General Chair of IEEE ITSC 2023** (Bilbao) and serve as Associate Editor of _IEEE Transactions on Intelligent Transportation Systems_.

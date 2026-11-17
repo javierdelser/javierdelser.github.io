@@ -10,7 +10,7 @@ img: assets/img/research/research_energy.jpg
 ---
 
 <div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_energy.jpg" class="img-fluid rounded z-depth-1" alt="Wind, solar and climate data grid" %}
+  {% include figure.liquid loading="eager" path="assets/img/research/research_energy.jpg" class="img-fluid rounded z-depth-1" alt="Renewable energy grid, uncertain demand forecast and European climate map" %}
 </div>
 
 Applied AI for the energy transition and for climate science: forecasting and anomaly detection in power and renewable energy systems, predictive maintenance of industrial and offshore assets, and machine learning for weather, climate extremes and complex systems.
