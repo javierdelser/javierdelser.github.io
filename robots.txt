@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://javierdelser.github.io/sitemap.xml
