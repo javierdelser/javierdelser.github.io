@@ -92,6 +92,11 @@ The **Group on Applied Mathematical Modeling, Statistics, and Optimization ([MAT
 
 Its goals are to **develop knowledge** in applied mathematics, AI, statistics and scientific computing, to **transfer** this knowledge to industry and institutions for the benefit of society, and to **train new researchers** and attract and retain talent.
 
+<div class="text-center mb-3">
+  <img src="{{ '/assets/img/team/mathmode_research.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 80%" alt="MATHMODE research lines: applied numerical methods for PDEs, applied artificial intelligence and applied statistics and optimization, built on scientific computing and applied to health, industry, energy and transportation">
+  <div class="caption">MATHMODE research lines. Image: <a href="https://www.mathmode.science/" target="_blank">MATHMODE</a>.</div>
+</div>
+
 **Research areas**
 
 <p>
@@ -117,6 +122,11 @@ Its goals are to **develop knowledge** in applied mathematics, AI, statistics an
 </div>
 
 <p>The <a href="https://www.jrl-a2i.science/" target="_blank">JRL-A2I</a> is a joint initiative of <b>TECNALIA</b>, the <b>University of the Basque Country (EHU)</b> and the <b>Basque Center for Applied Mathematics (BCAM)</b>. It brings together experts in computer science, engineering, mathematics and social sciences to close the gap between academic AI research and industry, and it aims to become an international reference in applied AI research and a hub for talent. I am its <b>Scientific Director</b> and a member of its Steering Committee, together with David Pardo, Elisabete Aramendi and Eneko Agirre.</p>
+
+<div class="text-center mb-3">
+  <img src="{{ '/assets/img/team/jrl_a2i_research.jpg' | relative_url }}" class="img-fluid rounded z-depth-1" style="max-width: 80%" alt="Research at the Joint Research Lab in Applied Artificial Intelligence">
+  <div class="caption">Image: <a href="https://www.jrl-a2i.science/research" target="_blank">JRL-A2I</a>.</div>
+</div>
 
 **Research lines:** physics-informed neural networks · natural language processing · multimodal data fusion · trustworthy AI, XAI, bias and ethics · open-set recognition and lifelong learning · computer vision · metaheuristic and Bayesian optimization · AutoML and meta-learning · uncertainty estimation · causal analysis · reinforcement learning · stream learning and concept drift · distributed AI (federated learning, edge AI).
 
