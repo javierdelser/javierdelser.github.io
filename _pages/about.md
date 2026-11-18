@@ -63,6 +63,7 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
 - **Highly Cited Researcher** by Clarivate in 2025 (Computer Science; one of two researchers in Spain in this category).
 - Listed every year since 2021 among the **top 2% most influential researchers in AI** (Stanford University / Elsevier), in both the single-year and career-long rankings.
 - **Member of the Scientific Panel of independent experts** advising the European Commission on implementing the **EU AI Act** (one of 60 members, 2026).
+- Appeared before the Science, Innovation and Universities Commission of the **Spanish Senate** to analyse the economic and social impact of AI ([April 2025](https://www.senado.es/web/actividadparlamentaria/actualidad/video/index.html?s=15_S011022_020_01)).
 - Member of the team that drafted the **Spanish R&D&I Strategy in Artificial Intelligence** (Government of Spain, 2019).
 - **BRTA Prize for the Best Research Trajectory** (2023, out of more than 3,400 researchers), **Information Fusion Annual Best Paper Award** (2025), **IJCNN Best Paper Award** (2024) and **IEEE ITS Magazine Outstanding Research Paper Award** (2023).
 - Member of [ELLIS](https://ellis.eu) (European Laboratory for Learning and Intelligent Systems), point of contact of TECNALIA for ELLIS, [CLAIRE](https://claire-ai.org) and [BDVA](https://www.bdva.eu), and IEEE Senior Member.

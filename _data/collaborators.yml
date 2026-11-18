@@ -154,6 +154,46 @@ international:
     lat: 22.5203
     lon: 75.9207
     topics: Ensemble deep learning, Alzheimer's disease diagnosis
+  - name: Amir Hussain
+    papers: 4
+    institution: King Fahd University of Petroleum and Minerals (KFUPM); Visiting Professor, University of Oxford
+    city: Dhahran
+    country: Saudi Arabia
+    lat: 26.3070
+    lon: 50.1450
+    topics: Multimodal information fusion, bio-inspired optimization, trustworthy AI
+  - name: Carlos A. Coello Coello
+    papers: 3
+    institution: CINVESTAV-IPN (main affiliation) and BCAM
+    city: Mexico City
+    country: Mexico
+    lat: 19.5100
+    lon: -99.1290
+    topics: Evolutionary multi-objective optimization, metaheuristics
+  - name: Vincenzo Nava
+    papers: 1
+    institution: Politecnico di Torino
+    city: Turin
+    country: Italy
+    lat: 45.0625
+    lon: 7.6625
+    topics: Offshore renewable energy, uncertainty-aware motion prediction of floating structures
+  - name: Piotr S. Maciąg
+    papers: 1
+    institution: Warsaw University of Technology
+    city: Warsaw
+    country: Poland
+    lat: 52.2203
+    lon: 21.0101
+    topics: Air pollution forecasting, ensemble learning for time series
+  - name: Udo Schlegel
+    papers: 0
+    institution: LMU Munich
+    city: Munich
+    country: Germany
+    lat: 48.1508
+    lon: 11.5804
+    topics: Counterfactual explanations for time series classification, XAI for time series
 
 # Other frequent international co-authors (5 joint publications): Iztok Fister Jr. (University of Maribor, Slovenia),
 # Amin Ullah (Sejong University, South Korea), Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London, United Kingdom).

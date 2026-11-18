@@ -288,17 +288,20 @@ My work is highly collaborative: my publications include about **700 distinct co
   </tbody>
 </table>
 
-Other international collaborators include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Amir Hussain (Edinburgh Napier University), Albert Bifet (University of Waikato / Télécom Paris), Luca Longo (Technological University Dublin) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
+Other international collaborators include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Albert Bifet (University of Waikato / Télécom Paris), Luca Longo (Technological University Dublin) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
 
 ### <i class="fa-solid fa-location-dot"></i> Main collaborators in Spain
 
-- **TECNALIA**: Eneko Osaba, Sergio Gil-López, Ibai Laña, Jesús L. Lobo, Itziar Landa-Torres, Diana Manjarrés, Esther Villar-Rodríguez, Iñaki Olabarrieta, Izaskun Oregi, Alain Andrés, Ana I. Torre-Bastida, Aritz D. Martínez, Aitor Martínez-Seras, Eric L. Manibardo, Pedro A. Moreno-Sánchez and María Arostegi.
-- **University of the Basque Country (EHU)**: Miren Nekane Bilbao, Cristina Perfecto, Manuel Vélez and Armando Astarloa.
-- **BCAM and Ikerbasque**: Aritz Pérez and David Pardo.
-- **University of Granada**: Francisco Herrera, Daniel Molina, Javier Poyatos, Natalia Díaz-Rodríguez and Salvador García.
-- **University of Alcalá**: Sancho Salcedo-Sanz, José A. Portilla-Figueras and Carlos Casanova-Mateo.
+- **TECNALIA**: Sergio Gil-López, Diana Manjarrés, Iñaki Olabarrieta, Alain Andrés, Aritz D. Martínez, Eric L. Manibardo, Pedro A. Moreno-Sánchez, María Arostegi, Amaia Abanda and Iñigo Delgado-Enales.
+- **University of the Basque Country (EHU)**: Miren Nekane Bilbao, Izaskun Oregi, Jon Ander Rivera, David Pardo (also BCAM), Irantzu Barrio, Yoseba K. Penya and Aitziber Atutxa.
+- **BCAM and Ikerbasque**: Aritz Pérez, David Pardo (also EHU), Carlos A. Coello Coello (also CINVESTAV-IPN, Mexico), Matteo Croci, Ana Fernández-Navamuel and Tomás Teijeiro.
+- **University of Granada**: Francisco Herrera, Daniel Molina, Salvador García and Isaac Triguero.
+- **University of Alcalá**: Sancho Salcedo-Sanz and José A. Portilla-Figueras.
+- **Universidad Politécnica de Madrid (UPM)**: David Camacho and Carlos Casanova-Mateo.
 - **University of Navarra (TECNUN / CEIT)**: Pedro M. Crespo and Mikel Hernáez.
 - **University of Cantabria**: Andrés Iglesias and Akemi Gálvez.
-- **University of Málaga**: Antonio J. Nebro.
+- **University of Málaga**: Antonio J. Nebro, José Manuel García-Nieto and Maciej Rybinski.
+- **University of Deusto**: Pablo García-Bringas, Juan J. Gude and Borja Sanz.
 - **Rey Juan Carlos University (URJC)**: Nicolás Rodríguez Uribe.
-- **Other institutions**: David Camacho (Universidad Politécnica de Madrid), Pablo García-Bringas (University of Deusto) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).
+- **Joint Research Centre (JRC), European Commission**: Emilia Gómez and David Fernández-Llorca.
+- **Other institutions**: Ibai Laña (Mondragon University), Jesús L. Lobo (FAES Farma), Aitor Martínez-Seras (IDEKO), Farzad Hosseini (University of Cantabria) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).

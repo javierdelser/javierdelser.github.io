@@ -11,6 +11,8 @@ children:
     permalink: /service/
   - title: Teaching
     permalink: /teaching/
+  - title: Life & Sport
+    permalink: /life/
   - title: divider
   - title: Software
     permalink: /repositories/
