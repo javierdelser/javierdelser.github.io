@@ -13,9 +13,9 @@ category_icons:
 horizontal: false
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_overview.jpg" class="img-fluid rounded z-depth-1" alt="Mosaic of illustrations of the nine research lines: trustworthy AI (top row), learning and optimization (middle row) and applications (bottom row)" zoomable=true %}
-</div>
+<blockquote class="research-statement">
+I understand Artificial Intelligence, ultimately, as a technological explorer of possibility spaces. My research studies how intelligence emerges, in nature and in machines, so that the possibilities humanity turns into technology are not only powerful but also trustworthy: safe by design, usable and understandable by the people who rely on them, and built to strengthen human thinking rather than leave us in cognitive debt. Only then will AI live up to the society it will help shape.
+</blockquote>
 
 My research aims to make Artificial Intelligence **trustworthy, robust and useful in practice**. I work on how to explain, audit and govern AI systems (including general-purpose and generative AI), on learning paradigms that cope with an open and changing world, and on evolutionary and bio-inspired optimization, with applications in transportation, health, industry, energy and climate.
 

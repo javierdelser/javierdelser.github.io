@@ -16,7 +16,7 @@ nav_order: 7
   </div>
 </div>
 <div class="caption">
-  Left: appearance before the Science, Innovation and Universities Commission of the Spanish Senate on the economic and social impact of AI, April 2025 (photo: TECNALIA). Right: talk "Realities and Challenges of Embodied AI in Industry" at the Future Trends Forum of the Bankinter Innovation Foundation, 2025.
+  Left: expert address to the Science, Innovation and Universities Commission of the Spanish Senate on the economic and social impact of AI, April 2025 (photo: TECNALIA). Right: talk "Realities and Challenges of Embodied AI in Industry" at the Future Trends Forum of the Bankinter Innovation Foundation, 2025.
 </div>
 
 <div class="row">
@@ -103,7 +103,7 @@ nav_order: 7
 | :--------- | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026-03-03 | Eventos EL CORREO               | [Quo Vadis, IA? Retos, oportunidades y el camino hacia una IA fiable y responsable](https://www.youtube.com/watch?v=fsyz4f2AGDc) (BizkaIA Summit 2026, full talk)                                   |
 | 2025-10-15 | Bibliotecas de Navarra          | [Decisiones delegadas a la IA: ética, derecho y tecnología a debate](https://www.youtube.com/watch?v=h_OqTsR4KX0) (panel, UPNA AI Week)                                                             |
-| 2025-04-08 | Senado de España                | [Official recording of the appearance before the Science, Innovation and Universities Commission](https://www.senado.es/web/actividadparlamentaria/actualidad/video/index.html?s=15_S011022_020_01) |
+| 2025-04-08 | Senado de España                | [Official recording of the expert address to the Science, Innovation and Universities Commission](https://www.senado.es/web/actividadparlamentaria/actualidad/video/index.html?s=15_S011022_020_01) |
 | 2025-02-07 | Bankinter Innovation Foundation | [Realities and Challenges of Embodied AI in Industry](https://www.youtube.com/watch?v=BEglTWpt11Y)                                                                                                  |
 | 2024-11-26 | ADIA Lab                        | [Aligning Applied AI Research, Industrial Needs, and Societal Changes](https://www.youtube.com/watch?v=7GDi1eUuLo0) (ADIA Lab Symposium, Abu Dhabi)                                                 |
 | 2024-10-22 | APTE                            | [Webinar de Prospectivas de las Tecnologías Disruptivas](https://www.youtube.com/watch?v=5NpVV_XCfm8) (talk "Prospectivas de futuro: IA – Big Data", with Sonia Bilbao)                             |

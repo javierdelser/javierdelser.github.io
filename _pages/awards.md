@@ -11,6 +11,7 @@ nav: false
 | Year      | Distinction                                                                                                                                                                        |
 | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2026      | Appointed to the **Scientific Panel of independent experts** advising the European Commission on implementing the EU AI Act (one of 60 members).                                   |
+| 2026      | **Highly Cited Researcher**, Clarivate: included again in the [list](https://clarivate.com/highly-cited-researchers/#list) for the second consecutive year.                        |
 | 2025      | **Highly Cited Researcher**, Clarivate (Computer Science): top 0.1% of researchers worldwide and one of two researchers in Spain in this category.                                 |
 | 2021–2026 | Listed every year among the **top 2% most influential researchers in Artificial Intelligence** (Stanford University / Elsevier), in both the single-year and career-long editions. |
 | 2023      | **BRTA Prize for the Best Research Trajectory**, Basque Research and Technology Alliance (among more than 3,400 researchers).                                                      |

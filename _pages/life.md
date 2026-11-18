@@ -50,6 +50,12 @@ The Basque Country is a wonderful place to walk, with mountains, forests and the
 
 ## <i class="fa-solid fa-people-roof"></i> The hardest optimization problem: research and a large family
 
+<div class="row justify-content-center mb-3">
+  <div class="col-sm-10">
+    {% include figure.liquid loading="lazy" path="assets/img/life/research_family_balance.jpg" class="img-fluid rounded z-depth-1" alt="Illustration titled Research, family and the art of balance: the researcher at his laptop with Nekane, Garazi, Hodei and Maialen, surrounded by conflicting objectives, changing schedules, uncertainty, explainability and the toughest reviewers asking but why" zoomable=true %}
+  </div>
+</div>
+
 My most important project, and by far the most demanding one, is my family. Nekane and I have three children, **Garazi**, **Hodei** and **Maialen**, and reconciling them with a research career is a daily multi-objective optimization problem with many hard constraints and very few feasible solutions:
 
 - **Conflicting objectives.** Paper deadlines, project reviews, school runs, homework and weekend activities all compete for the same 24 hours. I have not found the Pareto front yet, but I keep searching.
