@@ -43,6 +43,29 @@ nav_order: 7
   Photos: EHU (left) and TECNALIA (right). High-resolution portraits for press use are available on request.
 </div>
 
+## <i class="fa-solid fa-scissors"></i> Press clippings
+
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-3">
+    {% include figure.liquid loading="lazy" path="assets/img/press/elcorreo_2025_print.jpg" class="img-fluid rounded z-depth-1" alt="El Correo, Culture and Society section, 24 November 2025: interview headlined «Una sola fotografía manipulada con IA puede destrozar una vida», with a photo of Javier Del Ser holding a tablet" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  <em>El Correo</em> (print edition), 24 November 2025: interview by Jon Garay, «Una sola fotografía manipulada con IA puede destrozar una vida» (photo: Luis Ángel Gómez).
+</div>
+
+<div class="d-flex flex-wrap" style="gap: 1rem">
+  <div class="mt-3" style="flex: 1.403 1 0; min-width: 260px">
+    {% include figure.liquid loading="lazy" path="assets/img/press/elcorreo_2026_aiact.jpg" class="img-fluid rounded z-depth-1" alt="El Correo online: Un investigador vasco entre los expertos de la ley europea de inteligencia artificial" zoomable=true %}
+  </div>
+  <div class="mt-3" style="flex: 1.229 1 0; min-width: 260px">
+    {% include figure.liquid loading="lazy" path="assets/img/press/deia_2025_hcr.jpg" class="img-fluid rounded z-depth-1" alt="DEIA: Un investigador vizcaino de la EHU, entre los más influyentes del mundo en Inteligencia Artificial" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  Left: <em>El Correo</em> (2026) on my appointment to the Scientific Panel of independent experts advising the European Commission on the AI Act. Right: <a href="https://www.deia.eus/bilbao/2025/11/19/un-investigador-vizcaino-ehu-entre-mas-influyentes-mundo-en-inteligencia-artificial-10371199.html"><em>DEIA</em></a>, 19 November 2025, on the Highly Cited Researchers list (photo: EHU). Click any clipping to enlarge it.
+</div>
+
 ## <i class="fa-solid fa-newspaper"></i> In the news
 
 | Date       | Outlet                                       | Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -62,6 +85,7 @@ nav_order: 7
 | 2026-04-25 | Noticias de Gipuzkoa (ES)                    | [ApplAI 2026: así será el Congreso de la IA Aplicada en Euskadi](https://www.noticiasdegipuzkoa.eus/ciencia-y-tecnologia/2026/04/25/applai-2026-sera-congreso-ia-10984691.html)                                                                                                                                                                                                                                                                                                                                  |
 | 2026-02-24 | TECNALIA                                     | [BizkaIA Summit 2026](https://www.tecnalia.com/agenda/bizkaia-summit-inteligencia-artificial-euskadi), talk "Quo Vadis, IA? Challenges, opportunities and the road to trustworthy and responsible AI"                                                                                                                                                                                                                                                                                                            |
 | 2025-12-10 | Leiden University                            | [Award-winning article on Explainable AI 2.0](https://www.staff.universiteitleiden.nl/news/2025/12/elaw-co-authors-award-winning-article-on-explainable-ai-2.0?cf=science) (Information Fusion Best Paper Award 2025). See also [Fraunhofer HHI](https://www.hhi.fraunhofer.de/en/press/news/fraunhofer-hhis-ai-department-receives-the-2025-information-fusion-best-paper-award.html)                                                                                                                           |
+| 2025-11-24 | El Correo (ES)                               | Print interview: «Una sola fotografía manipulada con IA puede destrozar una vida» (see the clipping above)                                                                                                                                                                                                                                                                                                                                                                                                       |
 | 2025-11-20 | TECNALIA                                     | [Javier Del Ser is one of the world's most cited scientists](https://www.tecnalia.com/en/press-room/javier-del-ser-is-one-of-the-worlds-most-cited-scientists)                                                                                                                                                                                                                                                                                                                                                   |
 | 2025-11-19 | EHU Campusa (ES)                             | [Javier Del Ser, investigador en IA en Tecnalia y EHU, entre los científicos más citados del mundo](https://www.ehu.eus/es/web/campusa/-/javier-del-ser-tecnaliako-eta-ehuko-adimen-artifizialaren-alorreko-ikertzailea-munduko-zientzialari-aipatuenen-artean)                                                                                                                                                                                                                                                  |
 | 2025-11-19 | DEIA (ES)                                    | [Un investigador vizcaino de la EHU, entre los más influyentes del mundo en Inteligencia Artificial](https://www.deia.eus/bilbao/2025/11/19/un-investigador-vizcaino-ehu-entre-mas-influyentes-mundo-en-inteligencia-artificial-10371199.html)                                                                                                                                                                                                                                                                   |
