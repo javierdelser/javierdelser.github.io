@@ -82,7 +82,7 @@ The **[AI unit](https://scienceportal.tecnalia.com/p/en/organisations/ai)** is o
 
 **Main collaborating organisations** (shared research outputs): Basque Center for Applied Mathematics (91), University of Alcalá (56), University of Deusto (36), University of Granada (36) and University of Maribor (23).
 
-**People.** Researchers of the unit credited on its recent prizes include Diana Manjarrés, Iñaki Olabarrieta, Jesús L. Lobo, Aitor Martínez-Seras, Raquel Molinero and Luis Manuel Viso. Other TECNALIA researchers I work closely with include Eneko Osaba, Sergio Gil-López, Itziar Landa-Torres, Esther Villar-Rodríguez, Alain Andrés, Ana I. Torre-Bastida, Pedro A. Moreno-Sánchez, María Arostegi and Artzai Picón.
+**Team (selected):** Sergio Gil-López, Diana Manjarrés, Iñaki Olabarrieta, Alain Andrés, Aritz D. Martínez, Eric L. Manibardo, Pedro A. Moreno-Sánchez, María Arostegi, Amaia Abanda and Iñigo Delgado-Enales. The unit has more researchers; these are the colleagues I work with most closely.
 
 Related initiatives: the [TECNALIA Chair in Artificial Intelligence](https://canal.ugr.es/noticia/catedra-tecnalia-inteligencia-artificial-ugr/) at the University of Granada (with Prof. Francisco Herrera and Prof. Óscar Cordón), and TECNALIA's participation in [ELLIS](https://ellis.eu), [CLAIRE](https://claire-ai.org) and [BDVA](https://www.bdva.eu), for which I am the point of contact.
 
@@ -292,16 +292,17 @@ Other international collaborators include Heye Zhang (Sun Yat-sen University), I
 
 ### <i class="fa-solid fa-location-dot"></i> Main collaborators in Spain
 
-- **TECNALIA**: Sergio Gil-López, Diana Manjarrés, Iñaki Olabarrieta, Alain Andrés, Aritz D. Martínez, Eric L. Manibardo, Pedro A. Moreno-Sánchez, María Arostegi, Amaia Abanda and Iñigo Delgado-Enales.
-- **University of the Basque Country (EHU)**: Miren Nekane Bilbao, Izaskun Oregi, Jon Ander Rivera, David Pardo (also BCAM), Irantzu Barrio, Yoseba K. Penya and Aitziber Atutxa.
-- **BCAM and Ikerbasque**: Aritz Pérez, David Pardo (also EHU), Carlos A. Coello Coello (also CINVESTAV-IPN, Mexico), Matteo Croci, Ana Fernández-Navamuel and Tomás Teijeiro.
+Besides my colleagues at TECNALIA Core AI and [MATHMODE](#mathmode-upvehu) (see above), I work closely with:
+
+- **University of the Basque Country (EHU)**: Miren Nekane Bilbao, Jon Ander Rivera, Yoseba K. Penya and Aitziber Atutxa.
+- **BCAM and Ikerbasque**: Aritz Pérez, Carlos A. Coello Coello (also CINVESTAV-IPN, Mexico), Matteo Croci, Ana Fernández-Navamuel and Tomás Teijeiro.
 - **University of Granada**: Francisco Herrera, Daniel Molina, Salvador García and Isaac Triguero.
 - **University of Alcalá**: Sancho Salcedo-Sanz and José A. Portilla-Figueras.
 - **Universidad Politécnica de Madrid (UPM)**: David Camacho and Carlos Casanova-Mateo.
 - **University of Navarra (TECNUN / CEIT)**: Pedro M. Crespo and Mikel Hernáez.
-- **University of Cantabria**: Andrés Iglesias and Akemi Gálvez.
+- **University of Cantabria**: Andrés Iglesias, Akemi Gálvez and Farzad Hosseini.
 - **University of Málaga**: Antonio J. Nebro, José Manuel García-Nieto and Maciej Rybinski.
 - **University of Deusto**: Pablo García-Bringas, Juan J. Gude and Borja Sanz.
 - **Rey Juan Carlos University (URJC)**: Nicolás Rodríguez Uribe.
 - **Joint Research Centre (JRC), European Commission**: Emilia Gómez and David Fernández-Llorca.
-- **Other institutions**: Ibai Laña (Mondragon University), Jesús L. Lobo (FAES Farma), Aitor Martínez-Seras (IDEKO), Farzad Hosseini (University of Cantabria) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).
+- **Other institutions**: Jesús L. Lobo (FAES Farma), Aitor Martínez-Seras (IDEKO) and Javier J. Sánchez-Medina (University of Las Palmas de Gran Canaria).
