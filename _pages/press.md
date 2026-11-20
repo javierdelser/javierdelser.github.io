@@ -47,6 +47,15 @@ nav_order: 7
 
 <div class="row justify-content-center">
   <div class="col-sm-10 mt-3">
+    {% include figure.liquid loading="lazy" path="assets/img/press/elcorreo_2026_print.jpg" class="img-fluid rounded z-depth-1" alt="El Correo, Society section, 20 November 2026: interview headlined «Veo muy 'hollywoodiense' que una IA lance una bomba atómica, pero sí puede tumbar Osakidetza», with a photo of Javier Del Ser on a rainy Bilbao street" zoomable=true %}
+  </div>
+</div>
+<div class="caption">
+  <em>El Correo</em> (print edition), 20 November 2026: interview by Jon Garay, «Veo muy 'hollywoodiense' que una IA lance una bomba atómica, pero sí puede tumbar Osakidetza», on being named a Highly Cited Researcher for the second year in a row (photo: Luis Ángel Gómez).
+</div>
+
+<div class="row justify-content-center">
+  <div class="col-sm-10 mt-3">
     {% include figure.liquid loading="lazy" path="assets/img/press/elcorreo_2025_print.jpg" class="img-fluid rounded z-depth-1" alt="El Correo, Culture and Society section, 24 November 2025: interview headlined «Una sola fotografía manipulada con IA puede destrozar una vida», with a photo of Javier Del Ser holding a tablet" zoomable=true %}
   </div>
 </div>
@@ -70,6 +79,7 @@ nav_order: 7
 
 | Date       | Outlet                                       | Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :--------- | :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-11-20 | El Correo (ES)                               | Print interview: «Veo muy 'hollywoodiense' que una IA lance una bomba atómica, pero sí puede tumbar Osakidetza» (see the clipping above)                                                                                                                                                                                                                                                                                                                                                                         |
 | 2026-09-19 | Onda Vasca (ES)                              | [Radio interview: "Lo riesgos que más me preocupan de la IA son los cognitivos"](https://www.ondavasca.com/lo-riesgos-que-mas-me-preocupan-de-la-ia-son-los-cognitivos/) (Entrevistas de Arruti)                                                                                                                                                                                                                                                                                                                 |
 | 2026-09-07 | Enpresabidea (EU)                            | [Interview: Javier Del Ser: «Faltan botatzen ditut adimen artifizialari loturiko marra gorri batzuk»](https://www.enpresabidea.eus/berrikuntza/javier-ser-ehu-adimen-artifiziala_2239925_102.html)                                                                                                                                                                                                                                                                                                               |
 | 2026-08-31 | Cadena SER – Hoy por Hoy Bilbao-Bizkaia (ES) | [Radio: 'De las ondas a la red' regresa con nuevas voces para analizar la tecnología y sus retos: hoy, con Javier Del Ser](https://cadenaser.com/podcast/radio-bilbao/hoy-por-hoy-bilbao-bizkaia/hoy-por-hoy-bilbao-bizkaia-de-las-ondas-a-la-red/)                                                                                                                                                                                                                                                              |
