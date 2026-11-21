@@ -170,6 +170,14 @@ international:
     lat: 19.5100
     lon: -99.1290
     topics: Evolutionary multi-objective optimization, metaheuristics
+  - name: Luca Longo
+    papers: 2
+    institution: University College Cork
+    city: Cork
+    country: Ireland
+    lat: 51.8935
+    lon: -8.4920
+    topics: Explainable AI (XAI), open challenges and research directions in XAI
   - name: Vincenzo Nava
     papers: 1
     institution: Politecnico di Torino

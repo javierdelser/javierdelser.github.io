@@ -298,7 +298,7 @@ My work is highly collaborative: my publications include about **700 distinct co
   </tbody>
 </table>
 
-Other international collaborators include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Albert Bifet (University of Waikato / Télécom Paris), Luca Longo (Technological University Dublin) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
+Other international collaborators include Heye Zhang (Sun Yat-sen University), Iztok Fister Jr. (University of Maribor), João Paulo Papa (São Paulo State University), Albert Bifet (University of Waikato / Télécom Paris) and Simon L. F. Walsh, Xiaodan Xing and Yingying Fang (Imperial College London).
 
 ### <i class="fa-solid fa-location-dot"></i> Main collaborators in Spain
 
