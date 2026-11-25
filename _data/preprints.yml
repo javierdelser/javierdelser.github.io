@@ -1,5 +1,15 @@
 # Manuscripts currently under review. Only authors and titles are shown on the website;
 # full texts are available on request (the PDFs are NOT stored in this repository).
+- title: "Day–Night Vehicle Re-Identification for Camera-based Traffic Control: From Glare-Aware Feature Learning to Network-Level Route Guidance"
+  authors: "Mingfu Xiong, Zhang Jiang, Minghua Jiang, Mohammad Hijji, Javier Del Ser, Khan Muhammad"
+- title: "Concept-Based Distillation: Transferring Model Interpretability via Testing with Concept Activation Vector Matching"
+  authors: "Luca Serfilippi, Pedro A. Moreno-Sánchez, Armir Bujari, Antonio Corradi, Javier Del Ser"
+- title: "WaRP: Real-Time Open-World Object Detection with World Models and Re-Randomized Proposals"
+  authors: "Javier Del Ser, Miren Nekane Bilbao, Khan Muhammad"
+- title: "EngraMesh: Trust the Source, Verify the Content, and Recall Poisoned Memory in IoT Agents"
+  authors: "Muhammad Farooq, Wajahat Ullah, Shehzad Ali, Aziz Alotaibi, Hayoung Oh, Ik Hyun Lee, Javier Del Ser, Khan Muhammad"
+- title: "Multi-Objective Meta-Optimization for Configuring NSGA-II on Real-World Engineering Problems"
+  authors: "Nicolas R. Uribe, Antonio J. Nebro, Javier Del Ser, Francisco Luna, Carlos A. Coello Coello"
 # Submitted to IEEE Transactions on Intelligent Transportation Systems (November 2026).
 - title: "A Two-Stage Cooperative Heterogeneous Parallel Evolutionary Algorithm for Large-Scale Bi-Objective Vehicle Routing Problem with Time Windows under Fleet-Size Preferences"
   authors: "Zhiwei Xu et al. (with Javier Del Ser)"
