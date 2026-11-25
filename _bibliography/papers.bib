@@ -1,6 +1,28 @@
 ---
 ---
 
+@article{rivera2026physicsaware,
+  title = {{Physics-Aware Multitask Learning for Solving Parametric Partial Differential Equations}},
+  author = {Jon Ander Rivera and Del Ser, Javier},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  year = {2026},
+  note = {In press},
+  abbr = {CMAME},
+  abstract = {Many applications in design, control and uncertainty quantification require solving a Partial Differential Equation (PDE) repeatedly for different parameter values. Physics-Informed Neural Networks (PINNs) can learn the whole solution family by taking the parameter as an additional input, but the parametric dependence then remains hidden in the network weights, which makes these surrogates difficult to interpret and to extend. Since each parameter value defines a related task governed by the same physics, we approach this problem from a Multitask Learning (MTL) perspective. Specifically, we propose an MTL-PINN in which a set of learned heads is combined by a voter network. This structure admits an algebraic interpretation analogous to model order reduction: the heads span a reduced space learned directly from the physics, and the voter gives the coordinates of each solution in that space. We study two training strategies, with and without explicit head specialization, on five parametric benchmarks. Our results show that head specialization emerges without being imposed in four of the five benchmarks, including transport-dominated ones, whereas joint training yields basis-like heads that capture more of the solution variability when the individual training solutions are hard to learn. Extrapolation beyond the training range remains limited, but the modular structure of the model allows solutions from classical numerical solvers to be incorporated as new heads and retrain only the voter, at a lower cost than training a standard PINN of the same size. Our findings suggest that architectures similar to MTL-PINN can serve as interpretable and extensible surrogates, opening a path toward hybrid models that combine physics-informed learning, reduced-order modeling and classical numerical solvers.},
+  bibtex_show = {true},
+}
+
+@article{abanda2026granularity,
+  title = {{Granularity Misalignments in Time Series Anomaly Detection}},
+  author = {Amaia Abanda and Izaskun Oregi and Del Ser, Javier},
+  journal = {Data Mining and Knowledge Discovery},
+  year = {2026},
+  note = {In press},
+  abbr = {DMKD},
+  abstract = {In time series anomaly detection (TSAD), the concept of anomaly granularity –whether anomalies are defined at the point or sequence level– has been widely recognized and adopted from a data-centric perspective. In this work we argue that this view is incomplete: data, models, and evaluation metrics each operate at an intrinsic granularity level, and their misalignment may affect the reliability of the reported performance comparisons and the validity of the conclusions drawn from them. To support our claims, we show that a central inconsistency observed in the literature stems from the widespread use of point-wise TSAD models (particularly forecasting- and reconstruction-based methods) to detect sequence-anomalies. These models assign scores at the level of individual timestamps, implicitly assuming that anomalous behavior manifests as isolated deviations throughout the time series. However, many sequence-anomalies are inherently collective phenomena, whose individual points may appear normal in isolation despite all being annotated as belonging to the anomalous sequence. As a result, point-wise detectors are fundamentally mis-specified for this task, leading to fragmented detections and systematic distortions in performance assessment. We formalize two classes of granularity misalignment: between data and detectors, and between detectors themselves. Through systematic experiments, we demonstrate that these misalignments substantially change the outcome of performance comparisons and can lead to conclusions that do not serve the target problem, an effect largely driven by how detection metrics reward point-wise coverage versus sequence-level consistency. Our results show that the relative standing of point-wise and sequence-wise detectors depends strongly on the granularity of the evaluation metric and on the internal structure of the labeled anomalies, so that conclusions drawn under one evaluation objective need not hold under another. Based on these findings, we argue that granularity should be treated as a primary design dimension in TSAD studies, with detectors and evaluation metrics chosen to match both the nature of the anomalies and the decision goal of the application, and that published comparisons between methods should be re-examined from this perspective.},
+  bibtex_show = {true},
+}
+
 @article{arostegi2026aigas,
   title = {{AiGAS-dEVL: An Adaptive Incremental Neural Gas Model for Drifting Data Streams Under Extreme Verification Latency}},
   author = {María Arostegi and Miren Nekane Bilbao and Jesús L. Lobo and Del Ser, Javier},
