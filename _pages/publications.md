@@ -12,7 +12,7 @@ chart:
 <!-- _pages/publications.md -->
 
 <div class="row text-center mb-3">
-  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,743</h4><small class="text-muted">citations (Google Scholar)<br>41,998 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,954</h4><small class="text-muted">citations (Google Scholar)<br>41,998 since 2021</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line mb-2 text-muted"></i><h4 class="mb-0">76 / 271</h4><small class="text-muted">h-index / i10-index</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">223</h4><small class="text-muted">JCR articles (85% Q1, 35% D1)</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">238</h4><small class="text-muted">conference contributions</small></div>
@@ -26,7 +26,7 @@ chart:
   document.addEventListener("DOMContentLoaded", () => {
     const el = document.getElementById("citations-chart");
     if (!el || typeof Chart === "undefined") return;
-    new Chart(el, {"type": "bar", "data": {"labels": ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], "datasets": [{"label": "Citations per year (Google Scholar)", "data": [125, 144, 193, 257, 375, 417, 797, 1628, 3040, 4228, 5603, 7794, 10583, 10551], "backgroundColor": "#2f5ba8", "borderColor": "#1f3a6e", "borderWidth": 1, "borderRadius": 3}]}, "options": {"plugins": {"legend": {"display": false}}, "scales": {"y": {"beginAtZero": true, "ticks": {"precision": 0}}}, "maintainAspectRatio": false}});
+    new Chart(el, {"type": "bar", "data": {"labels": ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025", "2026"], "datasets": [{"label": "Citations per year (Google Scholar)", "data": [125, 144, 193, 257, 375, 417, 797, 1628, 3040, 4228, 5603, 7794, 10583, 10835], "backgroundColor": "#2f5ba8", "borderColor": "#1f3a6e", "borderWidth": 1, "borderRadius": 3}]}, "options": {"plugins": {"legend": {"display": false}}, "scales": {"y": {"beginAtZero": true, "ticks": {"precision": 0}}}, "maintainAspectRatio": false}});
   });
 </script>
 
