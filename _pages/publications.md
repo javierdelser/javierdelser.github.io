@@ -12,7 +12,7 @@ chart:
 <!-- _pages/publications.md -->
 
 <div class="row text-center mb-3">
-  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,954</h4><small class="text-muted">citations (Google Scholar)<br>41,998 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,954</h4><small class="text-muted">citations (Google Scholar)<br>42,292 since 2021</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line mb-2 text-muted"></i><h4 class="mb-0">76 / 271</h4><small class="text-muted">h-index / i10-index</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">223</h4><small class="text-muted">JCR articles (85% Q1, 35% D1)</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">238</h4><small class="text-muted">conference contributions</small></div>
