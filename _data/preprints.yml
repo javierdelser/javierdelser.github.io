@@ -1,5 +1,13 @@
 # Manuscripts currently under review. Only authors and titles are shown on the website;
 # full texts are available on request (the PDFs are NOT stored in this repository).
+- title: "Explainable Physics-Informed Artificial Intelligence: Foundations, Methods, and Challenges"
+  authors: "Andreas Holzinger, Iztok Fister Jr., Niko Lukač, Javier Del Ser"
+- title: "Gelaco: An Evolutionary Approach to Layer Compression"
+  authors: "David Ponce, Thierry Etchegoyhen, Javier Del Ser"
+- title: "Responsible Artificial Intelligence Systems: A Roadmap to Society’s Trust through Trustworthy AI, Auditability, Accountability, and Governance"
+  authors: "Andrés Herrera-Poyatos, Javier Del Ser, Marcos López de Prado, Fei-Yue Wang, Enrique Herrera-Viedma, Francisco Herrera"
+- title: "Forward-Forward Learning Achieves Highly Selective Latent Representations for Out-of-Distribution Detection in Fully Spiking Neural Networks"
+  authors: "Erik B. Terres-Escudero, Javier Del Ser, Aitor Martínez-Seras, Pablo García-Bringas"
 - title: "Day–Night Vehicle Re-Identification for Camera-based Traffic Control: From Glare-Aware Feature Learning to Network-Level Route Guidance"
   authors: "Mingfu Xiong, Zhang Jiang, Minghua Jiang, Mohammad Hijji, Javier Del Ser, Khan Muhammad"
 - title: "Concept-Based Distillation: Transferring Model Interpretability via Testing with Concept Activation Vector Matching"
