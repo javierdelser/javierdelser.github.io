@@ -154,6 +154,9 @@ def software_html
   article = doc.at_css("div.post article")
   repos = YAML.safe_load_file(File.join(ROOT, "_data", "repositories.yml"))
   list = Array(repos["github_repos"]).map { |r| "<li><a href='https://github.com/#{esc(r)}'>#{esc(r)}</a></li>" }
+  list += Array(repos["other_repos"]).map { |r| "<li><a href='#{esc(r["url"])}'>#{esc(r["name"])}</a> (#{esc(r["host"])})</li>" }
+  # The "Other repositories" list on the page duplicates the entries above.
+  article.css("h3").each { |h| h.xpath("following-sibling::*[1][self::ul]").each(&:remove) && h.remove if squish(h.text) == "Other repositories" }
   holder = article.at_css("div.repositories")
   holder&.replace(Nokogiri::HTML.fragment("<ul class='repos'>#{list.join}</ul>"))
   demote!(clean!(article)).inner_html

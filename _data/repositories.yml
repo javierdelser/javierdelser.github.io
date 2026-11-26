@@ -7,3 +7,27 @@ github_repos:
   - javierdelser/AiGAS-OSR-dEVL
   - javierdelser/MTL-PINN
   - javierdelser/QoE_XAI_UQ
+  - aklein1995/D-CRISP
+  - erikberter/FF-OoD_SNN
+  - erikberter/Hebbian_FFA
+  - erikberter/SFFA_CoLLAS
+  - erikberter/PolarFFA
+  - TheMrguiller/A-Systematic-Review-of-Toxicity-in-Large-Language-Models-Definitions-Datasets-Detectors-Detoxifi
+  - TheMrguiller/Collaborative-Content-Moderation
+  - TheMrguiller/R-3-Detox
+  - TheMrguiller/From_Equivalence_To_Label_Flips
+  - aabanda/granularity_tsad
+  - TxusLopez/CURIE
+  - TxusLopez/Streaming_GRF
+  - TxusLopez/streaming_lightHT
+  - TxusLopez/Streaming_CCPP
+  - TxusLopez/CAI2023
+
+# Repositories hosted outside GitHub (listed as links on the Software page).
+other_repos:
+  - name: ipft_biobj_accept
+    url: https://git.code.tecnalia.com/javier.delser/ipft_biobj_accept
+    host: TECNALIA GitLab
+  - name: c-graphesn
+    url: https://git.code.tecnalia.com/javier.delser/c-graphesn
+    host: TECNALIA GitLab

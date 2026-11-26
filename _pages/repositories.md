@@ -37,3 +37,14 @@ I encourage my students to release the code behind their research, and most rece
   {% endfor %}
 </div>
 {% endif %}
+
+{% if site.data.repositories.other_repos %}
+
+### Other repositories
+
+<ul>
+  {% for repo in site.data.repositories.other_repos %}
+    <li><a href="{{ repo.url }}" target="_blank" rel="noopener noreferrer">{{ repo.name }}</a> ({{ repo.host }})</li>
+  {% endfor %}
+</ul>
+{% endif %}
