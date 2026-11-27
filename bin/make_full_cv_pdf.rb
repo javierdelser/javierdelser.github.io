@@ -229,6 +229,20 @@ def names(list)
   end.join(", ")
 end
 
+JCR = begin
+  path = File.join(ROOT, "_data", "jcr.yml")
+  File.exist?(path) ? (YAML.safe_load_file(path) || {}) : {}
+end
+
+# "Q1 · JCR 2020 · IF 12.975 · Computer Science, Theory & Methods (Q1); ..." (see bin/jcr_lookup.py).
+def jcr_text(key)
+  j = JCR[key]
+  return nil unless j
+
+  cats = j["categories"].map { |c| "#{c["name"]} (#{c["quartile"]})" }
+  [j["quartile"], "JCR #{j["jcr_year"]} · IF #{j["jif"]}", cats.join("; ")].compact.reject(&:empty?).join(" · ")
+end
+
 def entry_html(e)
   f = ->(k) { e.field?(k) ? plain(e[k]) : nil }
   title = esc(f.(:title))
@@ -252,6 +266,8 @@ def entry_html(e)
   parts << " <span class='note'>#{esc(f.(:note))}.</span>" if f.(:note)
   parts << " DOI: <a href='https://doi.org/#{esc(doi)}'>#{esc(doi)}</a>" if doi
   parts << " <span class='award'>#{esc(f.(:award_name))}</span>" if f.(:award_name)
+  jcr = jcr_text(e.key.to_s)
+  parts << "<br><span class='jcr'>#{esc(jcr)}</span>" if jcr
   "<li>#{parts.join}</li>"
 end
 
@@ -321,6 +337,7 @@ CSS = <<~CSS
   blockquote { margin: 4px 0 8px; padding-left: 10px; border-left: 3px solid #0b5e8c; color: #333; font-style: italic; }
   .award { background: #0b5e8c; color: #fff; border-radius: 3px; padding: 0 4px; font-size: 7.8pt; white-space: nowrap; }
   .note { color: #a0522d; }
+  .jcr { font-size: 8.2pt; color: #666; }
   a { color: #0b5e8c; text-decoration: none; overflow-wrap: anywhere; }
   tr, li, blockquote { break-inside: avoid; }
 CSS

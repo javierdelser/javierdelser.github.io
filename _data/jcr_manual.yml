@@ -1,0 +1,329 @@
+# JCR indicators that are not in the JCR exports, checked by hand (Web of Science JCR or the publisher).
+# bin/jcr_lookup.py uses an entry when an article's journal and JCR year match and the exports have no data for it.
+# "indexed: false" means the journal is not in the JCR that year: the article shows no JCR line and is not counted.
+# "quartile" is the best quartile of the journal; "categories" lists the WoS categories known for it (may be empty).
+
+# Values from publisher pages
+- journal: IEEE Access
+  jcr_year: 2025
+  jif: 4.2
+  quartile: Q2
+  categories: # quartile and category checked by hand in WoS JCR (November 2026)
+    - { name: "Computer Science, Information Systems", quartile: Q2 }
+  source: https://ieeeaccess.ieee.org/about/bibliometrics/ # "In the 2025 Journal Citation Reports (JCR), IEEE Access received: Impact factor of 4.2"
+- journal: IEEE Geoscience and Remote Sensing Magazine
+  jcr_year: 2025
+  jif: 13.7
+  quartile: Q1
+  categories: # "#1 in Imaging Science, #1 in Remote Sensing (JIF: 13.7)"; rank 1 implies Q1
+    - { name: Imaging Science, quartile: Q1 }
+    - { name: Remote Sensing, quartile: Q1 }
+  source: https://innovate.ieee.org/ieee-journals-continue-to-excel-in-citation-rankings/
+- journal: IEEE/CAA Journal of Automatica Sinica
+  jcr_year: 2024
+  jif: 19.2
+  quartile: Q1
+  categories:
+    - { name: Automation & Control Systems, quartile: Q1 }
+  source: https://www.ieee-jas.net/news/index_tabliod_en/3d2adcbe-8e2c-4852-b8c8-4360ef04c72a_en.htm # "1/89, SCI Q1"
+
+# Values looked up by hand in Web of Science JCR (jcr_manual_entry.xlsx, November 2026)
+- journal: Energy Systems
+  jcr_year: 2025
+  jif: 2.7
+  quartile: Q4
+  categories:
+    - { name: Energy & Fuels, quartile: Q4 }
+- journal: Expert Systems
+  jcr_year: 2025
+  jif: 3.3
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- journal: Fractals
+  jcr_year: 2025
+  jif: 2.9
+  quartile: Q1
+  categories:
+    - { name: "Mathematics, Interdisciplinary Applications", quartile: Q1 }
+- journal: Neural Computing and Applications
+  jcr_year: 2025
+  jif: 4.5
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Artificial Intelligence", quartile: Q2 }
+- journal: Results in Engineering
+  jcr_year: 2025
+  jif: 9.4
+  quartile: Q1
+  categories:
+    - { name: "Engineering, Multidisciplinary", quartile: Q1 }
+- journal: Sensors
+  jcr_year: 2025
+  jif: 4.0
+  quartile: Q2
+  categories:
+    - { name: "Engineering, Electrical & Electronic", quartile: Q2 }
+- journal: Expert Systems
+  jcr_year: 2024
+  jif: 2.3
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- journal: IEEE/ACM Transactions on Computational Biology and Bioinformatics
+  jcr_year: 2024
+  jif: 3.4
+  quartile: Q1
+  categories:
+    - { name: Statistics & Probability, quartile: Q1 }
+- journal: Nature Mental Health
+  jcr_year: 2024
+  jif: 9.3
+  quartile: Q1
+  categories:
+    - { name: Psychiatry, quartile: Q1 }
+- journal: Results in Engineering
+  jcr_year: 2024
+  jif: 7.9
+  quartile: Q1
+  categories:
+    - { name: "Engineering, Multidisciplinary", quartile: Q1 }
+- journal: Sensors
+  jcr_year: 2024
+  jif: 3.5
+  quartile: Q2
+  categories:
+    - { name: "Engineering, Electrical & Electronic", quartile: Q2 }
+- journal: Theoretical and Applied Climatology
+  jcr_year: 2024
+  jif: 2.7
+  quartile: Q3
+  categories:
+    - { name: Meteorology & Atmospheric Sciences, quartile: Q3 }
+- journal: Computers, Environment and Urban Systems
+  jcr_year: 2023
+  jif: 7.1
+  quartile: Q1
+  categories:
+    - { name: Environmental Studies, quartile: Q1 }
+- journal: IEEE Transactions on Emerging Topics in Computational Intelligence
+  jcr_year: 2023
+  jif: 5.3
+  quartile: Q1
+  categories:
+    - { name: "Computer Science, Artificial Intelligence", quartile: Q1 }
+- { journal: Journal of Ambient Intelligence and Humanized Computing, jcr_year: 2023, indexed: false }
+- journal: Applied Sciences
+  jcr_year: 2022
+  jif: 2.7
+  quartile: Q2
+  categories:
+    - { name: "Engineering, Multidisciplinary", quartile: Q2 }
+- journal: DYNA
+  jcr_year: 2022
+  jif: 1.0
+  quartile: Q4
+  categories:
+    - { name: "Engineering, Multidisciplinary", quartile: Q4 }
+- journal: Physics Reports
+  jcr_year: 2022
+  jif: 29.9
+  quartile: Q1
+  categories:
+    - { name: "Physics, Multidisciplinary", quartile: Q1 }
+- { journal: "arXiv preprint arXiv:2104.00950", jcr_year: 2021, indexed: false }
+- journal: International Journal for Numerical Methods in Engineering
+  jcr_year: 2021
+  jif: 3.021
+  quartile: Q2
+  categories:
+    - { name: "Mathematics, Interdisciplinary Applications", quartile: Q2 }
+- { journal: Journal of Big Data Analytics in Transportation, jcr_year: 2021, indexed: false }
+- journal: Computational Geosciences
+  jcr_year: 2020
+  jif: 2.413
+  quartile: Q3
+  categories:
+    - { name: "Computer Science, Interdisciplinary Applications", quartile: Q3 }
+- journal: Energies
+  jcr_year: 2020
+  jif: 3.004
+  quartile: Q3
+  categories:
+    - { name: Energy & Fuels, quartile: Q3 }
+- journal: Expert Systems
+  jcr_year: 2020
+  jif: 2.587
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- { journal: IEEE MMTC Communications Frontiers, jcr_year: 2019, indexed: false }
+- journal: Medical & Biological Engineering & Computing
+  jcr_year: 2019
+  jif: 2.022
+  quartile: Q2
+  categories:
+    - { name: Mathematical & Computational Biology, quartile: Q2 }
+- journal: DYNA
+  jcr_year: 2018
+  jif: 0.629
+  quartile: Q4
+  categories:
+    - { name: "Engineering, Multidisciplinary", quartile: Q4 }
+- journal: Expert Systems
+  jcr_year: 2018
+  jif: 1.505
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- journal: IET Intelligent Transport Systems
+  jcr_year: 2018
+  jif: 2.05
+  quartile: Q3
+  categories:
+    - { name: Transportation Science & Technology, quartile: Q3 }
+- journal: Energy
+  jcr_year: 2017
+  jif: 4.968
+  quartile: Q1
+  categories:
+    - { name: Energy & Fuels, quartile: Q1 }
+- journal: International Journal of Bioinspired Computation
+  jcr_year: 2017
+  jif: 2.266
+  quartile: Q1
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q1 }
+- journal: Microprocessors and Microsystems
+  jcr_year: 2017
+  jif: 1.049
+  quartile: Q3
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q3 }
+- journal: Sensors
+  jcr_year: 2017
+  jif: 2.475
+  quartile: Q1
+  categories:
+    - { name: Instruments & Instrumentation, quartile: Q1 }
+- journal: "Concurrency and Computation: Practice and Experience"
+  jcr_year: 2016
+  jif: 1.133
+  quartile: Q3
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q3 }
+- journal: Expert Systems
+  jcr_year: 2016
+  jif: 1.18
+  quartile: Q3
+  categories:
+    - { name: "Computer Science, Artificial Intelligence", quartile: Q3 }
+- journal: Energies
+  jcr_year: 2015
+  jif: 2.077
+  quartile: Q2
+  categories:
+    - { name: Energy & Fuels, quartile: Q2 }
+- journal: Energy Conversion and Management
+  jcr_year: 2015
+  jif: 4.801
+  quartile: Q1
+  categories:
+    - { name: Energy & Fuels, quartile: Q1 }
+- journal: Engineering Optimization
+  jcr_year: 2015
+  jif: 1.38
+  quartile: Q2
+  categories:
+    - { name: Operations Research & Management Science, quartile: Q2 }
+- journal: International Journal of Bioinspired Computation
+  jcr_year: 2015
+  jif: 1.39
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- journal: Journal of Universal Computer Science (JUCS)
+  jcr_year: 2015
+  jif: 0.546
+  quartile: Q4
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q4 }
+- journal: Renewable Energy
+  jcr_year: 2015
+  jif: 3.404
+  quartile: Q2
+  categories:
+    - { name: Energy & Fuels, quartile: Q2 }
+- journal: The Scientific World Journal
+  jcr_year: 2014
+  jif: 0.997
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Theory & Methods", quartile: Q2 }
+- journal: TOP
+  jcr_year: 2014
+  jif: 0.831
+  quartile: Q4
+  categories:
+    - { name: Operations Research & Management Science, quartile: Q4 }
+- journal: Wireless Networks
+  jcr_year: 2014
+  jif: 0.961
+  quartile: Q3
+  categories:
+    - { name: Telecommunications, quartile: Q3 }
+- journal: "International Journal of Numerical Modelling: Electronic Networks, Devices and Fields"
+  jcr_year: 2013
+  jif: 0.629
+  quartile: Q4
+  categories:
+    - { name: "Mathematics, Interdisciplinary Applications", quartile: Q4 }
+- journal: Soft Computing
+  jcr_year: 2013
+  jif: 1.304
+  quartile: Q2
+  categories:
+    - { name: "Computer Science, Artificial Intelligence", quartile: Q2 }
+- journal: EURASIP Journal on Wireless Communications and Networking
+  jcr_year: 2012
+  jif: 0.54
+  quartile: Q3
+  categories:
+    - { name: Telecommunications, quartile: Q3 }
+- journal: IEEE Communications Letters
+  jcr_year: 2012
+  jif: 1.16
+  quartile: Q2
+  categories:
+    - { name: Telecommunications, quartile: Q2 }
+- { journal: Journal of Green Engineering, jcr_year: 2012, indexed: false }
+- journal: EURASIP Journal on Wireless Communications and Networking
+  jcr_year: 2011
+  jif: 0.873
+  quartile: Q3
+  categories:
+    - { name: Telecommunications, quartile: Q3 }
+- journal: IEEE Communications Letters
+  jcr_year: 2010
+  jif: 1.06
+  quartile: Q2
+  categories:
+    - { name: Telecommunications, quartile: Q2 }
+- journal: IEEE Communications Letters
+  jcr_year: 2009
+  jif: 1.14
+  quartile: Q2
+  categories:
+    - { name: Telecommunications, quartile: Q2 }
+- journal: AEU - International Journal of Electronics and Communications
+  jcr_year: 2008
+  jif: 0.371
+  quartile: Q3
+  categories:
+    - { name: Telecommunications, quartile: Q3 }
+- journal: EURASIP Journal on Wireless Communications and Networking
+  jcr_year: 2005
+  jif: 0.976
+  quartile: Q2
+  categories:
+    - { name: Telecommunications, quartile: Q2 }

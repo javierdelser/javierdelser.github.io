@@ -113,8 +113,8 @@ def build_html(cv):
 
     parts.append(
         "<h2>Research output (summary)</h2><ul>"
-        "<li>223 JCR journal articles (85% Q1, 35% D1), 238 conference contributions, 8+ book chapters and 5 edited books.</li>"
-        "<li>45 national and 23 international research projects (leading 13 and 4), 22 contracts with companies (leading 3).</li>"
+        "<li>232 JCR journal articles, 219 conference contributions, 8+ book chapters and 5 edited books.</li>"
+        "<li>53 national and 31 international research projects (leading 16 and 4), 22 contracts with companies (leading 6).</li>"
         "<li>Co-inventor of 9+ patents and 3 IP assets transferred to industry.</li>"
         "<li>20 PhD theses supervised (19 defended, one awaiting defence; 2 Extraordinary PhD Awards) and more than 45 BSc/MSc theses.</li>"
         "</ul>"

@@ -9,11 +9,11 @@ toc:
   sidebar: left
 ---
 
-Over my career I have taken part in **45 national and 23 international research projects**, leading 13 and 4 of them respectively, and in **22 contracts with companies** (about 2M€ in total), leading 3 of them. I have been principal investigator of several strategic AI initiatives in the Basque Country (BID3A, BID3ABI, 3KIA, BEREZ-IA), with industrial steering committees that included Iberdrola, Petronor, Ingeteam, Fagor Ederlan, Sidenor, ULMA, Orona and Danobat, among others. The lists on this page are **not exhaustive**: they show a selection of the projects and contracts I have been involved in.
+Over my career I have taken part in **53 national and 31 international research projects**, leading 16 and 4 of them respectively, and in **22 contracts with companies** (about 2M€ in total), leading 6 of them. I have been principal investigator of several strategic AI initiatives in the Basque Country (BID3A, BID3ABI, 3KIA, BEREZ-IA), with industrial steering committees that included Iberdrola, Petronor, Ingeteam, Fagor Ederlan, Sidenor, ULMA, Orona and Danobat, among others. The lists on this page are **not exhaustive**: they show a selection of the projects and contracts I have been involved in.
 
 <div class="row text-center mt-4 mb-3">
-  <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-earth-europe fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">23</h4><small class="text-muted">international projects<br>(4 as PI)</small></div>
-  <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-landmark fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">45</h4><small class="text-muted">national &amp; regional projects<br>(13 as PI)</small></div>
+  <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-earth-europe fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">31</h4><small class="text-muted">international projects<br>(4 as PI)</small></div>
+  <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-landmark fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">53</h4><small class="text-muted">national &amp; regional projects<br>(16 as PI)</small></div>
   <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-handshake fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">22</h4><small class="text-muted">contracts with companies<br>(≈2M€)</small></div>
   <div class="col-6 col-md-3 mb-3"><i class="fa-solid fa-lightbulb fa-2x mb-2" style="color: var(--global-theme-color)"></i><h4 class="mb-0">9+</h4><small class="text-muted">patents and 3 IP assets<br>transferred to industry</small></div>
 </div>

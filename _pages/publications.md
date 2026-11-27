@@ -14,8 +14,8 @@ chart:
 <div class="row text-center mb-3">
   <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,954</h4><small class="text-muted">citations (Google Scholar)<br>42,292 since 2021</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line mb-2 text-muted"></i><h4 class="mb-0">76 / 271</h4><small class="text-muted">h-index / i10-index</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">223</h4><small class="text-muted">JCR articles (85% Q1, 35% D1)</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">238</h4><small class="text-muted">conference contributions</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">232</h4><small class="text-muted">JCR articles<br>82% Q1 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">219</h4><small class="text-muted">conference contributions</small></div>
 </div>
 
 <div class="mb-2" style="position: relative; height: 320px">
@@ -39,6 +39,7 @@ Profiles:
 <a href="https://orcid.org/0000-0002-1260-9775" target="_blank">ORCID</a> ·
 <a href="https://dblp.org/pid/94/1127.html" target="_blank">DBLP</a> · <a href="https://www.scopus.com/authid/detail.uri?authorId=9737598300" target="_blank">Scopus</a> ·
 <a href="https://www.webofscience.com/wos/author/record/J-2187-2014" target="_blank">Web of Science (J-2187-2014)</a>.
+Journal articles show the indicators of the journal in the <a href="https://jcr.clarivate.com" target="_blank">Journal Citation Reports</a> (JCR) of their publication year (JCR 2025 for papers from 2025 onwards): impact factor (IF) and quartile in each Web of Science category.
 Award-winning papers show an award button next to their links. Use the search box to filter by title, author, venue or year.
 </p>
 

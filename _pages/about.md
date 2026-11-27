@@ -51,7 +51,7 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
 <div class="row text-center mt-4 mb-4">
   <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right fa-lg mb-2 text-muted"></i><h3 class="mb-0">46,954</h3><small class="text-muted">citations<br>(Google Scholar)</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line fa-lg mb-2 text-muted"></i><h3 class="mb-0">76</h3><small class="text-muted">h-index<br>(i10-index: 271)</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open fa-lg mb-2 text-muted"></i><h3 class="mb-0">220+</h3><small class="text-muted">JCR journal articles<br>(85% Q1, 35% D1)</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open fa-lg mb-2 text-muted"></i><h3 class="mb-0">232</h3><small class="text-muted">JCR journal articles</small></div>
   <div class="col-6 col-md-3"><i class="fa-solid fa-user-graduate fa-lg mb-2 text-muted"></i><h3 class="mb-0">20</h3><small class="text-muted">PhD theses supervised<br>(19 defended, 1 awaiting defence)</small></div>
 </div>
 <p class="text-center text-muted small">Citation metrics from <a href="https://scholar.google.com/citations?user=p_wY0zUAAAAJ" target="_blank">Google Scholar</a>, November 2026.</p>
