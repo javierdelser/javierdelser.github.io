@@ -6,11 +6,11 @@ importance: 3
 category: Trustworthy AI
 permalink: /research/open-world-ml/
 related_publications: false
-img: assets/img/research/research_openworld.jpg
+img: assets/img/research/research_openworld.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_openworld.jpg" class="img-fluid rounded z-depth-1" alt="Known-class clusters inside a protective dome, with unfamiliar out-of-distribution samples outside it" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_openworld.png" class="img-fluid rounded z-depth-1" alt="Diagram of open-world machine learning: known classes and unknown samples in feature space, score distributions separating in-distribution from out-of-distribution data with a threshold, a regression model with uncertainty bands, and the accuracy of a robust versus a standard model under increasing perturbation" %}
 </div>
 
 Deployed models constantly face inputs unlike their training data. This line develops methods that let ML models **know what they do not know**: detecting out-of-distribution (OOD) inputs, recognizing unknown classes in data streams, quantifying uncertainty, and balancing performance, efficiency and robustness.

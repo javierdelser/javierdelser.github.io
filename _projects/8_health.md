@@ -6,11 +6,11 @@ importance: 8
 category: Applications
 permalink: /research/health/
 related_publications: false
-img: assets/img/research/research_health.jpg
+img: assets/img/research/research_health.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_health.jpg" class="img-fluid rounded z-depth-1" alt="A clinician analysing an AI-assisted brain scan next to an MRI scanner" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_health.png" class="img-fluid rounded z-depth-1" alt="Diagram of AI for health: a brain MRI with a saliency map and a lesion, a chest X-ray with a detected nodule, an ECG with an abnormal beat highlighted, and data from several hospitals harmonised into a common distribution" %}
 </div>
 
 Healthcare is a demanding test bed for trustworthy AI: models must be accurate, robust to data shifts, explainable to clinicians and compliant with regulation. This line develops deep learning methods for medical imaging and clinical data, together with information fusion and design frameworks that make medical AI reliable and auditable. Much of it is done with long-standing partners such as Imperial College London and BOKU University Vienna.

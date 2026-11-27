@@ -6,11 +6,11 @@ importance: 4
 category: Learning & Optimization
 permalink: /research/neuromorphic-continual-learning/
 related_publications: false
-img: assets/img/research/research_neuromorphic.jpg
+img: assets/img/research/research_neuromorphic.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_neuromorphic.jpg" class="img-fluid rounded z-depth-1" alt="Spiking neurons processing a drifting data stream and adapting over time" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_neuromorphic.png" class="img-fluid rounded z-depth-1" alt="Diagram of neuromorphic and continual learning: input spikes driving a leaky integrate-and-fire neuron, forward-forward training with positive and negative data and local goodness instead of backpropagation, and a data stream with concept drift where accuracy drops and recovers" %}
 </div>
 
 Real-world data arrive continuously and change over time, and energy budgets are limited. This line studies **brain-inspired** and **energy-efficient** learning paradigms that adapt online.

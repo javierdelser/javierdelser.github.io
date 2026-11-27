@@ -6,11 +6,11 @@ importance: 5
 category: Learning & Optimization
 permalink: /research/reinforcement-learning/
 related_publications: false
-img: assets/img/research/research_rl.jpg
+img: assets/img/research/research_rl.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.jpg" class="img-fluid rounded z-depth-1" alt="A robot agent finding its path to a goal flag through a grid of obstacles, with a rising reward curve" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_rl.png" class="img-fluid rounded z-depth-1" alt="Diagram of reinforcement learning: an agent's path from the start to a key and a goal in a grid world with a novelty map, an LLM planner giving subgoals to a policy that interacts with the environment and receives intrinsic rewards, and learning curves where LLM-guided and intrinsically motivated agents outperform extrinsic rewards alone" %}
 </div>
 
 This line studies how reinforcement learning (RL) agents can learn efficiently when rewards are sparse, and how **pretrained foundation models** (vision-language models and LLMs) can guide them through intrinsic motivation, high-level language prompts and structured task decomposition.

@@ -6,11 +6,11 @@ importance: 6
 category: Learning & Optimization
 permalink: /research/evolutionary-computation/
 related_publications: false
-img: assets/img/research/research_evolutionary.jpg
+img: assets/img/research/research_evolutionary.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_evolutionary.jpg" class="img-fluid rounded z-depth-1" alt="A swarm of agents exploring a mountainous optimization landscape towards a glowing Pareto front" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_evolutionary.png" class="img-fluid rounded z-depth-1" alt="Diagram of evolutionary computation: a particle swarm converging to the global optimum, a Pareto front and its hypervolume in a bi-objective space, knowledge transfer between two optimization tasks, and a genome mutation that rewires a neural network" %}
 </div>
 
 **Bio-inspired optimization and metaheuristics** have been part of my research since the late 2000s and a constant thread since my second PhD (2013). I study them as a field in its own right and as a tool for designing and improving learning systems (**evolutionary machine learning**).

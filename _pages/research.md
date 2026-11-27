@@ -73,3 +73,14 @@ My research aims to make Artificial Intelligence **trustworthy, robust and usefu
   {% endif %}
 {% endif %}
 </div>
+
+<style>
+  /* Leave a margin between each research-line figure and the border of its card. */
+  .projects .card figure {
+    margin: 0;
+    padding: 1.25rem 1.25rem 0;
+  }
+  .projects .card .card-img-top {
+    border-radius: 0.25rem;
+  }
+</style>

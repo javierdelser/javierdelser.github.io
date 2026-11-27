@@ -6,11 +6,11 @@ importance: 7
 category: Applications
 permalink: /research/transportation/
 related_publications: false
-img: assets/img/research/research_transport.jpg
+img: assets/img/research/research_transport.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_transport.jpg" class="img-fluid rounded z-depth-1" alt="A smart city with highways, trains and traffic flows overlaid with forecasts" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_transport.png" class="img-fluid rounded z-depth-1" alt="Diagram of intelligent transportation: detection of a car, a person and a traffic sign with the drivable area, a route from origin to destination avoiding congestion on a city grid, a traffic speed forecast for the evening peak, and traffic signal control at an intersection with a queue" %}
 </div>
 
 Transportation has been one of my main application domains for more than fifteen years, from early work on vehicular communications and traffic-light preemption for emergency vehicles to current research on perception for autonomous driving. I was **General Chair of IEEE ITSC 2023** (Bilbao) and serve as Associate Editor of _IEEE Transactions on Intelligent Transportation Systems_.

@@ -6,11 +6,11 @@ importance: 9
 category: Applications
 permalink: /research/energy-climate/
 related_publications: false
-img: assets/img/research/research_energy.jpg
+img: assets/img/research/research_energy.png
 ---
 
-<div class="mb-4">
-  {% include figure.liquid loading="eager" path="assets/img/research/research_energy.jpg" class="img-fluid rounded z-depth-1" alt="Wind turbines, solar panels and the power grid beneath a globe with climate maps and a hurricane" %}
+<div class="mb-4 mx-auto" style="max-width: 720px">
+  {% include figure.liquid loading="eager" path="assets/img/research/research_energy.png" class="img-fluid rounded z-depth-1" alt="Diagram of AI for energy and climate: solar, wind and the grid supplying demand, a temperature anomaly map with a heatwave and a storm, bearing vibration and its spectrum with fault harmonics, and summer temperatures exceeding the 90th percentile during a heatwave" %}
 </div>
 
 Applied AI for the energy transition and for climate science: forecasting and anomaly detection in power and renewable energy systems, predictive maintenance of industrial and offshore assets, and machine learning for weather, climate extremes and complex systems.
