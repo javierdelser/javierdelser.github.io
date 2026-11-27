@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: Awards
-    permalink: /awards/
+  - title: CV
+    permalink: /cv/
   - title: Talks & Service
     permalink: /service/
   - title: Teaching

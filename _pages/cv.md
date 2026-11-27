@@ -2,8 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
-nav_order: 6
+nav: false
 cv_pdf_summary: /assets/pdf/Javier_Del_Ser_CV.pdf
 cv_pdf_full: /assets/pdf/Javier_Del_Ser_Full_CV.pdf
 cv_format: rendercv

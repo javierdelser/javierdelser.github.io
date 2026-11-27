@@ -3,7 +3,8 @@ layout: page
 title: Awards
 permalink: /awards/
 description: Awards, distinctions and recognitions.
-nav: false
+nav: true
+nav_order: 6
 ---
 
 ## <i class="fa-solid fa-trophy"></i> Research recognition

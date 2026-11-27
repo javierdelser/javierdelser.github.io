@@ -33,7 +33,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a **Principal Investigator (PI)** in the Applied Artificial Intelligence area of [TECNALIA Research & Innovation](https://www.tecnalia.com) and a **Distinguished Researcher** at the Department of Mathematics of the [University of the Basque Country (EHU)](https://www.ehu.eus). I am also a **Distinguished Visiting Professor** at the [University of Granada](https://www.ugr.es) (Spain) and a **Visiting Professor** at [BOKU University](https://boku.ac.at) (Vienna, Austria). I am also an external scientific member of the [Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org), and I am the Scientific Director of the [Joint Research Lab in Applied Artificial Intelligence (JRL-A2I)](https://www.jrl-a2i.science/), an initiative of TECNALIA, EHU and BCAM that builds a shared strategic research agenda around AI.
+I am a **Principal Investigator (PI)** in the Applied Artificial Intelligence area of [TECNALIA Research & Innovation](https://www.tecnalia.com) and a **Distinguished Researcher** at the Department of Mathematics of the [University of the Basque Country (EHU)](https://www.ehu.eus). I am also an **External Scientific Member** of the [Basque Center for Applied Mathematics (BCAM)](https://www.bcamath.org) and the Scientific Director of the [Joint Research Lab in Applied Artificial Intelligence (JRL-A2I)](https://www.jrl-a2i.science/), an initiative of TECNALIA, EHU and BCAM, supported by [Euskampus Fundazioa](https://www.euskampus.eus), that builds a shared strategic research agenda around AI. In addition, I am a **Distinguished Visiting Professor** at the [University of Granada](https://www.ugr.es) (Spain) and a **Visiting Professor** at [BOKU University](https://boku.ac.at) (Vienna, Austria).
 
 My research covers **Artificial Intelligence, Machine Learning and Deep Learning** applied to modeling and optimization problems in industry, health, transportation, energy and mobility, among other sectors. I am best known for my work on **Trustworthy and Responsible AI**, including explainability, fairness, robustness, AI safety and human-centric AI, and on **Evolutionary Computation and Swarm Intelligence**. My main contributions in these areas include generative models for counterfactual explanations, frameworks for auditing and evaluating AI-based systems, applications of general-purpose AI systems, and evolutionary machine learning.
 
@@ -47,6 +47,20 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
     <img class="logo-dark" src="{{ '/assets/img/logos/ehu_white.svg' | relative_url }}" alt="EHU – University of the Basque Country" height="94">
   </a>
 </div>
+<div class="affiliation-logos affiliation-logos-small d-flex flex-wrap align-items-center justify-content-center mb-2">
+  <a href="https://www.bcamath.org" target="_blank" title="Basque Center for Applied Mathematics (BCAM)">
+    <img class="logo-light" src="{{ '/assets/img/logos/bcam.png' | relative_url }}" alt="BCAM – Basque Center for Applied Mathematics" height="50">
+    <img class="logo-dark" src="{{ '/assets/img/logos/bcam_white.png' | relative_url }}" alt="BCAM – Basque Center for Applied Mathematics" height="50">
+  </a>
+  <a href="https://www.jrl-a2i.science/" target="_blank" title="Joint Research Lab in Applied Artificial Intelligence (JRL-A2I)">
+    <img class="logo-light" src="{{ '/assets/img/logos/jrl-a2i.png' | relative_url }}" alt="JRL-A2I" height="54">
+    <img class="logo-dark" src="{{ '/assets/img/logos/jrl-a2i_white.png' | relative_url }}" alt="JRL-A2I" height="54">
+  </a>
+  <a href="https://www.euskampus.eus" target="_blank" title="Euskampus Fundazioa">
+    <img class="logo-light" src="{{ '/assets/img/logos/euskampus.png' | relative_url }}" alt="Euskampus Fundazioa" height="40">
+    <img class="logo-dark" src="{{ '/assets/img/logos/euskampus_white.png' | relative_url }}" alt="Euskampus Fundazioa" height="40">
+  </a>
+</div>
 
 <div class="row text-center mt-4 mb-4">
   <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right fa-lg mb-2 text-muted"></i><h3 class="mb-0">47,067</h3><small class="text-muted">citations<br>(Google Scholar)</small></div>
@@ -58,6 +72,7 @@ My research covers **Artificial Intelligence, Machine Learning and Deep Learning
 
 <style>
   .affiliation-logos { gap: 3.5rem; }
+  .affiliation-logos-small { gap: 2.5rem; }
   .affiliation-logos .logo-dark { display: none; }
   html[data-theme="dark"] .affiliation-logos .logo-light { display: none; }
   html[data-theme="dark"] .affiliation-logos .logo-dark { display: inline; }
