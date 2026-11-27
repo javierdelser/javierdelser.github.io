@@ -12,10 +12,10 @@ chart:
 <!-- _pages/publications.md -->
 
 <div class="row text-center mb-3">
-  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">46,954</h4><small class="text-muted">citations (Google Scholar)<br>42,292 since 2021</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line mb-2 text-muted"></i><h4 class="mb-0">76 / 271</h4><small class="text-muted">h-index / i10-index</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">232</h4><small class="text-muted">JCR articles<br>82% Q1 since 2021</small></div>
-  <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">219</h4><small class="text-muted">conference contributions</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-quote-right mb-2 text-muted"></i><h4 class="mb-0">47,067</h4><small class="text-muted">citations (Google Scholar)<br>42,394 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-chart-line mb-2 text-muted"></i><h4 class="mb-0">76 / 273</h4><small class="text-muted">h-index / i10-index<br>72 / 222 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-book-open mb-2 text-muted"></i><h4 class="mb-0">236</h4><small class="text-muted">JCR articles<br>80% Q1 since 2021</small></div>
+  <div class="col-6 col-md-3"><i class="fa-solid fa-people-group mb-2 text-muted"></i><h4 class="mb-0">226</h4><small class="text-muted">conference contributions</small></div>
 </div>
 
 <div class="mb-2" style="position: relative; height: 320px">

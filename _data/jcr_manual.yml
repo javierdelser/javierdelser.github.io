@@ -327,3 +327,15 @@
   quartile: Q2
   categories:
     - { name: Telecommunications, quartile: Q2 }
+- journal: Transportation Research Interdisciplinary Perspectives
+  jcr_year: 2025
+  jif: 4.8
+  quartile: Q2
+  categories:
+    - { name: Transportation, quartile: Q2 }
+- journal: Procesamiento del Lenguaje Natural
+  jcr_year: 2025
+  jif: 0.9
+  quartile: Q3
+  categories:
+    - { name: Linguistics, quartile: Q3 }

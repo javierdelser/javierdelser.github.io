@@ -132,6 +132,13 @@ bilbao2018costefficient:
   jcr_year: 2018
   jif: 4.072
   quartile: Q1
+bilbao2025improving:
+  categories:
+  - name: Linguistics
+    quartile: Q3
+  jcr_year: 2025
+  jif: 0.9
+  quartile: Q3
 cabero2014novel:
   categories:
   - name: Telecommunications
@@ -943,6 +950,13 @@ manibardo2023graphbased:
   jcr_year: 2023
   jif: 7.9
   quartile: Q1
+manibardo2026multi:
+  categories:
+  - name: Transportation
+    quartile: Q2
+  jcr_year: 2025
+  jif: 4.8
+  quartile: Q2
 manjarres2013design:
   categories:
   - name: Computer Science, Artificial Intelligence
@@ -1054,6 +1068,15 @@ molina2025evolutionary:
     quartile: Q1
   jcr_year: 2025
   jif: 15.9
+  quartile: Q1
+molina2025paradox:
+  categories:
+  - name: Computer Science, Theory & Methods
+    quartile: Q1
+  - name: Computer Science, Artificial Intelligence
+    quartile: Q1
+  jcr_year: 2025
+  jif: 9.6
   quartile: Q1
 morenosanchez2025design:
   categories:
@@ -1408,6 +1431,13 @@ rivera2026physicsaware:
   jcr_year: 2025
   jif: 7.6
   quartile: Q1
+rodriguezidiazabal2026semi:
+  categories:
+  - name: Computer Science, Theory & Methods
+    quartile: Q2
+  jcr_year: 2025
+  jif: 3.3
+  quartile: Q2
 rozajac2025explaining:
   categories:
   - name: Computer Science, Theory & Methods
