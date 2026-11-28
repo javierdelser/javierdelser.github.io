@@ -70,9 +70,18 @@ cv:
           - Best overall rated lecturer by the students in all six editions of the master programme.
 
       - company: Basque Center for Applied Mathematics (BCAM)
-        position: External Scientific Member (by invitation), formerly Visiting Researcher in the Data Science group
+        position: External Scientific Member (by invitation)
         location: Bilbao, Spain
         url: https://www.bcamath.org
+        start_date: 2019-01
+        end_date: present
+
+      - company: Basque Center for Applied Mathematics (BCAM)
+        position: Visiting Researcher, Data Science group
+        location: Bilbao, Spain
+        url: https://www.bcamath.org
+        start_date: 2017-01
+        end_date: 2018-12
 
       - company: Fundación Robotiker (now part of TECNALIA)
         position: Senior Research Scientist, TELECOM Unit
